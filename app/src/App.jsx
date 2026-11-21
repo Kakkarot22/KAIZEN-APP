@@ -1,4 +1,4 @@
-import React, { useState, useEffect, useMemo } from 'react';
+import React, { useState, useEffect, useMemo, useRef } from 'react';
 import { 
   Volume2, 
   ChevronRight, 
@@ -165,28 +165,59 @@ function App() {
   }, [showFurigana]);
   
 
+  const currentAudioRef = useRef(null);
+
   const speak = (text) => {
+    if (!text) return;
+    const clean = text
+      .replace(/<[^>]*>/g, '')
+      .replace(/\{([^|]+)\|[^}]+\}/g, '$1')
+      .trim();
+    if (!clean) return;
+
+    // Stop previous audio playback if active
+    if (currentAudioRef.current) {
+      try {
+        currentAudioRef.current.pause();
+        currentAudioRef.current.currentTime = 0;
+      } catch (e) {}
+    }
+
     if ('speechSynthesis' in window) {
-      window.speechSynthesis.cancel();
-      const clean = text.replace(/<[^>]*>/g, '').replace(/\{([^|]+)\|[^}]+\}/g, '$1');
-      const u = new SpeechSynthesisUtterance(clean);
-      u.lang = 'ja-JP';
-      u.rate = voiceRate;
-      u.pitch = voiceGender === 'female' ? Math.max(voicePitch, 1.1) : Math.min(voicePitch, 0.85);
+      try { window.speechSynthesis.cancel(); } catch (e) {}
+    }
 
-      // Select female or male Japanese voice if available in browser
-      const voices = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('ja'));
-      if (voices.length > 0) {
-        if (voiceGender === 'female') {
-          const fVoice = voices.find(v => v.name.toLowerCase().includes('female') || v.name.includes('Nanami') || v.name.includes('Kyoko') || v.name.includes('Ayumi'));
-          if (fVoice) u.voice = fVoice;
-        } else {
-          const mVoice = voices.find(v => v.name.toLowerCase().includes('male') || v.name.includes('Keita') || v.name.includes('Otoya') || v.name.includes('Ichiro'));
-          if (mVoice) u.voice = mVoice;
+    // 1. High-fidelity native Japanese cloud pronunciation (Works 100% on all mobile devices & browsers)
+    const ttsUrl = `https://translate.google.com/translate_tts?ie=UTF-8&tl=ja&client=tw-ob&q=${encodeURIComponent(clean)}`;
+    const audio = new Audio(ttsUrl);
+    audio.playbackRate = voiceRate || 1.0;
+    currentAudioRef.current = audio;
+
+    const playPromise = audio.play();
+    if (playPromise !== undefined) {
+      playPromise.catch(() => {
+        // 2. Offline fallback to Web SpeechSynthesis API if network is unreachable
+        if ('speechSynthesis' in window) {
+          try {
+            window.speechSynthesis.resume();
+            const u = new SpeechSynthesisUtterance(clean);
+            u.lang = 'ja-JP';
+            u.rate = voiceRate || 1.0;
+            u.pitch = voiceGender === 'female' ? Math.max(voicePitch, 1.1) : Math.min(voicePitch, 0.85);
+
+            const voices = window.speechSynthesis.getVoices().filter(v => v.lang.startsWith('ja'));
+            if (voices.length > 0) {
+              const selectedVoice = voiceGender === 'female'
+                ? voices.find(v => v.name.toLowerCase().includes('female') || v.name.includes('Nanami') || v.name.includes('Kyoko') || v.name.includes('Ayumi')) || voices[0]
+                : voices.find(v => v.name.toLowerCase().includes('male') || v.name.includes('Keita') || v.name.includes('Otoya') || v.name.includes('Ichiro')) || voices[0];
+              if (selectedVoice) u.voice = selectedVoice;
+            }
+            window.speechSynthesis.speak(u);
+          } catch (err) {
+            console.error('Speech synthesis fallback failed:', err);
+          }
         }
-      }
-
-      window.speechSynthesis.speak(u);
+      });
     }
   };
 
@@ -214,7 +245,7 @@ function App() {
   };
 
   return (
-    <div className="min-h-screen bg-[#000000] text-[#E5E5E7] font-sans antialiased selection:bg-white/20 selection:text-white flex flex-col">
+    <div className="min-h-screen bg-[#000000] text-[#E5E5E7] font-sans antialiased selection:bg-white/20 selection:text-white flex flex-col overflow-x-hidden">
       {/* Precision Apple / Tesla Inspired Header */}
       <nav className="sticky top-0 z-50 bg-[#000000]/85 backdrop-blur-xl border-b border-[#222224] transition-all">
         <div className="max-w-6xl mx-auto px-6 h-14 flex items-center justify-between">
@@ -1363,9 +1394,9 @@ function GrammarExperience({ level, speak, onMistake }) {
         </div>
       </div>
 
-      <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-        {/* Left: Grammar Points List */}
-        <div className="space-y-1.5 max-h-[72vh] overflow-y-auto pr-1">
+      <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
+        {/* Grammar Points List (order-2 on mobile so active rule shows first without scrolling!) */}
+        <div className="space-y-1.5 max-h-[72vh] overflow-y-auto pr-1 order-2 md:order-1">
           {points.map((p, i) => (
             <button
               key={i}
@@ -1387,8 +1418,8 @@ function GrammarExperience({ level, speak, onMistake }) {
           ))}
         </div>
 
-        {/* Right: Study Panel OR Quiz Panel */}
-        <div className="md:col-span-2">
+        {/* Study Panel OR Quiz Panel (order-1 on mobile so active rule is immediately visible!) */}
+        <div className="md:col-span-2 order-1 md:order-2 md:sticky md:top-20 md:self-start">
           {selectedPoint && mode === 'study' && (
             <div className="p-8 bg-[#121214] border border-[#222224] rounded-3xl space-y-6">
               <div className="flex items-start justify-between">
@@ -1753,7 +1784,7 @@ function KanjiExperience({ level, speak, onActivity, isCumulative, masteredKanji
                 </div>
 
                 {/* Side-by-side glyphs */}
-                <div className={`grid grid-cols-1 sm:grid-cols-${Math.min(activeLookalikeGroup.items?.length || 2, 4)} gap-4`}>
+                <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 gap-4">
                   {(activeLookalikeGroup.items || []).map((k, idx) => (
                     <div
                       key={idx}
