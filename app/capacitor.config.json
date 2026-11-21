@@ -3,7 +3,8 @@
   "appName": "KAIZEN JLPT",
   "webDir": "dist",
   "server": {
+    "url": "https://kaizen-everyday.vercel.app",
+    "cleartext": true,
     "androidScheme": "https"
   }
 }
-
