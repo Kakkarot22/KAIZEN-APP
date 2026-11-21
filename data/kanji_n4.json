@@ -1,0 +1,3562 @@
+[
+  {
+    "kanji": "悪",
+    "meaning": "bad, evil",
+    "onyomi": [
+      "アク",
+      "オ"
+    ],
+    "onyomi_raw": "アク・オ",
+    "kunyomi": [
+      "わる.い"
+    ],
+    "kunyomi_raw": "わる.い",
+    "components": "亜 + 心 heart",
+    "story": "A heart that is second-rate: bad.",
+    "examples": [
+      {
+        "word": "悪い",
+        "reading": "わるい",
+        "meaning": "bad"
+      },
+      {
+        "word": "最悪",
+        "reading": "さいあく",
+        "meaning": "the worst"
+      }
+    ]
+  },
+  {
+    "kanji": "暗",
+    "meaning": "dark",
+    "onyomi": [
+      "アン"
+    ],
+    "onyomi_raw": "アン",
+    "kunyomi": [
+      "くら.い"
+    ],
+    "kunyomi_raw": "くら.い",
+    "components": "日 sun + 音 sound",
+    "story": "The sun is gone and you only hear sounds: dark.",
+    "examples": [
+      {
+        "word": "暗い",
+        "reading": "くらい",
+        "meaning": "dark"
+      },
+      {
+        "word": "暗記",
+        "reading": "あんき",
+        "meaning": "memorizing"
+      }
+    ]
+  },
+  {
+    "kanji": "医",
+    "meaning": "medicine, doctor",
+    "onyomi": [
+      "イ"
+    ],
+    "onyomi_raw": "イ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "匚 box + 矢 arrow",
+    "story": "A box for pulling out arrows: the doctor's kit.",
+    "examples": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "doctor"
+      },
+      {
+        "word": "医学",
+        "reading": "いがく",
+        "meaning": "medical science"
+      }
+    ]
+  },
+  {
+    "kanji": "以",
+    "meaning": "by means of, from",
+    "onyomi": [
+      "イ"
+    ],
+    "onyomi_raw": "イ",
+    "kunyomi": [
+      "もっ.て"
+    ],
+    "kunyomi_raw": "もっ.て",
+    "components": "a plough + 人 person",
+    "story": "A person working with a tool, from here on.",
+    "examples": [
+      {
+        "word": "以上",
+        "reading": "いじょう",
+        "meaning": "or more"
+      },
+      {
+        "word": "以外",
+        "reading": "いがい",
+        "meaning": "except"
+      }
+    ]
+  },
+  {
+    "kanji": "引",
+    "meaning": "pull",
+    "onyomi": [
+      "イン"
+    ],
+    "onyomi_raw": "イン",
+    "kunyomi": [
+      "ひ.く"
+    ],
+    "kunyomi_raw": "ひ.く",
+    "components": "弓 bow + 丨 string",
+    "story": "Pulling back the string of a bow.",
+    "examples": [
+      {
+        "word": "引く",
+        "reading": "ひく",
+        "meaning": "pull"
+      },
+      {
+        "word": "引っ越す",
+        "reading": "ひっこす",
+        "meaning": "move house"
+      }
+    ]
+  },
+  {
+    "kanji": "院",
+    "meaning": "institution",
+    "onyomi": [
+      "イン"
+    ],
+    "onyomi_raw": "イン",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "阝 hill + 完 complete",
+    "story": "A complete building up on the hill: a hospital, an institute.",
+    "examples": [
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital"
+      },
+      {
+        "word": "大学院",
+        "reading": "だいがくいん",
+        "meaning": "graduate school"
+      }
+    ]
+  },
+  {
+    "kanji": "運",
+    "meaning": "carry, luck",
+    "onyomi": [
+      "ウン"
+    ],
+    "onyomi_raw": "ウン",
+    "kunyomi": [
+      "はこ.ぶ"
+    ],
+    "kunyomi_raw": "はこ.ぶ",
+    "components": "辶 walk + 軍 army",
+    "story": "An army on the move carries everything; with luck.",
+    "examples": [
+      {
+        "word": "運ぶ",
+        "reading": "はこぶ",
+        "meaning": "carry"
+      },
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "meaning": "driving"
+      }
+    ]
+  },
+  {
+    "kanji": "屋",
+    "meaning": "shop, roof",
+    "onyomi": [
+      "オク"
+    ],
+    "onyomi_raw": "オク",
+    "kunyomi": [
+      "や"
+    ],
+    "kunyomi_raw": "や",
+    "components": "尸 roof + 至 arrive",
+    "story": "You arrive under a roof: a shop.",
+    "examples": [
+      {
+        "word": "本屋",
+        "reading": "ほんや",
+        "meaning": "bookshop"
+      },
+      {
+        "word": "部屋",
+        "reading": "へや",
+        "meaning": "room"
+      }
+    ]
+  },
+  {
+    "kanji": "音",
+    "meaning": "sound",
+    "onyomi": [
+      "オン",
+      "イン"
+    ],
+    "onyomi_raw": "オン・イン",
+    "kunyomi": [
+      "おと",
+      "ね"
+    ],
+    "kunyomi_raw": "おと・ね",
+    "components": "立 stand + 日 sun",
+    "story": "Standing in the sun, you hear the morning sounds.",
+    "examples": [
+      {
+        "word": "音",
+        "reading": "おと",
+        "meaning": "sound"
+      },
+      {
+        "word": "音楽",
+        "reading": "おんがく",
+        "meaning": "music"
+      }
+    ]
+  },
+  {
+    "kanji": "歌",
+    "meaning": "song, sing",
+    "onyomi": [
+      "カ"
+    ],
+    "onyomi_raw": "カ",
+    "kunyomi": [
+      "うた",
+      "うた.う"
+    ],
+    "kunyomi_raw": "うた・うた.う",
+    "components": "哥 + 欠 open mouth",
+    "story": "An open mouth repeating notes: singing.",
+    "examples": [
+      {
+        "word": "歌",
+        "reading": "うた",
+        "meaning": "song"
+      },
+      {
+        "word": "歌手",
+        "reading": "かしゅ",
+        "meaning": "singer"
+      }
+    ]
+  },
+  {
+    "kanji": "夏",
+    "meaning": "summer",
+    "onyomi": [
+      "カ",
+      "ゲ"
+    ],
+    "onyomi_raw": "カ・ゲ",
+    "kunyomi": [
+      "なつ"
+    ],
+    "kunyomi_raw": "なつ",
+    "components": "頁 head + 夂 slow feet",
+    "story": "Walking slowly with your head down in the heat: summer.",
+    "examples": [
+      {
+        "word": "夏",
+        "reading": "なつ",
+        "meaning": "summer"
+      },
+      {
+        "word": "夏休み",
+        "reading": "なつやすみ",
+        "meaning": "summer vacation"
+      }
+    ]
+  },
+  {
+    "kanji": "家",
+    "meaning": "house, family",
+    "onyomi": [
+      "カ",
+      "ケ"
+    ],
+    "onyomi_raw": "カ・ケ",
+    "kunyomi": [
+      "いえ",
+      "うち",
+      "や"
+    ],
+    "kunyomi_raw": "いえ・うち・や",
+    "components": "宀 roof + 豕 pig",
+    "story": "A pig under the roof: a farm house.",
+    "examples": [
+      {
+        "word": "家",
+        "reading": "いえ",
+        "meaning": "house"
+      },
+      {
+        "word": "家族",
+        "reading": "かぞく",
+        "meaning": "family"
+      }
+    ]
+  },
+  {
+    "kanji": "画",
+    "meaning": "picture, stroke",
+    "onyomi": [
+      "ガ",
+      "カク"
+    ],
+    "onyomi_raw": "ガ・カク",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "一 + 田 field + 凵 frame",
+    "story": "A field drawn inside a frame: a picture.",
+    "examples": [
+      {
+        "word": "映画",
+        "reading": "えいが",
+        "meaning": "movie"
+      },
+      {
+        "word": "計画",
+        "reading": "けいかく",
+        "meaning": "plan"
+      }
+    ]
+  },
+  {
+    "kanji": "海",
+    "meaning": "sea",
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomi_raw": "カイ",
+    "kunyomi": [
+      "うみ"
+    ],
+    "kunyomi_raw": "うみ",
+    "components": "氵 water + 毎 every",
+    "story": "Water everywhere, every day: the sea.",
+    "examples": [
+      {
+        "word": "海",
+        "reading": "うみ",
+        "meaning": "sea"
+      },
+      {
+        "word": "海外",
+        "reading": "かいがい",
+        "meaning": "overseas"
+      }
+    ]
+  },
+  {
+    "kanji": "回",
+    "meaning": "times, turn",
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomi_raw": "カイ",
+    "kunyomi": [
+      "まわ.る"
+    ],
+    "kunyomi_raw": "まわ.る",
+    "components": "口 inside 口",
+    "story": "A box spinning inside a box: turning round.",
+    "examples": [
+      {
+        "word": "一回",
+        "reading": "いっかい",
+        "meaning": "once"
+      },
+      {
+        "word": "回る",
+        "reading": "まわる",
+        "meaning": "turn"
+      }
+    ]
+  },
+  {
+    "kanji": "界",
+    "meaning": "world, boundary",
+    "onyomi": [
+      "カイ"
+    ],
+    "onyomi_raw": "カイ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "田 field + 介 between",
+    "story": "The line between fields: a boundary, the world.",
+    "examples": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "the world"
+      }
+    ]
+  },
+  {
+    "kanji": "漢",
+    "meaning": "China, Han",
+    "onyomi": [
+      "カン"
+    ],
+    "onyomi_raw": "カン",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "氵 water + 𦰩",
+    "story": "The people of the great river: Han China.",
+    "examples": [
+      {
+        "word": "漢字",
+        "reading": "かんじ",
+        "meaning": "kanji"
+      }
+    ]
+  },
+  {
+    "kanji": "顔",
+    "meaning": "face",
+    "onyomi": [
+      "ガン"
+    ],
+    "onyomi_raw": "ガン",
+    "kunyomi": [
+      "かお"
+    ],
+    "kunyomi_raw": "かお",
+    "components": "彦 + 頁 head",
+    "story": "The front of the head: your face.",
+    "examples": [
+      {
+        "word": "顔",
+        "reading": "かお",
+        "meaning": "face"
+      },
+      {
+        "word": "笑顔",
+        "reading": "えがお",
+        "meaning": "smiling face"
+      }
+    ]
+  },
+  {
+    "kanji": "起",
+    "meaning": "wake up, rise",
+    "onyomi": [
+      "キ"
+    ],
+    "onyomi_raw": "キ",
+    "kunyomi": [
+      "お.きる",
+      "お.こす"
+    ],
+    "kunyomi_raw": "お.きる・お.こす",
+    "components": "走 run + 己 self",
+    "story": "You yourself get up and run: wake up.",
+    "examples": [
+      {
+        "word": "起きる",
+        "reading": "おきる",
+        "meaning": "get up"
+      },
+      {
+        "word": "起こす",
+        "reading": "おこす",
+        "meaning": "wake someone"
+      }
+    ]
+  },
+  {
+    "kanji": "究",
+    "meaning": "research",
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomi_raw": "キュウ",
+    "kunyomi": [
+      "きわ.める"
+    ],
+    "kunyomi_raw": "きわ.める",
+    "components": "穴 hole + 九 nine",
+    "story": "Digging nine holes deep: research.",
+    "examples": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research"
+      }
+    ]
+  },
+  {
+    "kanji": "去",
+    "meaning": "leave, past",
+    "onyomi": [
+      "キョ",
+      "コ"
+    ],
+    "onyomi_raw": "キョ・コ",
+    "kunyomi": [
+      "さ.る"
+    ],
+    "kunyomi_raw": "さ.る",
+    "components": "土 earth + 厶",
+    "story": "Leaving the ground behind: past.",
+    "examples": [
+      {
+        "word": "去年",
+        "reading": "きょねん",
+        "meaning": "last year"
+      },
+      {
+        "word": "過去",
+        "reading": "かこ",
+        "meaning": "the past"
+      }
+    ]
+  },
+  {
+    "kanji": "京",
+    "meaning": "capital",
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "onyomi_raw": "キョウ・ケイ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "亠 + 口 + 小",
+    "story": "A tall gate over a small town: the capital.",
+    "examples": [
+      {
+        "word": "東京",
+        "reading": "とうきょう",
+        "meaning": "Tokyo"
+      },
+      {
+        "word": "京都",
+        "reading": "きょうと",
+        "meaning": "Kyoto"
+      }
+    ]
+  },
+  {
+    "kanji": "強",
+    "meaning": "strong",
+    "onyomi": [
+      "キョウ",
+      "ゴウ"
+    ],
+    "onyomi_raw": "キョウ・ゴウ",
+    "kunyomi": [
+      "つよ.い"
+    ],
+    "kunyomi_raw": "つよ.い",
+    "components": "弓 bow + 厶 + 虫 bug",
+    "story": "A bow strong enough to stop a bug: strong.",
+    "examples": [
+      {
+        "word": "強い",
+        "reading": "つよい",
+        "meaning": "strong"
+      },
+      {
+        "word": "勉強",
+        "reading": "べんきょう",
+        "meaning": "study"
+      }
+    ]
+  },
+  {
+    "kanji": "教",
+    "meaning": "teach",
+    "onyomi": [
+      "キョウ"
+    ],
+    "onyomi_raw": "キョウ",
+    "kunyomi": [
+      "おし.える"
+    ],
+    "kunyomi_raw": "おし.える",
+    "components": "孝 + 攵 strike",
+    "story": "An old teacher tapping a child with a stick: teaching.",
+    "examples": [
+      {
+        "word": "教える",
+        "reading": "おしえる",
+        "meaning": "teach"
+      },
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
+      }
+    ]
+  },
+  {
+    "kanji": "業",
+    "meaning": "business, industry",
+    "onyomi": [
+      "ギョウ"
+    ],
+    "onyomi_raw": "ギョウ",
+    "kunyomi": [
+      "わざ"
+    ],
+    "kunyomi_raw": "わざ",
+    "components": "a rack of tools on 木",
+    "story": "Tools hanging on a wooden rack: work, business.",
+    "examples": [
+      {
+        "word": "工業",
+        "reading": "こうぎょう",
+        "meaning": "industry"
+      }
+    ]
+  },
+  {
+    "kanji": "区",
+    "meaning": "ward, district",
+    "onyomi": [
+      "ク"
+    ],
+    "onyomi_raw": "ク",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "匚 box + 㐅",
+    "story": "A box cut into pieces: a ward of the city.",
+    "examples": [
+      {
+        "word": "区役所",
+        "reading": "くやくしょ",
+        "meaning": "ward office"
+      },
+      {
+        "word": "地区",
+        "reading": "ちく",
+        "meaning": "district"
+      }
+    ]
+  },
+  {
+    "kanji": "計",
+    "meaning": "measure, plan",
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomi_raw": "ケイ",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "kunyomi_raw": "はか.る",
+    "components": "言 words + 十 ten",
+    "story": "Saying numbers up to ten: counting, measuring.",
+    "examples": [
+      {
+        "word": "時計",
+        "reading": "とけい",
+        "meaning": "clock"
+      },
+      {
+        "word": "計画",
+        "reading": "けいかく",
+        "meaning": "plan"
+      }
+    ]
+  },
+  {
+    "kanji": "兄",
+    "meaning": "older brother",
+    "onyomi": [
+      "キョウ",
+      "ケイ"
+    ],
+    "onyomi_raw": "キョウ・ケイ",
+    "kunyomi": [
+      "あに"
+    ],
+    "kunyomi_raw": "あに",
+    "components": "口 mouth + 儿 legs",
+    "story": "A big mouth on legs: the older brother giving orders.",
+    "examples": [
+      {
+        "word": "兄",
+        "reading": "あに",
+        "meaning": "my older brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings"
+      }
+    ]
+  },
+  {
+    "kanji": "軽",
+    "meaning": "light (weight)",
+    "onyomi": [
+      "ケイ"
+    ],
+    "onyomi_raw": "ケイ",
+    "kunyomi": [
+      "かる.い"
+    ],
+    "kunyomi_raw": "かる.い",
+    "components": "車 car + 圣",
+    "story": "A cart that is easy to push: light.",
+    "examples": [
+      {
+        "word": "軽い",
+        "reading": "かるい",
+        "meaning": "light"
+      }
+    ]
+  },
+  {
+    "kanji": "県",
+    "meaning": "prefecture",
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomi_raw": "ケン",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "目 eye + an upside-down 小",
+    "story": "An eye watching over the land: a prefecture.",
+    "examples": [
+      {
+        "word": "県",
+        "reading": "けん",
+        "meaning": "prefecture"
+      },
+      {
+        "word": "県庁",
+        "reading": "けんちょう",
+        "meaning": "prefectural office"
+      }
+    ]
+  },
+  {
+    "kanji": "研",
+    "meaning": "polish, study",
+    "onyomi": [
+      "ケン"
+    ],
+    "onyomi_raw": "ケン",
+    "kunyomi": [
+      "と.ぐ"
+    ],
+    "kunyomi_raw": "と.ぐ",
+    "components": "石 stone + 开",
+    "story": "Polishing on a stone: studying hard.",
+    "examples": [
+      {
+        "word": "研究",
+        "reading": "けんきゅう",
+        "meaning": "research"
+      },
+      {
+        "word": "研修",
+        "reading": "けんしゅう",
+        "meaning": "training"
+      }
+    ]
+  },
+  {
+    "kanji": "元",
+    "meaning": "origin, base",
+    "onyomi": [
+      "ゲン",
+      "ガン"
+    ],
+    "onyomi_raw": "ゲン・ガン",
+    "kunyomi": [
+      "もと"
+    ],
+    "kunyomi_raw": "もと",
+    "components": "二 + 儿 legs",
+    "story": "A head on two legs: the origin, the base.",
+    "examples": [
+      {
+        "word": "元気",
+        "reading": "げんき",
+        "meaning": "healthy"
+      },
+      {
+        "word": "地元",
+        "reading": "じもと",
+        "meaning": "hometown"
+      }
+    ]
+  },
+  {
+    "kanji": "工",
+    "meaning": "craft, construction",
+    "onyomi": [
+      "コウ",
+      "ク"
+    ],
+    "onyomi_raw": "コウ・ク",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "a carpenter's square",
+    "story": "A picture of a builder's tool.",
+    "examples": [
+      {
+        "word": "工場",
+        "reading": "こうじょう",
+        "meaning": "factory"
+      },
+      {
+        "word": "工事",
+        "reading": "こうじ",
+        "meaning": "construction"
+      }
+    ]
+  },
+  {
+    "kanji": "広",
+    "meaning": "wide",
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomi_raw": "コウ",
+    "kunyomi": [
+      "ひろ.い"
+    ],
+    "kunyomi_raw": "ひろ.い",
+    "components": "广 roof + 厶",
+    "story": "A big open hall under a wide roof.",
+    "examples": [
+      {
+        "word": "広い",
+        "reading": "ひろい",
+        "meaning": "wide"
+      },
+      {
+        "word": "広場",
+        "reading": "ひろば",
+        "meaning": "square, plaza"
+      }
+    ]
+  },
+  {
+    "kanji": "考",
+    "meaning": "think",
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomi_raw": "コウ",
+    "kunyomi": [
+      "かんが.える"
+    ],
+    "kunyomi_raw": "かんが.える",
+    "components": "耂 old + 丂",
+    "story": "An old person bent over, thinking.",
+    "examples": [
+      {
+        "word": "考える",
+        "reading": "かんがえる",
+        "meaning": "think"
+      },
+      {
+        "word": "参考",
+        "reading": "さんこう",
+        "meaning": "reference"
+      }
+    ]
+  },
+  {
+    "kanji": "光",
+    "meaning": "light",
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomi_raw": "コウ",
+    "kunyomi": [
+      "ひか.る",
+      "ひかり"
+    ],
+    "kunyomi_raw": "ひか.る・ひかり",
+    "components": "⺌ rays + 儿 legs",
+    "story": "A person carrying a torch: light.",
+    "examples": [
+      {
+        "word": "光",
+        "reading": "ひかり",
+        "meaning": "light"
+      },
+      {
+        "word": "光る",
+        "reading": "ひかる",
+        "meaning": "shine"
+      }
+    ]
+  },
+  {
+    "kanji": "好",
+    "meaning": "like",
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomi_raw": "コウ",
+    "kunyomi": [
+      "す.き",
+      "この.む"
+    ],
+    "kunyomi_raw": "す.き・この.む",
+    "components": "女 woman + 子 child",
+    "story": "A woman with her child: love.",
+    "examples": [
+      {
+        "word": "好き",
+        "reading": "すき",
+        "meaning": "like"
+      },
+      {
+        "word": "大好き",
+        "reading": "だいすき",
+        "meaning": "love"
+      }
+    ]
+  },
+  {
+    "kanji": "合",
+    "meaning": "fit, join",
+    "onyomi": [
+      "ゴウ",
+      "ガッ"
+    ],
+    "onyomi_raw": "ゴウ・ガッ",
+    "kunyomi": [
+      "あ.う"
+    ],
+    "kunyomi_raw": "あ.う",
+    "components": "𠆢 lid + 一 + 口 box",
+    "story": "A lid that fits the box.",
+    "examples": [
+      {
+        "word": "合う",
+        "reading": "あう",
+        "meaning": "fit, match"
+      },
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "match, game"
+      }
+    ]
+  },
+  {
+    "kanji": "黒",
+    "meaning": "black",
+    "onyomi": [
+      "コク"
+    ],
+    "onyomi_raw": "コク",
+    "kunyomi": [
+      "くろ",
+      "くろ.い"
+    ],
+    "kunyomi_raw": "くろ・くろ.い",
+    "components": "里 + 灬 fire",
+    "story": "Soot from a fire under the village: black.",
+    "examples": [
+      {
+        "word": "黒い",
+        "reading": "くろい",
+        "meaning": "black"
+      },
+      {
+        "word": "黒板",
+        "reading": "こくばん",
+        "meaning": "blackboard"
+      }
+    ]
+  },
+  {
+    "kanji": "作",
+    "meaning": "make",
+    "onyomi": [
+      "サク",
+      "サ"
+    ],
+    "onyomi_raw": "サク・サ",
+    "kunyomi": [
+      "つく.る"
+    ],
+    "kunyomi_raw": "つく.る",
+    "components": "亻 person + 乍",
+    "story": "A person at work, making things.",
+    "examples": [
+      {
+        "word": "作る",
+        "reading": "つくる",
+        "meaning": "make"
+      },
+      {
+        "word": "作文",
+        "reading": "さくぶん",
+        "meaning": "essay"
+      }
+    ]
+  },
+  {
+    "kanji": "産",
+    "meaning": "produce, give birth",
+    "onyomi": [
+      "サン"
+    ],
+    "onyomi_raw": "サン",
+    "kunyomi": [
+      "う.む"
+    ],
+    "kunyomi_raw": "う.む",
+    "components": "立 + 厂 + 生 life",
+    "story": "New life standing up under a cliff: birth.",
+    "examples": [
+      {
+        "word": "お土産",
+        "reading": "おみやげ",
+        "meaning": "souvenir"
+      },
+      {
+        "word": "生産",
+        "reading": "せいさん",
+        "meaning": "production"
+      }
+    ]
+  },
+  {
+    "kanji": "紙",
+    "meaning": "paper",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "かみ"
+    ],
+    "kunyomi_raw": "かみ",
+    "components": "糸 thread + 氏",
+    "story": "Fibers pressed flat: paper.",
+    "examples": [
+      {
+        "word": "紙",
+        "reading": "かみ",
+        "meaning": "paper"
+      },
+      {
+        "word": "手紙",
+        "reading": "てがみ",
+        "meaning": "letter"
+      }
+    ]
+  },
+  {
+    "kanji": "止",
+    "meaning": "stop",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "と.まる",
+      "と.める"
+    ],
+    "kunyomi_raw": "と.まる・と.める",
+    "components": "a footprint",
+    "story": "A foot planted on the ground: stop.",
+    "examples": [
+      {
+        "word": "止まる",
+        "reading": "とまる",
+        "meaning": "stop"
+      },
+      {
+        "word": "中止",
+        "reading": "ちゅうし",
+        "meaning": "cancellation"
+      }
+    ]
+  },
+  {
+    "kanji": "市",
+    "meaning": "city, market",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "いち"
+    ],
+    "kunyomi_raw": "いち",
+    "components": "亠 + 巾 cloth",
+    "story": "Cloth hung up for sale: a market, a city.",
+    "examples": [
+      {
+        "word": "市",
+        "reading": "し",
+        "meaning": "city"
+      },
+      {
+        "word": "市場",
+        "reading": "いちば",
+        "meaning": "market"
+      }
+    ]
+  },
+  {
+    "kanji": "仕",
+    "meaning": "serve, do",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "つか.える"
+    ],
+    "kunyomi_raw": "つか.える",
+    "components": "亻 person + 士 samurai",
+    "story": "A person serving a samurai: work.",
+    "examples": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work, job"
+      },
+      {
+        "word": "仕方",
+        "reading": "しかた",
+        "meaning": "way of doing"
+      }
+    ]
+  },
+  {
+    "kanji": "死",
+    "meaning": "death",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "し.ぬ"
+    ],
+    "kunyomi_raw": "し.ぬ",
+    "components": "歹 bones + 匕 person",
+    "story": "A person next to bones: death.",
+    "examples": [
+      {
+        "word": "死ぬ",
+        "reading": "しぬ",
+        "meaning": "die"
+      }
+    ]
+  },
+  {
+    "kanji": "試",
+    "meaning": "test, try",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "こころ.みる",
+      "ため.す"
+    ],
+    "kunyomi_raw": "こころ.みる・ため.す",
+    "components": "言 words + 式 ceremony",
+    "story": "Words spoken at a formal ceremony: an exam.",
+    "examples": [
+      {
+        "word": "試験",
+        "reading": "しけん",
+        "meaning": "exam"
+      },
+      {
+        "word": "試合",
+        "reading": "しあい",
+        "meaning": "match"
+      }
+    ]
+  },
+  {
+    "kanji": "私",
+    "meaning": "I, private",
+    "onyomi": [
+      "シ"
+    ],
+    "onyomi_raw": "シ",
+    "kunyomi": [
+      "わたし"
+    ],
+    "kunyomi_raw": "わたし",
+    "components": "禾 grain + 厶 private",
+    "story": "My own grain: mine, me.",
+    "examples": [
+      {
+        "word": "私",
+        "reading": "わたし",
+        "meaning": "I"
+      },
+      {
+        "word": "私立",
+        "reading": "しりつ",
+        "meaning": "private (school)"
+      }
+    ]
+  },
+  {
+    "kanji": "事",
+    "meaning": "thing, matter",
+    "onyomi": [
+      "ジ"
+    ],
+    "onyomi_raw": "ジ",
+    "kunyomi": [
+      "こと"
+    ],
+    "kunyomi_raw": "こと",
+    "components": "a hand holding a brush",
+    "story": "A hand holding the record of what happened: matters.",
+    "examples": [
+      {
+        "word": "仕事",
+        "reading": "しごと",
+        "meaning": "work"
+      },
+      {
+        "word": "事故",
+        "reading": "じこ",
+        "meaning": "accident"
+      }
+    ]
+  },
+  {
+    "kanji": "室",
+    "meaning": "room",
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomi_raw": "シツ",
+    "kunyomi": [
+      "むろ"
+    ],
+    "kunyomi_raw": "むろ",
+    "components": "宀 roof + 至 arrive",
+    "story": "Where you arrive under the roof: a room.",
+    "examples": [
+      {
+        "word": "教室",
+        "reading": "きょうしつ",
+        "meaning": "classroom"
+      },
+      {
+        "word": "会議室",
+        "reading": "かいぎしつ",
+        "meaning": "meeting room"
+      }
+    ]
+  },
+  {
+    "kanji": "質",
+    "meaning": "quality, question",
+    "onyomi": [
+      "シツ"
+    ],
+    "onyomi_raw": "シツ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "斤斤 two axes + 貝 money",
+    "story": "Two axes weighed against money: quality.",
+    "examples": [
+      {
+        "word": "質問",
+        "reading": "しつもん",
+        "meaning": "question"
+      },
+      {
+        "word": "品質",
+        "reading": "ひんしつ",
+        "meaning": "quality"
+      }
+    ]
+  },
+  {
+    "kanji": "写",
+    "meaning": "copy, photo",
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomi_raw": "シャ",
+    "kunyomi": [
+      "うつ.す"
+    ],
+    "kunyomi_raw": "うつ.す",
+    "components": "冖 cover + 与",
+    "story": "Laying a cover over a picture to copy it.",
+    "examples": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "photo"
+      },
+      {
+        "word": "写す",
+        "reading": "うつす",
+        "meaning": "copy"
+      }
+    ]
+  },
+  {
+    "kanji": "者",
+    "meaning": "person",
+    "onyomi": [
+      "シャ"
+    ],
+    "onyomi_raw": "シャ",
+    "kunyomi": [
+      "もの"
+    ],
+    "kunyomi_raw": "もの",
+    "components": "耂 old + 日",
+    "story": "An old person in the sun: someone.",
+    "examples": [
+      {
+        "word": "医者",
+        "reading": "いしゃ",
+        "meaning": "doctor"
+      },
+      {
+        "word": "若者",
+        "reading": "わかもの",
+        "meaning": "young people"
+      }
+    ]
+  },
+  {
+    "kanji": "借",
+    "meaning": "borrow",
+    "onyomi": [
+      "シャク"
+    ],
+    "onyomi_raw": "シャク",
+    "kunyomi": [
+      "か.りる"
+    ],
+    "kunyomi_raw": "か.りる",
+    "components": "亻 person + 昔 old times",
+    "story": "A person who borrowed long ago.",
+    "examples": [
+      {
+        "word": "借りる",
+        "reading": "かりる",
+        "meaning": "borrow"
+      }
+    ]
+  },
+  {
+    "kanji": "弱",
+    "meaning": "weak",
+    "onyomi": [
+      "ジャク"
+    ],
+    "onyomi_raw": "ジャク",
+    "kunyomi": [
+      "よわ.い"
+    ],
+    "kunyomi_raw": "よわ.い",
+    "components": "two 弓 bows with feathers",
+    "story": "Two bent, worn-out bows: weak.",
+    "examples": [
+      {
+        "word": "弱い",
+        "reading": "よわい",
+        "meaning": "weak"
+      }
+    ]
+  },
+  {
+    "kanji": "首",
+    "meaning": "neck",
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomi_raw": "シュ",
+    "kunyomi": [
+      "くび"
+    ],
+    "kunyomi_raw": "くび",
+    "components": "丷 + 自 self",
+    "story": "Hair on top of your own head, then the neck.",
+    "examples": [
+      {
+        "word": "首",
+        "reading": "くび",
+        "meaning": "neck"
+      },
+      {
+        "word": "首都",
+        "reading": "しゅと",
+        "meaning": "capital city"
+      }
+    ]
+  },
+  {
+    "kanji": "秋",
+    "meaning": "autumn",
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomi_raw": "シュウ",
+    "kunyomi": [
+      "あき"
+    ],
+    "kunyomi_raw": "あき",
+    "components": "禾 grain + 火 fire",
+    "story": "Grain turning fire-red: autumn.",
+    "examples": [
+      {
+        "word": "秋",
+        "reading": "あき",
+        "meaning": "autumn"
+      }
+    ]
+  },
+  {
+    "kanji": "集",
+    "meaning": "gather",
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomi_raw": "シュウ",
+    "kunyomi": [
+      "あつ.まる",
+      "あつ.める"
+    ],
+    "kunyomi_raw": "あつ.まる・あつ.める",
+    "components": "隹 bird + 木 tree",
+    "story": "Birds gathering in a tree.",
+    "examples": [
+      {
+        "word": "集まる",
+        "reading": "あつまる",
+        "meaning": "gather"
+      },
+      {
+        "word": "集中",
+        "reading": "しゅうちゅう",
+        "meaning": "concentration"
+      }
+    ]
+  },
+  {
+    "kanji": "習",
+    "meaning": "learn",
+    "onyomi": [
+      "シュウ"
+    ],
+    "onyomi_raw": "シュウ",
+    "kunyomi": [
+      "なら.う"
+    ],
+    "kunyomi_raw": "なら.う",
+    "components": "羽 wings + 白 white",
+    "story": "A young white bird learning to fly.",
+    "examples": [
+      {
+        "word": "習う",
+        "reading": "ならう",
+        "meaning": "learn"
+      },
+      {
+        "word": "練習",
+        "reading": "れんしゅう",
+        "meaning": "practice"
+      }
+    ]
+  },
+  {
+    "kanji": "重",
+    "meaning": "heavy",
+    "onyomi": [
+      "ジュウ",
+      "チョウ"
+    ],
+    "onyomi_raw": "ジュウ・チョウ",
+    "kunyomi": [
+      "おも.い",
+      "かさ.ねる"
+    ],
+    "kunyomi_raw": "おも.い・かさ.ねる",
+    "components": "a load on 里 village",
+    "story": "A heavy load carried through the village.",
+    "examples": [
+      {
+        "word": "重い",
+        "reading": "おもい",
+        "meaning": "heavy"
+      },
+      {
+        "word": "体重",
+        "reading": "たいじゅう",
+        "meaning": "body weight"
+      }
+    ]
+  },
+  {
+    "kanji": "春",
+    "meaning": "spring",
+    "onyomi": [
+      "シュン"
+    ],
+    "onyomi_raw": "シュン",
+    "kunyomi": [
+      "はる"
+    ],
+    "kunyomi_raw": "はる",
+    "components": "𡗗 + 日 sun",
+    "story": "Plants pushing up under the sun: spring.",
+    "examples": [
+      {
+        "word": "春",
+        "reading": "はる",
+        "meaning": "spring"
+      },
+      {
+        "word": "青春",
+        "reading": "せいしゅん",
+        "meaning": "youth"
+      }
+    ]
+  },
+  {
+    "kanji": "所",
+    "meaning": "place",
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomi_raw": "ショ",
+    "kunyomi": [
+      "ところ"
+    ],
+    "kunyomi_raw": "ところ",
+    "components": "戸 door + 斤 axe",
+    "story": "The door where the axe is kept: a place.",
+    "examples": [
+      {
+        "word": "所",
+        "reading": "ところ",
+        "meaning": "place"
+      },
+      {
+        "word": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
+      }
+    ]
+  },
+  {
+    "kanji": "暑",
+    "meaning": "hot (weather)",
+    "onyomi": [
+      "ショ"
+    ],
+    "onyomi_raw": "ショ",
+    "kunyomi": [
+      "あつ.い"
+    ],
+    "kunyomi_raw": "あつ.い",
+    "components": "日 sun + 者 person",
+    "story": "A person under the sun: hot.",
+    "examples": [
+      {
+        "word": "暑い",
+        "reading": "あつい",
+        "meaning": "hot"
+      },
+      {
+        "word": "暑中",
+        "reading": "しょちゅう",
+        "meaning": "midsummer"
+      }
+    ]
+  },
+  {
+    "kanji": "場",
+    "meaning": "place, scene",
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomi_raw": "ジョウ",
+    "kunyomi": [
+      "ば"
+    ],
+    "kunyomi_raw": "ば",
+    "components": "土 earth + 昜 sunshine",
+    "story": "Sunny ground: a place.",
+    "examples": [
+      {
+        "word": "場所",
+        "reading": "ばしょ",
+        "meaning": "place"
+      },
+      {
+        "word": "会場",
+        "reading": "かいじょう",
+        "meaning": "venue"
+      }
+    ]
+  },
+  {
+    "kanji": "乗",
+    "meaning": "ride",
+    "onyomi": [
+      "ジョウ"
+    ],
+    "onyomi_raw": "ジョウ",
+    "kunyomi": [
+      "の.る"
+    ],
+    "kunyomi_raw": "の.る",
+    "components": "禾 + 北",
+    "story": "A person climbing up onto a tree: riding.",
+    "examples": [
+      {
+        "word": "乗る",
+        "reading": "のる",
+        "meaning": "ride"
+      },
+      {
+        "word": "乗客",
+        "reading": "じょうきゃく",
+        "meaning": "passenger"
+      }
+    ]
+  },
+  {
+    "kanji": "色",
+    "meaning": "color",
+    "onyomi": [
+      "ショク",
+      "シキ"
+    ],
+    "onyomi_raw": "ショク・シキ",
+    "kunyomi": [
+      "いろ"
+    ],
+    "kunyomi_raw": "いろ",
+    "components": "⺈ + 巴",
+    "story": "Two people close together, faces colored.",
+    "examples": [
+      {
+        "word": "色",
+        "reading": "いろ",
+        "meaning": "color"
+      },
+      {
+        "word": "景色",
+        "reading": "けしき",
+        "meaning": "scenery"
+      }
+    ]
+  },
+  {
+    "kanji": "森",
+    "meaning": "forest",
+    "onyomi": [
+      "シン"
+    ],
+    "onyomi_raw": "シン",
+    "kunyomi": [
+      "もり"
+    ],
+    "kunyomi_raw": "もり",
+    "components": "three 木 trees",
+    "story": "Three trees: a forest.",
+    "examples": [
+      {
+        "word": "森",
+        "reading": "もり",
+        "meaning": "forest"
+      }
+    ]
+  },
+  {
+    "kanji": "心",
+    "meaning": "heart, mind",
+    "onyomi": [
+      "シン"
+    ],
+    "onyomi_raw": "シン",
+    "kunyomi": [
+      "こころ"
+    ],
+    "kunyomi_raw": "こころ",
+    "components": "a picture of a heart",
+    "story": "A heart with drops of feeling.",
+    "examples": [
+      {
+        "word": "心",
+        "reading": "こころ",
+        "meaning": "heart"
+      },
+      {
+        "word": "安心",
+        "reading": "あんしん",
+        "meaning": "relief"
+      }
+    ]
+  },
+  {
+    "kanji": "真",
+    "meaning": "true",
+    "onyomi": [
+      "シン"
+    ],
+    "onyomi_raw": "シン",
+    "kunyomi": [
+      "ま"
+    ],
+    "kunyomi_raw": "ま",
+    "components": "十 + 目 eye + 八",
+    "story": "Ten eyes all see the same: true.",
+    "examples": [
+      {
+        "word": "写真",
+        "reading": "しゃしん",
+        "meaning": "photo"
+      },
+      {
+        "word": "真ん中",
+        "reading": "まんなか",
+        "meaning": "the very middle"
+      }
+    ]
+  },
+  {
+    "kanji": "進",
+    "meaning": "advance",
+    "onyomi": [
+      "シン"
+    ],
+    "onyomi_raw": "シン",
+    "kunyomi": [
+      "すす.む"
+    ],
+    "kunyomi_raw": "すす.む",
+    "components": "辶 walk + 隹 bird",
+    "story": "A bird only walks forward: advance.",
+    "examples": [
+      {
+        "word": "進む",
+        "reading": "すすむ",
+        "meaning": "advance"
+      }
+    ]
+  },
+  {
+    "kanji": "図",
+    "meaning": "map, drawing",
+    "onyomi": [
+      "ズ",
+      "ト"
+    ],
+    "onyomi_raw": "ズ・ト",
+    "kunyomi": [
+      "はか.る"
+    ],
+    "kunyomi_raw": "はか.る",
+    "components": "囗 frame + 㐅 + marks",
+    "story": "A frame with marks inside: a map.",
+    "examples": [
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map"
+      },
+      {
+        "word": "図書館",
+        "reading": "としょかん",
+        "meaning": "library"
+      }
+    ]
+  },
+  {
+    "kanji": "正",
+    "meaning": "correct",
+    "onyomi": [
+      "セイ",
+      "ショウ"
+    ],
+    "onyomi_raw": "セイ・ショウ",
+    "kunyomi": [
+      "ただ.しい"
+    ],
+    "kunyomi_raw": "ただ.しい",
+    "components": "一 + 止 stop",
+    "story": "Stop exactly at the line: correct.",
+    "examples": [
+      {
+        "word": "正しい",
+        "reading": "ただしい",
+        "meaning": "correct"
+      },
+      {
+        "word": "お正月",
+        "reading": "おしょうがつ",
+        "meaning": "New Year"
+      }
+    ]
+  },
+  {
+    "kanji": "声",
+    "meaning": "voice",
+    "onyomi": [
+      "セイ"
+    ],
+    "onyomi_raw": "セイ",
+    "kunyomi": [
+      "こえ"
+    ],
+    "kunyomi_raw": "こえ",
+    "components": "士 + 尸-like shape",
+    "story": "A samurai shouting: a voice.",
+    "examples": [
+      {
+        "word": "声",
+        "reading": "こえ",
+        "meaning": "voice"
+      },
+      {
+        "word": "大声",
+        "reading": "おおごえ",
+        "meaning": "loud voice"
+      }
+    ]
+  },
+  {
+    "kanji": "世",
+    "meaning": "world, generation",
+    "onyomi": [
+      "セ",
+      "セイ"
+    ],
+    "onyomi_raw": "セ・セイ",
+    "kunyomi": [
+      "よ"
+    ],
+    "kunyomi_raw": "よ",
+    "components": "three tens joined",
+    "story": "Thirty years: one generation of the world.",
+    "examples": [
+      {
+        "word": "世界",
+        "reading": "せかい",
+        "meaning": "world"
+      },
+      {
+        "word": "世話",
+        "reading": "せわ",
+        "meaning": "care"
+      }
+    ]
+  },
+  {
+    "kanji": "赤",
+    "meaning": "red",
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomi_raw": "セキ",
+    "kunyomi": [
+      "あか",
+      "あか.い"
+    ],
+    "kunyomi_raw": "あか・あか.い",
+    "components": "土 earth + 灬 fire",
+    "story": "Earth over fire glowing red.",
+    "examples": [
+      {
+        "word": "赤い",
+        "reading": "あかい",
+        "meaning": "red"
+      },
+      {
+        "word": "赤ちゃん",
+        "reading": "あかちゃん",
+        "meaning": "baby"
+      }
+    ]
+  },
+  {
+    "kanji": "夕",
+    "meaning": "evening",
+    "onyomi": [
+      "セキ"
+    ],
+    "onyomi_raw": "セキ",
+    "kunyomi": [
+      "ゆう"
+    ],
+    "kunyomi_raw": "ゆう",
+    "components": "a half moon",
+    "story": "The moon just rising: evening.",
+    "examples": [
+      {
+        "word": "夕方",
+        "reading": "ゆうがた",
+        "meaning": "evening"
+      },
+      {
+        "word": "夕飯",
+        "reading": "ゆうはん",
+        "meaning": "dinner"
+      }
+    ]
+  },
+  {
+    "kanji": "切",
+    "meaning": "cut",
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomi_raw": "セツ",
+    "kunyomi": [
+      "き.る"
+    ],
+    "kunyomi_raw": "き.る",
+    "components": "七 + 刀 knife",
+    "story": "Cutting with a knife.",
+    "examples": [
+      {
+        "word": "切る",
+        "reading": "きる",
+        "meaning": "cut"
+      },
+      {
+        "word": "大切",
+        "reading": "たいせつ",
+        "meaning": "important"
+      }
+    ]
+  },
+  {
+    "kanji": "説",
+    "meaning": "explain",
+    "onyomi": [
+      "セツ"
+    ],
+    "onyomi_raw": "セツ",
+    "kunyomi": [
+      "と.く"
+    ],
+    "kunyomi_raw": "と.く",
+    "components": "言 words + 兑",
+    "story": "Words that make things clear: explanation.",
+    "examples": [
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
+      },
+      {
+        "word": "小説",
+        "reading": "しょうせつ",
+        "meaning": "novel"
+      }
+    ]
+  },
+  {
+    "kanji": "走",
+    "meaning": "run",
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomi_raw": "ソウ",
+    "kunyomi": [
+      "はし.る"
+    ],
+    "kunyomi_raw": "はし.る",
+    "components": "土 + 𤴓 foot",
+    "story": "Feet kicking up the earth: running.",
+    "examples": [
+      {
+        "word": "走る",
+        "reading": "はしる",
+        "meaning": "run"
+      }
+    ]
+  },
+  {
+    "kanji": "送",
+    "meaning": "send",
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomi_raw": "ソウ",
+    "kunyomi": [
+      "おく.る"
+    ],
+    "kunyomi_raw": "おく.る",
+    "components": "辶 walk + 关",
+    "story": "Walking someone off: seeing them off, sending.",
+    "examples": [
+      {
+        "word": "送る",
+        "reading": "おくる",
+        "meaning": "send"
+      },
+      {
+        "word": "放送",
+        "reading": "ほうそう",
+        "meaning": "broadcast"
+      }
+    ]
+  },
+  {
+    "kanji": "村",
+    "meaning": "village",
+    "onyomi": [
+      "ソン"
+    ],
+    "onyomi_raw": "ソン",
+    "kunyomi": [
+      "むら"
+    ],
+    "kunyomi_raw": "むら",
+    "components": "木 tree + 寸 measure",
+    "story": "A measured patch among trees: a village.",
+    "examples": [
+      {
+        "word": "村",
+        "reading": "むら",
+        "meaning": "village"
+      }
+    ]
+  },
+  {
+    "kanji": "貸",
+    "meaning": "lend",
+    "onyomi": [
+      "タイ"
+    ],
+    "onyomi_raw": "タイ",
+    "kunyomi": [
+      "か.す"
+    ],
+    "kunyomi_raw": "か.す",
+    "components": "代 replace + 貝 money",
+    "story": "Money that stands in for you for a while: lending.",
+    "examples": [
+      {
+        "word": "貸す",
+        "reading": "かす",
+        "meaning": "lend"
+      }
+    ]
+  },
+  {
+    "kanji": "台",
+    "meaning": "stand, platform",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "onyomi_raw": "ダイ・タイ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "厶 + 口",
+    "story": "A raised platform with a mouth giving a speech.",
+    "examples": [
+      {
+        "word": "台所",
+        "reading": "だいどころ",
+        "meaning": "kitchen"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      }
+    ]
+  },
+  {
+    "kanji": "代",
+    "meaning": "generation, fee, replace",
+    "onyomi": [
+      "ダイ",
+      "タイ"
+    ],
+    "onyomi_raw": "ダイ・タイ",
+    "kunyomi": [
+      "か.わる",
+      "よ"
+    ],
+    "kunyomi_raw": "か.わる・よ",
+    "components": "亻 person + 弋 stake",
+    "story": "A person standing in for another: replacing.",
+    "examples": [
+      {
+        "word": "時代",
+        "reading": "じだい",
+        "meaning": "era"
+      },
+      {
+        "word": "電気代",
+        "reading": "でんきだい",
+        "meaning": "electricity bill"
+      }
+    ]
+  },
+  {
+    "kanji": "題",
+    "meaning": "topic",
+    "onyomi": [
+      "ダイ"
+    ],
+    "onyomi_raw": "ダイ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "是 + 頁 head",
+    "story": "What is right at the head of the page: the title, the topic.",
+    "examples": [
+      {
+        "word": "問題",
+        "reading": "もんだい",
+        "meaning": "problem"
+      },
+      {
+        "word": "宿題",
+        "reading": "しゅくだい",
+        "meaning": "homework"
+      }
+    ]
+  },
+  {
+    "kanji": "短",
+    "meaning": "short",
+    "onyomi": [
+      "タン"
+    ],
+    "onyomi_raw": "タン",
+    "kunyomi": [
+      "みじか.い"
+    ],
+    "kunyomi_raw": "みじか.い",
+    "components": "矢 arrow + 豆 bean",
+    "story": "An arrow as short as a bean: short.",
+    "examples": [
+      {
+        "word": "短い",
+        "reading": "みじかい",
+        "meaning": "short"
+      }
+    ]
+  },
+  {
+    "kanji": "知",
+    "meaning": "know",
+    "onyomi": [
+      "チ"
+    ],
+    "onyomi_raw": "チ",
+    "kunyomi": [
+      "し.る"
+    ],
+    "kunyomi_raw": "し.る",
+    "components": "矢 arrow + 口 mouth",
+    "story": "Words that fly as fast as an arrow: knowing.",
+    "examples": [
+      {
+        "word": "知る",
+        "reading": "しる",
+        "meaning": "know"
+      },
+      {
+        "word": "知人",
+        "reading": "ちじん",
+        "meaning": "acquaintance"
+      }
+    ]
+  },
+  {
+    "kanji": "地",
+    "meaning": "ground",
+    "onyomi": [
+      "チ",
+      "ジ"
+    ],
+    "onyomi_raw": "チ・ジ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "土 earth + 也",
+    "story": "The earth spreading out: ground.",
+    "examples": [
+      {
+        "word": "地図",
+        "reading": "ちず",
+        "meaning": "map"
+      },
+      {
+        "word": "地下鉄",
+        "reading": "ちかてつ",
+        "meaning": "subway"
+      }
+    ]
+  },
+  {
+    "kanji": "池",
+    "meaning": "pond",
+    "onyomi": [
+      "チ"
+    ],
+    "onyomi_raw": "チ",
+    "kunyomi": [
+      "いけ"
+    ],
+    "kunyomi_raw": "いけ",
+    "components": "氵 water + 也",
+    "story": "Water lying still: a pond.",
+    "examples": [
+      {
+        "word": "池",
+        "reading": "いけ",
+        "meaning": "pond"
+      }
+    ]
+  },
+  {
+    "kanji": "着",
+    "meaning": "wear, arrive",
+    "onyomi": [
+      "チャク"
+    ],
+    "onyomi_raw": "チャク",
+    "kunyomi": [
+      "き.る",
+      "つ.く"
+    ],
+    "kunyomi_raw": "き.る・つ.く",
+    "components": "羊 sheep + 目 eye",
+    "story": "Wool from a sheep before your eyes: clothes to wear.",
+    "examples": [
+      {
+        "word": "着る",
+        "reading": "きる",
+        "meaning": "wear"
+      },
+      {
+        "word": "着く",
+        "reading": "つく",
+        "meaning": "arrive"
+      }
+    ]
+  },
+  {
+    "kanji": "昼",
+    "meaning": "noon",
+    "onyomi": [
+      "チュウ"
+    ],
+    "onyomi_raw": "チュウ",
+    "kunyomi": [
+      "ひる"
+    ],
+    "kunyomi_raw": "ひる",
+    "components": "尺 + 日 sun",
+    "story": "The sun at its height: noon.",
+    "examples": [
+      {
+        "word": "昼",
+        "reading": "ひる",
+        "meaning": "noon"
+      },
+      {
+        "word": "昼ご飯",
+        "reading": "ひるごはん",
+        "meaning": "lunch"
+      }
+    ]
+  },
+  {
+    "kanji": "町",
+    "meaning": "town",
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomi_raw": "チョウ",
+    "kunyomi": [
+      "まち"
+    ],
+    "kunyomi_raw": "まち",
+    "components": "田 field + 丁 block",
+    "story": "Fields divided into blocks: a town.",
+    "examples": [
+      {
+        "word": "町",
+        "reading": "まち",
+        "meaning": "town"
+      }
+    ]
+  },
+  {
+    "kanji": "鳥",
+    "meaning": "bird",
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomi_raw": "チョウ",
+    "kunyomi": [
+      "とり"
+    ],
+    "kunyomi_raw": "とり",
+    "components": "a picture of a bird with 灬 feet",
+    "story": "A bird with its eye, wings and feet.",
+    "examples": [
+      {
+        "word": "鳥",
+        "reading": "とり",
+        "meaning": "bird"
+      },
+      {
+        "word": "小鳥",
+        "reading": "ことり",
+        "meaning": "small bird"
+      }
+    ]
+  },
+  {
+    "kanji": "朝",
+    "meaning": "morning",
+    "onyomi": [
+      "チョウ"
+    ],
+    "onyomi_raw": "チョウ",
+    "kunyomi": [
+      "あさ"
+    ],
+    "kunyomi_raw": "あさ",
+    "components": "十 + 日 + 十 + 月 moon",
+    "story": "The sun rises while the moon is still out: morning.",
+    "examples": [
+      {
+        "word": "朝",
+        "reading": "あさ",
+        "meaning": "morning"
+      },
+      {
+        "word": "朝ご飯",
+        "reading": "あさごはん",
+        "meaning": "breakfast"
+      }
+    ]
+  },
+  {
+    "kanji": "通",
+    "meaning": "pass through, commute",
+    "onyomi": [
+      "ツウ"
+    ],
+    "onyomi_raw": "ツウ",
+    "kunyomi": [
+      "とお.る",
+      "かよ.う"
+    ],
+    "kunyomi_raw": "とお.る・かよ.う",
+    "components": "辶 walk + 甬",
+    "story": "Walking through a tunnel: passing through.",
+    "examples": [
+      {
+        "word": "通る",
+        "reading": "とおる",
+        "meaning": "pass"
+      },
+      {
+        "word": "通う",
+        "reading": "かよう",
+        "meaning": "commute"
+      }
+    ]
+  },
+  {
+    "kanji": "弟",
+    "meaning": "younger brother",
+    "onyomi": [
+      "ダイ",
+      "テイ"
+    ],
+    "onyomi_raw": "ダイ・テイ",
+    "kunyomi": [
+      "おとうと"
+    ],
+    "kunyomi_raw": "おとうと",
+    "components": "丷 + 弓 bow + 丿",
+    "story": "A small boy playing with a bow.",
+    "examples": [
+      {
+        "word": "弟",
+        "reading": "おとうと",
+        "meaning": "my younger brother"
+      },
+      {
+        "word": "兄弟",
+        "reading": "きょうだい",
+        "meaning": "siblings"
+      }
+    ]
+  },
+  {
+    "kanji": "低",
+    "meaning": "low",
+    "onyomi": [
+      "テイ"
+    ],
+    "onyomi_raw": "テイ",
+    "kunyomi": [
+      "ひく.い"
+    ],
+    "kunyomi_raw": "ひく.い",
+    "components": "亻 person + 氐 bottom",
+    "story": "A person at the bottom: low.",
+    "examples": [
+      {
+        "word": "低い",
+        "reading": "ひくい",
+        "meaning": "low"
+      }
+    ]
+  },
+  {
+    "kanji": "転",
+    "meaning": "roll, turn",
+    "onyomi": [
+      "テン"
+    ],
+    "onyomi_raw": "テン",
+    "kunyomi": [
+      "ころ.ぶ"
+    ],
+    "kunyomi_raw": "ころ.ぶ",
+    "components": "車 wheel + 云",
+    "story": "A wheel rolling over and over.",
+    "examples": [
+      {
+        "word": "運転",
+        "reading": "うんてん",
+        "meaning": "driving"
+      },
+      {
+        "word": "自転車",
+        "reading": "じてんしゃ",
+        "meaning": "bicycle"
+      }
+    ]
+  },
+  {
+    "kanji": "田",
+    "meaning": "rice field",
+    "onyomi": [
+      "デン"
+    ],
+    "onyomi_raw": "デン",
+    "kunyomi": [
+      "た"
+    ],
+    "kunyomi_raw": "た",
+    "components": "a field with paths",
+    "story": "A rice field split into four plots.",
+    "examples": [
+      {
+        "word": "田中",
+        "reading": "たなか",
+        "meaning": "Tanaka (name)"
+      },
+      {
+        "word": "水田",
+        "reading": "すいでん",
+        "meaning": "paddy"
+      }
+    ]
+  },
+  {
+    "kanji": "都",
+    "meaning": "capital, metropolis",
+    "onyomi": [
+      "ト",
+      "ツ"
+    ],
+    "onyomi_raw": "ト・ツ",
+    "kunyomi": [
+      "みやこ"
+    ],
+    "kunyomi_raw": "みやこ",
+    "components": "者 person + 阝 town",
+    "story": "A town full of people: the capital.",
+    "examples": [
+      {
+        "word": "京都",
+        "reading": "きょうと",
+        "meaning": "Kyoto"
+      },
+      {
+        "word": "都合",
+        "reading": "つごう",
+        "meaning": "convenience"
+      }
+    ]
+  },
+  {
+    "kanji": "度",
+    "meaning": "degree, times",
+    "onyomi": [
+      "ド"
+    ],
+    "onyomi_raw": "ド",
+    "kunyomi": [
+      "たび"
+    ],
+    "kunyomi_raw": "たび",
+    "components": "广 roof + 廿 + 又 hand",
+    "story": "Measuring with your hand under the roof: degrees.",
+    "examples": [
+      {
+        "word": "今度",
+        "reading": "こんど",
+        "meaning": "next time"
+      },
+      {
+        "word": "温度",
+        "reading": "おんど",
+        "meaning": "temperature"
+      }
+    ]
+  },
+  {
+    "kanji": "冬",
+    "meaning": "winter",
+    "onyomi": [
+      "トウ"
+    ],
+    "onyomi_raw": "トウ",
+    "kunyomi": [
+      "ふゆ"
+    ],
+    "kunyomi_raw": "ふゆ",
+    "components": "夂 + ⺀ ice",
+    "story": "Slow steps on ice: winter.",
+    "examples": [
+      {
+        "word": "冬",
+        "reading": "ふゆ",
+        "meaning": "winter"
+      }
+    ]
+  },
+  {
+    "kanji": "頭",
+    "meaning": "head",
+    "onyomi": [
+      "トウ",
+      "ズ"
+    ],
+    "onyomi_raw": "トウ・ズ",
+    "kunyomi": [
+      "あたま"
+    ],
+    "kunyomi_raw": "あたま",
+    "components": "豆 bean + 頁 head",
+    "story": "A head shaped like a bean.",
+    "examples": [
+      {
+        "word": "頭",
+        "reading": "あたま",
+        "meaning": "head"
+      },
+      {
+        "word": "頭痛",
+        "reading": "ずつう",
+        "meaning": "headache"
+      }
+    ]
+  },
+  {
+    "kanji": "同",
+    "meaning": "same",
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomi_raw": "ドウ",
+    "kunyomi": [
+      "おな.じ"
+    ],
+    "kunyomi_raw": "おな.じ",
+    "components": "冂 + 一 + 口",
+    "story": "Mouths under one roof saying the same thing.",
+    "examples": [
+      {
+        "word": "同じ",
+        "reading": "おなじ",
+        "meaning": "same"
+      },
+      {
+        "word": "同時",
+        "reading": "どうじ",
+        "meaning": "simultaneous"
+      }
+    ]
+  },
+  {
+    "kanji": "堂",
+    "meaning": "hall",
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomi_raw": "ドウ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "⺌ + 冖 + 口 + 土",
+    "story": "A big building on solid ground: a hall.",
+    "examples": [
+      {
+        "word": "食堂",
+        "reading": "しょくどう",
+        "meaning": "cafeteria"
+      },
+      {
+        "word": "講堂",
+        "reading": "こうどう",
+        "meaning": "auditorium"
+      }
+    ]
+  },
+  {
+    "kanji": "動",
+    "meaning": "move",
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomi_raw": "ドウ",
+    "kunyomi": [
+      "うご.く"
+    ],
+    "kunyomi_raw": "うご.く",
+    "components": "重 heavy + 力 power",
+    "story": "Power that moves something heavy.",
+    "examples": [
+      {
+        "word": "動く",
+        "reading": "うごく",
+        "meaning": "move"
+      },
+      {
+        "word": "運動",
+        "reading": "うんどう",
+        "meaning": "exercise"
+      }
+    ]
+  },
+  {
+    "kanji": "働",
+    "meaning": "work",
+    "onyomi": [
+      "ドウ"
+    ],
+    "onyomi_raw": "ドウ",
+    "kunyomi": [
+      "はたら.く"
+    ],
+    "kunyomi_raw": "はたら.く",
+    "components": "亻 person + 動 move",
+    "story": "A person moving all day: working.",
+    "examples": [
+      {
+        "word": "働く",
+        "reading": "はたらく",
+        "meaning": "work"
+      }
+    ]
+  },
+  {
+    "kanji": "肉",
+    "meaning": "meat",
+    "onyomi": [
+      "ニク"
+    ],
+    "onyomi_raw": "ニク",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "冂 + two 人",
+    "story": "Ribs inside the body: meat.",
+    "examples": [
+      {
+        "word": "肉",
+        "reading": "にく",
+        "meaning": "meat"
+      },
+      {
+        "word": "牛肉",
+        "reading": "ぎゅうにく",
+        "meaning": "beef"
+      }
+    ]
+  },
+  {
+    "kanji": "病",
+    "meaning": "illness",
+    "onyomi": [
+      "ビョウ"
+    ],
+    "onyomi_raw": "ビョウ",
+    "kunyomi": [
+      "やまい"
+    ],
+    "kunyomi_raw": "やまい",
+    "components": "疒 sickness + 丙",
+    "story": "A person lying in a sickbed.",
+    "examples": [
+      {
+        "word": "病気",
+        "reading": "びょうき",
+        "meaning": "illness"
+      },
+      {
+        "word": "病院",
+        "reading": "びょういん",
+        "meaning": "hospital"
+      }
+    ]
+  },
+  {
+    "kanji": "品",
+    "meaning": "goods",
+    "onyomi": [
+      "ヒン"
+    ],
+    "onyomi_raw": "ヒン",
+    "kunyomi": [
+      "しな"
+    ],
+    "kunyomi_raw": "しな",
+    "components": "three 口 boxes",
+    "story": "Three boxes stacked up: goods.",
+    "examples": [
+      {
+        "word": "品物",
+        "reading": "しなもの",
+        "meaning": "goods"
+      },
+      {
+        "word": "食品",
+        "reading": "しょくひん",
+        "meaning": "food products"
+      }
+    ]
+  },
+  {
+    "kanji": "不",
+    "meaning": "not, un-",
+    "onyomi": [
+      "フ",
+      "ブ"
+    ],
+    "onyomi_raw": "フ・ブ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "一 + 个",
+    "story": "A bird that cannot fly up past the line: not.",
+    "examples": [
+      {
+        "word": "不便",
+        "reading": "ふべん",
+        "meaning": "inconvenient"
+      },
+      {
+        "word": "不安",
+        "reading": "ふあん",
+        "meaning": "anxiety"
+      }
+    ]
+  },
+  {
+    "kanji": "風",
+    "meaning": "wind",
+    "onyomi": [
+      "フウ"
+    ],
+    "onyomi_raw": "フウ",
+    "kunyomi": [
+      "かぜ"
+    ],
+    "kunyomi_raw": "かぜ",
+    "components": "几 + 虫 bug",
+    "story": "A bug carried inside a gust: wind.",
+    "examples": [
+      {
+        "word": "風",
+        "reading": "かぜ",
+        "meaning": "wind"
+      },
+      {
+        "word": "台風",
+        "reading": "たいふう",
+        "meaning": "typhoon"
+      }
+    ]
+  },
+  {
+    "kanji": "服",
+    "meaning": "clothes",
+    "onyomi": [
+      "フク"
+    ],
+    "onyomi_raw": "フク",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "月 + 𠬝",
+    "story": "Something wrapped around the body: clothes.",
+    "examples": [
+      {
+        "word": "服",
+        "reading": "ふく",
+        "meaning": "clothes"
+      },
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "western clothes"
+      }
+    ]
+  },
+  {
+    "kanji": "文",
+    "meaning": "sentence, writing",
+    "onyomi": [
+      "ブン",
+      "モン"
+    ],
+    "onyomi_raw": "ブン・モン",
+    "kunyomi": [
+      "ふみ"
+    ],
+    "kunyomi_raw": "ふみ",
+    "components": "亠 + 乂",
+    "story": "Crossed lines: writing.",
+    "examples": [
+      {
+        "word": "文",
+        "reading": "ぶん",
+        "meaning": "sentence"
+      },
+      {
+        "word": "文化",
+        "reading": "ぶんか",
+        "meaning": "culture"
+      }
+    ]
+  },
+  {
+    "kanji": "別",
+    "meaning": "separate",
+    "onyomi": [
+      "ベツ"
+    ],
+    "onyomi_raw": "ベツ",
+    "kunyomi": [
+      "わか.れる"
+    ],
+    "kunyomi_raw": "わか.れる",
+    "components": "另 + 刂 knife",
+    "story": "Cutting apart with a knife: separate.",
+    "examples": [
+      {
+        "word": "別れる",
+        "reading": "わかれる",
+        "meaning": "part, break up"
+      },
+      {
+        "word": "特別",
+        "reading": "とくべつ",
+        "meaning": "special"
+      }
+    ]
+  },
+  {
+    "kanji": "歩",
+    "meaning": "walk",
+    "onyomi": [
+      "ホ",
+      "ブ"
+    ],
+    "onyomi_raw": "ホ・ブ",
+    "kunyomi": [
+      "ある.く"
+    ],
+    "kunyomi_raw": "ある.く",
+    "components": "止 stop + 少",
+    "story": "Stop, then a few steps: walking.",
+    "examples": [
+      {
+        "word": "歩く",
+        "reading": "あるく",
+        "meaning": "walk"
+      },
+      {
+        "word": "散歩",
+        "reading": "さんぽ",
+        "meaning": "walk, stroll"
+      }
+    ]
+  },
+  {
+    "kanji": "民",
+    "meaning": "people",
+    "onyomi": [
+      "ミン"
+    ],
+    "onyomi_raw": "ミン",
+    "kunyomi": [
+      "たみ"
+    ],
+    "kunyomi_raw": "たみ",
+    "components": "a needle stabbing an eye",
+    "story": "Ordinary people under the ruler.",
+    "examples": [
+      {
+        "word": "国民",
+        "reading": "こくみん",
+        "meaning": "the nation's people"
+      },
+      {
+        "word": "市民",
+        "reading": "しみん",
+        "meaning": "citizen"
+      }
+    ]
+  },
+  {
+    "kanji": "明",
+    "meaning": "bright",
+    "onyomi": [
+      "メイ",
+      "ミョウ"
+    ],
+    "onyomi_raw": "メイ・ミョウ",
+    "kunyomi": [
+      "あか.るい",
+      "あ.ける"
+    ],
+    "kunyomi_raw": "あか.るい・あ.ける",
+    "components": "日 sun + 月 moon",
+    "story": "Sun and moon together: bright.",
+    "examples": [
+      {
+        "word": "明るい",
+        "reading": "あかるい",
+        "meaning": "bright"
+      },
+      {
+        "word": "説明",
+        "reading": "せつめい",
+        "meaning": "explanation"
+      }
+    ]
+  },
+  {
+    "kanji": "門",
+    "meaning": "gate",
+    "onyomi": [
+      "モン"
+    ],
+    "onyomi_raw": "モン",
+    "kunyomi": [
+      "かど"
+    ],
+    "kunyomi_raw": "かど",
+    "components": "two doors",
+    "story": "A picture of a double gate.",
+    "examples": [
+      {
+        "word": "門",
+        "reading": "もん",
+        "meaning": "gate"
+      },
+      {
+        "word": "専門",
+        "reading": "せんもん",
+        "meaning": "specialty"
+      }
+    ]
+  },
+  {
+    "kanji": "夜",
+    "meaning": "night",
+    "onyomi": [
+      "ヤ"
+    ],
+    "onyomi_raw": "ヤ",
+    "kunyomi": [
+      "よる",
+      "よ"
+    ],
+    "kunyomi_raw": "よる・よ",
+    "components": "亠 + 亻 + 夕 evening",
+    "story": "A person under a roof as evening falls: night.",
+    "examples": [
+      {
+        "word": "夜",
+        "reading": "よる",
+        "meaning": "night"
+      },
+      {
+        "word": "今夜",
+        "reading": "こんや",
+        "meaning": "tonight"
+      }
+    ]
+  },
+  {
+    "kanji": "野",
+    "meaning": "field, wild",
+    "onyomi": [
+      "ヤ"
+    ],
+    "onyomi_raw": "ヤ",
+    "kunyomi": [
+      "の"
+    ],
+    "kunyomi_raw": "の",
+    "components": "里 village + 予",
+    "story": "The open land beyond the village: fields.",
+    "examples": [
+      {
+        "word": "分野",
+        "reading": "ぶんや",
+        "meaning": "field (of study)"
+      }
+    ]
+  },
+  {
+    "kanji": "有",
+    "meaning": "have, exist",
+    "onyomi": [
+      "ユウ",
+      "ウ"
+    ],
+    "onyomi_raw": "ユウ・ウ",
+    "kunyomi": [
+      "あ.る"
+    ],
+    "kunyomi_raw": "あ.る",
+    "components": "ナ hand + 月 meat",
+    "story": "A hand holding meat: to have.",
+    "examples": [
+      {
+        "word": "有名",
+        "reading": "ゆうめい",
+        "meaning": "famous"
+      },
+      {
+        "word": "有料",
+        "reading": "ゆうりょう",
+        "meaning": "paid, not free"
+      }
+    ]
+  },
+  {
+    "kanji": "曜",
+    "meaning": "day of the week",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomi_raw": "ヨウ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "日 sun + 翟 bird",
+    "story": "The sun and a bird: the days going by.",
+    "examples": [
+      {
+        "word": "日曜日",
+        "reading": "にちようび",
+        "meaning": "Sunday"
+      },
+      {
+        "word": "曜日",
+        "reading": "ようび",
+        "meaning": "day of the week"
+      }
+    ]
+  },
+  {
+    "kanji": "用",
+    "meaning": "use, business",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomi_raw": "ヨウ",
+    "kunyomi": [
+      "もち.いる"
+    ],
+    "kunyomi_raw": "もち.いる",
+    "components": "a fence frame",
+    "story": "A wooden frame put to use.",
+    "examples": [
+      {
+        "word": "用事",
+        "reading": "ようじ",
+        "meaning": "errand"
+      },
+      {
+        "word": "利用",
+        "reading": "りよう",
+        "meaning": "use"
+      }
+    ]
+  },
+  {
+    "kanji": "洋",
+    "meaning": "ocean, Western",
+    "onyomi": [
+      "ヨウ"
+    ],
+    "onyomi_raw": "ヨウ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "氵 water + 羊 sheep",
+    "story": "Waves like a flock of sheep: the ocean, across it the West.",
+    "examples": [
+      {
+        "word": "洋服",
+        "reading": "ようふく",
+        "meaning": "western clothes"
+      },
+      {
+        "word": "太平洋",
+        "reading": "たいへいよう",
+        "meaning": "Pacific Ocean"
+      }
+    ]
+  },
+  {
+    "kanji": "理",
+    "meaning": "reason, logic",
+    "onyomi": [
+      "リ"
+    ],
+    "onyomi_raw": "リ",
+    "kunyomi": [],
+    "kunyomi_raw": "-",
+    "components": "王 jewel + 里 village",
+    "story": "The lines inside a jewel: reason, logic.",
+    "examples": [
+      {
+        "word": "料理",
+        "reading": "りょうり",
+        "meaning": "cooking"
+      },
+      {
+        "word": "無理",
+        "reading": "むり",
+        "meaning": "impossible"
+      }
+    ]
+  },
+  {
+    "kanji": "林",
+    "meaning": "woods",
+    "onyomi": [
+      "リン"
+    ],
+    "onyomi_raw": "リン",
+    "kunyomi": [
+      "はやし"
+    ],
+    "kunyomi_raw": "はやし",
+    "components": "two 木 trees",
+    "story": "Two trees: a small wood.",
+    "examples": [
+      {
+        "word": "林",
+        "reading": "はやし",
+        "meaning": "woods"
+      }
+    ]
+  },
+  {
+    "kanji": "味",
+    "meaning": "taste",
+    "onyomi": [
+      "ミ"
+    ],
+    "onyomi_raw": "ミ",
+    "kunyomi": [
+      "あじ"
+    ],
+    "kunyomi_raw": "あじ",
+    "components": "口 mouth + 未 not yet",
+    "story": "In your mouth before you swallow: taste.",
+    "examples": [
+      {
+        "word": "味",
+        "reading": "あじ",
+        "meaning": "taste"
+      },
+      {
+        "word": "意味",
+        "reading": "いみ",
+        "meaning": "meaning"
+      }
+    ]
+  },
+  {
+    "kanji": "店",
+    "meaning": "shop",
+    "onyomi": [
+      "テン"
+    ],
+    "onyomi_raw": "テン",
+    "kunyomi": [
+      "みせ"
+    ],
+    "kunyomi_raw": "みせ",
+    "components": "广 roof + 占 occupy",
+    "story": "A space under a roof taken by a seller: a shop.",
+    "examples": [
+      {
+        "word": "店",
+        "reading": "みせ",
+        "meaning": "shop"
+      },
+      {
+        "word": "店員",
+        "reading": "てんいん",
+        "meaning": "shop clerk"
+      }
+    ]
+  },
+  {
+    "kanji": "寒",
+    "meaning": "cold (weather)",
+    "onyomi": [
+      "カン"
+    ],
+    "onyomi_raw": "カン",
+    "kunyomi": [
+      "さむ.い"
+    ],
+    "kunyomi_raw": "さむ.い",
+    "components": "宀 roof + 井 + ⺀ ice",
+    "story": "Ice forming even under the roof: cold.",
+    "examples": [
+      {
+        "word": "寒い",
+        "reading": "さむい",
+        "meaning": "cold"
+      }
+    ]
+  },
+  {
+    "kanji": "遊",
+    "meaning": "play",
+    "onyomi": [
+      "ユウ"
+    ],
+    "onyomi_raw": "ユウ",
+    "kunyomi": [
+      "あそ.ぶ"
+    ],
+    "kunyomi_raw": "あそ.ぶ",
+    "components": "辶 walk + 方 + 𠂉 + 子 child",
+    "story": "A child wandering under a flag: playing.",
+    "examples": [
+      {
+        "word": "遊ぶ",
+        "reading": "あそぶ",
+        "meaning": "play"
+      }
+    ]
+  },
+  {
+    "kanji": "返",
+    "meaning": "return (something)",
+    "onyomi": [
+      "ヘン"
+    ],
+    "onyomi_raw": "ヘン",
+    "kunyomi": [
+      "かえ.す"
+    ],
+    "kunyomi_raw": "かえ.す",
+    "components": "辶 walk + 反 turn back",
+    "story": "Walking back: returning something.",
+    "examples": [
+      {
+        "word": "返す",
+        "reading": "かえす",
+        "meaning": "give back"
+      },
+      {
+        "word": "返事",
+        "reading": "へんじ",
+        "meaning": "reply"
+      }
+    ]
+  },
+  {
+    "kanji": "忘",
+    "meaning": "forget",
+    "onyomi": [
+      "ボウ"
+    ],
+    "onyomi_raw": "ボウ",
+    "kunyomi": [
+      "わす.れる"
+    ],
+    "kunyomi_raw": "わす.れる",
+    "components": "亡 lost + 心 heart",
+    "story": "Lost from your heart: forgotten.",
+    "examples": [
+      {
+        "word": "忘れる",
+        "reading": "わすれる",
+        "meaning": "forget"
+      },
+      {
+        "word": "忘れ物",
+        "reading": "わすれもの",
+        "meaning": "lost item"
+      }
+    ]
+  },
+  {
+    "kanji": "窓",
+    "meaning": "window",
+    "onyomi": [
+      "ソウ"
+    ],
+    "onyomi_raw": "ソウ",
+    "kunyomi": [
+      "まど"
+    ],
+    "kunyomi_raw": "まど",
+    "components": "穴 hole + 厶 + 心",
+    "story": "A hole in the wall your heart looks out of: a window.",
+    "examples": [
+      {
+        "word": "窓",
+        "reading": "まど",
+        "meaning": "window"
+      }
+    ]
+  },
+  {
+    "kanji": "泳",
+    "meaning": "swim",
+    "onyomi": [
+      "エイ"
+    ],
+    "onyomi_raw": "エイ",
+    "kunyomi": [
+      "およ.ぐ"
+    ],
+    "kunyomi_raw": "およ.ぐ",
+    "components": "氵 water + 永 forever",
+    "story": "Water that goes on forever: swimming.",
+    "examples": [
+      {
+        "word": "泳ぐ",
+        "reading": "およぐ",
+        "meaning": "swim"
+      },
+      {
+        "word": "水泳",
+        "reading": "すいえい",
+        "meaning": "swimming"
+      }
+    ]
+  },
+  {
+    "kanji": "鳴",
+    "meaning": "cry, chirp",
+    "onyomi": [
+      "メイ"
+    ],
+    "onyomi_raw": "メイ",
+    "kunyomi": [
+      "な.く"
+    ],
+    "kunyomi_raw": "な.く",
+    "components": "口 mouth + 鳥 bird",
+    "story": "A bird's mouth: chirping.",
+    "examples": [
+      {
+        "word": "鳴く",
+        "reading": "なく",
+        "meaning": "cry (animal)"
+      },
+      {
+        "word": "鳴る",
+        "reading": "なる",
+        "meaning": "ring"
+      }
+    ]
+  },
+  {
+    "kanji": "吸",
+    "meaning": "suck, inhale",
+    "onyomi": [
+      "キュウ"
+    ],
+    "onyomi_raw": "キュウ",
+    "kunyomi": [
+      "す.う"
+    ],
+    "kunyomi_raw": "す.う",
+    "components": "口 mouth + 及 reach",
+    "story": "The mouth reaches for air: inhale.",
+    "examples": [
+      {
+        "word": "吸う",
+        "reading": "すう",
+        "meaning": "breathe in, smoke"
+      }
+    ]
+  },
+  {
+    "kanji": "猫",
+    "meaning": "cat",
+    "onyomi": [
+      "ビョウ"
+    ],
+    "onyomi_raw": "ビョウ",
+    "kunyomi": [
+      "ねこ"
+    ],
+    "kunyomi_raw": "ねこ",
+    "components": "犭 animal + 苗 sprout",
+    "story": "An animal that plays in the young plants: a cat.",
+    "examples": [
+      {
+        "word": "猫",
+        "reading": "ねこ",
+        "meaning": "cat"
+      }
+    ]
+  },
+  {
+    "kanji": "酒",
+    "meaning": "alcohol",
+    "onyomi": [
+      "シュ"
+    ],
+    "onyomi_raw": "シュ",
+    "kunyomi": [
+      "さけ"
+    ],
+    "kunyomi_raw": "さけ",
+    "components": "氵 liquid + 酉 jar",
+    "story": "Liquid in a jar: sake.",
+    "examples": [
+      {
+        "word": "お酒",
+        "reading": "おさけ",
+        "meaning": "alcohol"
+      },
+      {
+        "word": "日本酒",
+        "reading": "にほんしゅ",
+        "meaning": "sake"
+      }
+    ]
+  },
+  {
+    "kanji": "昔",
+    "meaning": "long ago",
+    "onyomi": [
+      "セキ",
+      "シャク"
+    ],
+    "onyomi_raw": "セキ・シャク",
+    "kunyomi": [
+      "むかし"
+    ],
+    "kunyomi_raw": "むかし",
+    "components": "艹-like + 日 days",
+    "story": "Many days piled up: long ago.",
+    "examples": [
+      {
+        "word": "昔",
+        "reading": "むかし",
+        "meaning": "long ago"
+      }
+    ]
+  },
+  {
+    "kanji": "曲",
+    "meaning": "bend, tune",
+    "onyomi": [
+      "キョク"
+    ],
+    "onyomi_raw": "キョク",
+    "kunyomi": [
+      "ま.がる"
+    ],
+    "kunyomi_raw": "ま.がる",
+    "components": "a bent frame",
+    "story": "A bent frame: a curve, a melody.",
+    "examples": [
+      {
+        "word": "曲がる",
+        "reading": "まがる",
+        "meaning": "turn, bend"
+      },
+      {
+        "word": "曲",
+        "reading": "きょく",
+        "meaning": "tune, song"
+      }
+    ]
+  },
+  {
+    "kanji": "公",
+    "meaning": "public",
+    "onyomi": [
+      "コウ"
+    ],
+    "onyomi_raw": "コウ",
+    "kunyomi": [
+      "おおやけ"
+    ],
+    "kunyomi_raw": "おおやけ",
+    "components": "八 split + 厶 private",
+    "story": "What is private (厶) split open (八) for everyone: public.",
+    "examples": [
+      {
+        "word": "公園",
+        "reading": "こうえん",
+        "meaning": "park"
+      },
+      {
+        "word": "公立",
+        "reading": "こうりつ",
+        "meaning": "public (school)"
+      }
+    ]
+  }
+]

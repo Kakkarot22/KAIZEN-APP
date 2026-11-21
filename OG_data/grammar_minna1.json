@@ -1,0 +1,7099 @@
+[
+  {
+    "id": "m1-1-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 1,
+    "pattern": "N1 は N2 です",
+    "meaning": "N1 is N2",
+    "questions": [
+      {
+        "qid": "g-m1-1-1-1",
+        "pt_id": "m1-1-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 は N2 です",
+        "type": "gf",
+        "question": "わたし（　　）マイク・ミラーです。",
+        "correct": "は",
+        "wrong_options": [
+          "を",
+          "に",
+          "へ"
+        ],
+        "explanation": "Topic は: わたしは ミラーです.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I am Mike Miller.",
+        "notes": [
+          "を marks the object of a verb (パンを 食べる). There is no verb here, only です.",
+          "に marks a place, time or receiver. To say who you are talking about, use は.",
+          "へ marks where you move to. Nobody is moving here."
+        ]
+      },
+      {
+        "qid": "g-m1-1-1-2",
+        "pt_id": "m1-1-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 は N2 です",
+        "type": "gf",
+        "question": "わたしは 学生（　　）。",
+        "correct": "です",
+        "wrong_options": [
+          "ます",
+          "でます",
+          "います"
+        ],
+        "explanation": "Noun + です. ます only attaches to a verb.",
+        "tags": [
+          "form",
+          "form",
+          "nuance"
+        ],
+        "translation": "I am a student.",
+        "notes": [
+          "ます attaches to a verb (行きます, 食べます). 学生 is a noun, so it takes です.",
+          "でます is the verb 出ます (go out). \"I am a student\" is 学生です.",
+          "います says a person is somewhere and needs が: 学生が います = there is a student. \"I am a student\" is 学生です."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-1-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 1,
+    "pattern": "N1 は N2 じゃ（では）ありません",
+    "meaning": "N1 is not N2",
+    "questions": [
+      {
+        "qid": "g-m1-1-2-1",
+        "pt_id": "m1-1-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 は N2 じゃ（では）ありません",
+        "type": "gf",
+        "question": "サントスさんは 学生（　　）。かいしゃいんです。",
+        "correct": "じゃ ありません",
+        "wrong_options": [
+          "です",
+          "じゃ ありませんか",
+          "ですか"
+        ],
+        "explanation": "He is not a student; he is an office worker.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "Mr. Santos is not a student. He is an office worker.",
+        "notes": [
+          "です says he IS a student, but the next sentence says he is an office worker.",
+          "じゃ ありませんか is \"isn't he a student?\", a question expecting yes. The next sentence states the opposite.",
+          "ですか asks whether he is a student, but then the speaker answers with a fact about his job. The sentence needs the plain negative."
+        ]
+      },
+      {
+        "qid": "g-m1-1-2-2",
+        "pt_id": "m1-1-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 は N2 じゃ（では）ありません",
+        "type": "gf",
+        "question": "ミラーさんは 先生では（　　）。",
+        "correct": "ありません",
+        "wrong_options": [
+          "ません",
+          "いません",
+          "なりません"
+        ],
+        "explanation": "では ありません is the polite negative of です.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Mr. Miller is not a teacher.",
+        "notes": [
+          "ません attaches to a verb stem (行きません). After では, the polite negative of です is ありません.",
+          "いません is the negative of いる (a person is not there). The negative of です is では ありません.",
+          "では なりません is not a form. なりません appears in なければ なりません (must)."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-1-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 1,
+    "pattern": "S か",
+    "meaning": "question marker",
+    "questions": [
+      {
+        "qid": "g-m1-1-3-1",
+        "pt_id": "m1-1-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "S か",
+        "type": "gf",
+        "question": "あの かたは どなたです（　　）。",
+        "correct": "か",
+        "wrong_options": [
+          "ね",
+          "よ",
+          "も"
+        ],
+        "explanation": "Questions end in か.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "particle"
+        ],
+        "translation": "Who is that person?",
+        "notes": [
+          "ね asks the listener to agree with something both know. With a question word like どなた you ask: か.",
+          "よ tells the listener new information. You can't tell someone \"who\"; you ask with か.",
+          "も means \"also\" and goes after a noun. It doesn't end a sentence."
+        ]
+      },
+      {
+        "qid": "g-m1-1-3-2",
+        "pt_id": "m1-1-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "S か",
+        "type": "gf",
+        "question": "ワンさんは いしゃです（　　）。…いいえ、いしゃじゃ ありません。",
+        "correct": "か",
+        "wrong_options": [
+          "が",
+          "は",
+          "も"
+        ],
+        "explanation": "Yes/no question: 〜ですか.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Is Mr. Wang a doctor? — No, he is not a doctor.",
+        "notes": [
+          "ですが means \"he is a doctor, but…\" and leaves the sentence hanging. いいえ answers a question, so it needs か.",
+          "は marks the topic before what you say about it (ワンさんは). It never comes after です.",
+          "も means \"also\" and goes after a noun (ワンさんも). It can't end a sentence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-1-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 1,
+    "pattern": "N も",
+    "meaning": "also, too",
+    "questions": [
+      {
+        "qid": "g-m1-1-4-1",
+        "pt_id": "m1-1-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N も",
+        "type": "gf",
+        "question": "ミラーさんは かいしゃいんです。グプタさん（　　）かいしゃいんです。",
+        "correct": "も",
+        "wrong_options": [
+          "と",
+          "を",
+          "や"
+        ],
+        "explanation": "も = also.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Mr. Miller is an office worker. Mr. Gupta is an office worker too.",
+        "notes": [
+          "と joins two nouns (A と B), so it needs another noun after it. It also loses the meaning \"too\".",
+          "を marks the object of a verb. です has no object.",
+          "や lists examples (A や B など). It needs another noun after it, and it doesn't mean \"too\"."
+        ]
+      },
+      {
+        "qid": "g-m1-1-4-2",
+        "pt_id": "m1-1-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N も",
+        "type": "gf",
+        "question": "わたしは 学生です。あなた（　　）学生ですか。",
+        "correct": "も",
+        "wrong_options": [
+          "と",
+          "を",
+          "で"
+        ],
+        "explanation": "あなたも = you too.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I am a student. Are you a student too?",
+        "notes": [
+          "と joins two nouns or means \"with\". \"With you, a student?\" isn't the question. \"You too\" is あなたも.",
+          "を marks the object of a verb. です has no object.",
+          "で marks a place of action or a means. \"You too\" is あなたも."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-1-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 1,
+    "pattern": "N1 の N2",
+    "meaning": "N2 of / belonging to N1",
+    "questions": [
+      {
+        "qid": "g-m1-1-5-1",
+        "pt_id": "m1-1-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 の N2",
+        "type": "gf",
+        "question": "ミラーさんは IMC（　　）しゃいんです。",
+        "correct": "の",
+        "wrong_options": [
+          "は",
+          "も",
+          "を"
+        ],
+        "explanation": "Company の employee.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Mr. Miller is an IMC employee.",
+        "notes": [
+          "は already marks ミラーさん as the topic. A second は between IMC and しゃいん breaks the phrase. \"IMC's employee\" needs の.",
+          "\"IMC too\" doesn't fit, and IMC still has to be joined to しゃいん with の.",
+          "を marks the object of a verb. To join two nouns, use の."
+        ]
+      },
+      {
+        "qid": "g-m1-1-5-2",
+        "pt_id": "m1-1-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 1,
+        "pattern": "N1 の N2",
+        "type": "gf",
+        "question": "わたしは さくら大学（　　）学生です。",
+        "correct": "の",
+        "wrong_options": [
+          "に",
+          "で",
+          "が"
+        ],
+        "explanation": "School の student.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I am a student at Sakura University.",
+        "notes": [
+          "に marks where something is or goes. Two nouns are joined with の: さくら大学の 学生.",
+          "English says \"a student AT Sakura University\", but で marks where an action happens (大学で べんきょうします). Before a noun use の.",
+          "が marks a subject, and わたしは is already the subject. Two nouns are joined with の."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-2-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 2,
+    "pattern": "これ / それ / あれ",
+    "meaning": "this / that (thing)",
+    "questions": [
+      {
+        "qid": "g-m1-2-1-1",
+        "pt_id": "m1-2-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "これ / それ / あれ",
+        "type": "gf",
+        "question": "A：（　　）は 何ですか。B：それは じしょです。",
+        "correct": "これ",
+        "wrong_options": [
+          "この",
+          "ここ",
+          "どれ"
+        ],
+        "explanation": "B answers それ, so the thing is near A: A says これ. この needs a noun after it.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "A: What is this? B: That is a dictionary.",
+        "notes": [
+          "この must be followed by a noun (この 本). It can't stand alone before は.",
+          "ここ = this place. B answers それは じしょです: a thing, not a place.",
+          "どれ asks \"which one\" when choosing, and takes が, not は (どれが). A is just asking what this is."
+        ]
+      },
+      {
+        "qid": "g-m1-2-1-2",
+        "pt_id": "m1-2-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "これ / それ / あれ",
+        "type": "gf",
+        "question": "あれは（　　）の かさですか。…さとうさんのです。",
+        "correct": "だれ",
+        "wrong_options": [
+          "何",
+          "どこ",
+          "いつ"
+        ],
+        "explanation": "だれの = whose.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "Whose umbrella is that? — It's Ms. Sato's.",
+        "notes": [
+          "何の asks what kind or what about (何の 本 = a book about what). The answer is a person, so だれの.",
+          "どこの asks where something is from (どこの とけい = a watch from where). さとうさん is a person.",
+          "いつの asks when (いつの しゃしん = a photo from when). The answer names an owner."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-2-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 2,
+    "pattern": "この / その / あの N",
+    "meaning": "this / that + noun",
+    "questions": [
+      {
+        "qid": "g-m1-2-2-1",
+        "pt_id": "m1-2-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "この / その / あの N",
+        "type": "gf",
+        "question": "（　　）かばんは わたしのです。",
+        "correct": "この",
+        "wrong_options": [
+          "これ",
+          "ここ",
+          "こちら"
+        ],
+        "explanation": "この must be followed by a noun; これ stands alone.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "This bag is mine.",
+        "notes": [
+          "これ stands alone (これは わたしのです). It can't sit before a noun like かばん.",
+          "ここ = this place. It can't sit before a noun either; \"this bag\" is この かばん.",
+          "こちら = this way / this side (polite). It doesn't go directly before a noun."
+        ]
+      },
+      {
+        "qid": "g-m1-2-2-2",
+        "pt_id": "m1-2-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "この / その / あの N",
+        "type": "gf",
+        "question": "あの 人は だれですか。…（　　）人は やまださんです。",
+        "correct": "あの",
+        "wrong_options": [
+          "あれ",
+          "あそこ",
+          "あちら"
+        ],
+        "explanation": "あの + noun.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "Who is that person? — That person is Mr. Yamada.",
+        "notes": [
+          "あれ stands alone (あれは 何ですか). Before a noun like 人, use あの.",
+          "あそこ = that place over there. It can't sit directly before a noun.",
+          "あちら = that way (polite). It doesn't go directly before a noun. \"That person\" is あの 人."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-2-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 2,
+    "pattern": "そうです / そうじゃ ありません",
+    "meaning": "yes, that's right / no",
+    "questions": [
+      {
+        "qid": "g-m1-2-3-1",
+        "pt_id": "m1-2-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "そうです / そうじゃ ありません",
+        "type": "gf",
+        "question": "それは テレホンカードですか。…はい、（　　）。",
+        "correct": "そうです",
+        "wrong_options": [
+          "そうじゃ ありません",
+          "いいえ",
+          "ありません"
+        ],
+        "explanation": "はい、そうです.",
+        "tags": [
+          "dir",
+          "dir",
+          "form"
+        ],
+        "translation": "Is that a telephone card? — Yes, it is.",
+        "notes": [
+          "はい then そうじゃ ありません says \"yes\" and \"no, it isn't\" at once.",
+          "いいえ means \"no\". はい、いいえ says yes and no together.",
+          "ありません means \"there isn't / I don't have\". To confirm what something is, say そうです."
+        ]
+      },
+      {
+        "qid": "g-m1-2-3-2",
+        "pt_id": "m1-2-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "そうです / そうじゃ ありません",
+        "type": "gf",
+        "question": "これは ボールペンですか。…いいえ、（　　）。シャープペンシルです。",
+        "correct": "そうじゃ ありません",
+        "wrong_options": [
+          "そうです",
+          "ボールペンです",
+          "はい"
+        ],
+        "explanation": "いいえ、そうじゃ ありません.",
+        "tags": [
+          "dir",
+          "nuance",
+          "dir"
+        ],
+        "translation": "Is this a ballpoint pen? — No, it isn't. It's a mechanical pencil.",
+        "notes": [
+          "いいえ then そうです says \"no\" and \"yes, it is\" at once.",
+          "ボールペンです says it IS a ballpoint pen, against いいえ and against the next sentence.",
+          "いいえ then はい says no and yes together. After いいえ comes そうじゃ ありません."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-2-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 2,
+    "pattern": "S1 か、S2 か",
+    "meaning": "A or B?",
+    "questions": [
+      {
+        "qid": "g-m1-2-4-1",
+        "pt_id": "m1-2-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "S1 か、S2 か",
+        "type": "gf",
+        "question": "これは「９」です（　　）、「７」です（　　）。",
+        "correct": "か",
+        "wrong_options": [
+          "ね",
+          "よ",
+          "も"
+        ],
+        "explanation": "Choice question: 〜ですか、〜ですか.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "particle"
+        ],
+        "translation": "Is this a 9 or a 7?",
+        "notes": [
+          "ね asks for agreement on one fact. To ask \"this or that?\", each part ends in か.",
+          "よ tells new information. Here you are asking which number it is.",
+          "も = also. \"9 too, 7 too\" is not a question."
+        ]
+      },
+      {
+        "qid": "g-m1-2-4-2",
+        "pt_id": "m1-2-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "S1 か、S2 か",
+        "type": "gf",
+        "question": "それは シャープペンシルですか、ボールペンですか。…（　　）。",
+        "correct": "シャープペンシルです",
+        "wrong_options": [
+          "はい、そうです",
+          "いいえ、ちがいます",
+          "そうですね"
+        ],
+        "explanation": "A choice question cannot be answered with はい / いいえ.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "Is that a mechanical pencil or a ballpoint pen? — It's a mechanical pencil.",
+        "notes": [
+          "はい answers a yes/no question. This asks you to choose one of two, so you name it.",
+          "いいえ answers a yes/no question. A choice question is answered by naming the thing.",
+          "そうですね means \"right\" or \"let me see\". It doesn't choose either one."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-2-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 2,
+    "pattern": "N の（の = thing）",
+    "meaning": "N's (one)",
+    "questions": [
+      {
+        "qid": "g-m1-2-5-1",
+        "pt_id": "m1-2-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "N の（の = thing）",
+        "type": "gf",
+        "question": "この かばんは わたし（　　）です。",
+        "correct": "の",
+        "wrong_options": [
+          "に",
+          "が",
+          "を"
+        ],
+        "explanation": "わたしの = mine.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "This bag is mine.",
+        "notes": [
+          "に marks a place or a receiver. \"Mine\" is わたしの.",
+          "が marks a subject and needs a verb or adjective after it. \"Mine\" is わたしの.",
+          "を marks the object of a verb. です has no object."
+        ]
+      },
+      {
+        "qid": "g-m1-2-5-2",
+        "pt_id": "m1-2-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 2,
+        "pattern": "N の（の = thing）",
+        "type": "gf",
+        "question": "あの とけいは だれのですか。…さとうさん（　　）。",
+        "correct": "のです",
+        "wrong_options": [
+          "です",
+          "にです",
+          "がです"
+        ],
+        "explanation": "さとうさんです would mean \"it is Sato\". You need の: Sato's.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Whose watch is that? — It's Ms. Sato's.",
+        "notes": [
+          "さとうさんです says the watch IS Ms. Sato. \"Ms. Sato's\" needs の: さとうさんのです.",
+          "に can't come right before です. The owner is shown with の.",
+          "が can't come right before です. The owner is shown with の."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-3-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 3,
+    "pattern": "ここ / そこ / あそこ / どこ",
+    "meaning": "here / there / where",
+    "questions": [
+      {
+        "qid": "g-m1-3-1-1",
+        "pt_id": "m1-3-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "ここ / そこ / あそこ / どこ",
+        "type": "gf",
+        "question": "トイレは（　　）ですか。…あそこです。",
+        "correct": "どこ",
+        "wrong_options": [
+          "どれ",
+          "どの",
+          "だれ"
+        ],
+        "explanation": "どこ asks for a place.",
+        "tags": [
+          "field",
+          "form",
+          "field"
+        ],
+        "translation": "Where is the toilet? — It's over there.",
+        "notes": [
+          "どれ asks which thing out of several. The answer あそこ is a place, so どこ.",
+          "どの needs a noun after it (どの へや). Alone before です, use どこ.",
+          "だれ asks who. A toilet is a place."
+        ]
+      },
+      {
+        "qid": "g-m1-3-1-2",
+        "pt_id": "m1-3-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "ここ / そこ / あそこ / どこ",
+        "type": "gf",
+        "question": "ここは しょくどうです。じむしょは（　　）です。(far from both of us)",
+        "correct": "あそこ",
+        "wrong_options": [
+          "あれ",
+          "あの",
+          "そこ"
+        ],
+        "explanation": "Far from both speakers = あそこ. そこ is near the listener.",
+        "tags": [
+          "form",
+          "form",
+          "field"
+        ],
+        "translation": "This is the cafeteria. The office is over there.",
+        "notes": [
+          "あれ points at a thing far away. For a place, use あそこ.",
+          "あの needs a noun after it (あの へや). Alone, a far place is あそこ.",
+          "そこ is near the listener. The hint says far from both of you: あそこ."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-3-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 3,
+    "pattern": "N は（place）です / こちら・どちら",
+    "meaning": "N is at ~ (polite: こちら)",
+    "questions": [
+      {
+        "qid": "g-m1-3-2-1",
+        "pt_id": "m1-3-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "N は（place）です / こちら・どちら",
+        "type": "gf",
+        "question": "エレベーターは（　　）ですか。…あちらです。",
+        "correct": "どちら",
+        "wrong_options": [
+          "どなた",
+          "どの",
+          "何"
+        ],
+        "explanation": "どちら is the polite どこ.",
+        "tags": [
+          "field",
+          "form",
+          "field"
+        ],
+        "translation": "Where is the elevator? — It's over there.",
+        "notes": [
+          "どなた is the polite だれ: it asks who. An elevator is not a person.",
+          "どの needs a noun after it (どの エレベーター). Alone, the polite \"where\" is どちら.",
+          "何ですか asks what something is. You know it's an elevator; you want to know where."
+        ]
+      },
+      {
+        "qid": "g-m1-3-2-2",
+        "pt_id": "m1-3-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "N は（place）です / こちら・どちら",
+        "type": "gf",
+        "question": "ミラーさんは（　　）ですか。…かいぎしつです。",
+        "correct": "どこ",
+        "wrong_options": [
+          "どれ",
+          "だれ",
+          "どの"
+        ],
+        "explanation": "Asking where a person is: どこ.",
+        "tags": [
+          "field",
+          "field",
+          "form"
+        ],
+        "translation": "Where is Mr. Miller? — He's in the meeting room.",
+        "notes": [
+          "どれ asks which thing. ミラーさん is a person and the answer is a room.",
+          "だれ asks who, but you already named him. The answer is a place: どこ.",
+          "どの needs a noun after it. Alone, \"where\" is どこ."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-3-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 3,
+    "pattern": "N1 の N2（made in）",
+    "meaning": "N2 from N1",
+    "questions": [
+      {
+        "qid": "g-m1-3-3-1",
+        "pt_id": "m1-3-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "N1 の N2（made in）",
+        "type": "gf",
+        "question": "これは（　　）の とけいですか。…スイスの とけいです。",
+        "correct": "どこ",
+        "wrong_options": [
+          "だれ",
+          "何",
+          "どれ"
+        ],
+        "explanation": "The answer is a country, so どこの.",
+        "tags": [
+          "field",
+          "field",
+          "form"
+        ],
+        "translation": "Where is this watch from? — It's a Swiss watch.",
+        "notes": [
+          "だれの asks whose (the owner). The answer スイス is a country, so どこの.",
+          "何の asks what kind or what for. The answer is a country: どこの.",
+          "Before a noun, \"which\" is どの (どの とけい), never どれの. And the answer is a country."
+        ]
+      },
+      {
+        "qid": "g-m1-3-3-2",
+        "pt_id": "m1-3-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "N1 の N2（made in）",
+        "type": "gf",
+        "question": "これは 日本（　　）カメラです。",
+        "correct": "の",
+        "wrong_options": [
+          "で",
+          "に",
+          "が"
+        ],
+        "explanation": "Country の product.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "This is a Japanese camera.",
+        "notes": [
+          "English says \"made IN Japan\", but で marks where an action happens. Before a noun, use の: 日本の カメラ.",
+          "に marks where something is or goes. It can't join two nouns.",
+          "が marks a subject. It can't join two nouns."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-3-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 3,
+    "pattern": "いくら",
+    "meaning": "how much",
+    "questions": [
+      {
+        "qid": "g-m1-3-4-1",
+        "pt_id": "m1-3-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "いくら",
+        "type": "gf",
+        "question": "この ワインは（　　）ですか。…2,500円です。",
+        "correct": "いくら",
+        "wrong_options": [
+          "いくつ",
+          "何",
+          "どれ"
+        ],
+        "explanation": "Price = いくら. いくつ = how many / how old.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "How much is this wine? — It's 2,500 yen.",
+        "notes": [
+          "いくつ asks how many or how old. The answer 2,500円 is a price.",
+          "何ですか asks what it is. You already said it's wine.",
+          "どれ asks which one. You are pointing at it with この."
+        ]
+      },
+      {
+        "qid": "g-m1-3-4-2",
+        "pt_id": "m1-3-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 3,
+        "pattern": "いくら",
+        "type": "gf",
+        "question": "この りんごは 一つ（　　）ですか。…150円です。",
+        "correct": "いくら",
+        "wrong_options": [
+          "いくつ",
+          "どれ",
+          "何時"
+        ],
+        "explanation": "Asking a price: いくら. いくつ asks how many.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "How much is one of these apples? — 150 yen.",
+        "notes": [
+          "いくつ asks how many, but 一つ already says one. The answer 150円 is a price.",
+          "どれ asks which one. You already said この りんご.",
+          "何時 asks a clock time. The answer is a price."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "〜時〜分 / なんじ",
+    "meaning": "telling the time",
+    "questions": [
+      {
+        "qid": "g-m1-4-1-1",
+        "pt_id": "m1-4-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "〜時〜分 / なんじ",
+        "type": "gf",
+        "question": "今（　　）ですか。…９時半です。",
+        "correct": "何時",
+        "wrong_options": [
+          "何分",
+          "いつ",
+          "いくら"
+        ],
+        "explanation": "何時 = what time.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "What time is it now? — It's 9:30.",
+        "notes": [
+          "何分 asks only the minutes. The answer gives the hour too, so 何時.",
+          "いつ asks the day or date. For a clock time, use 何時.",
+          "いくら asks a price."
+        ]
+      },
+      {
+        "qid": "g-m1-4-1-2",
+        "pt_id": "m1-4-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "〜時〜分 / なんじ",
+        "type": "gf",
+        "question": "えいがは（　　）からですか。…７時からです。",
+        "correct": "何時",
+        "wrong_options": [
+          "なんようび",
+          "いくら",
+          "どれ"
+        ],
+        "explanation": "The answer is a clock time, so 何時.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "What time does the movie start? — At 7 o'clock.",
+        "notes": [
+          "なんようび asks the day of the week. The answer is a clock time.",
+          "いくら asks a price.",
+          "どれ asks which one. It can't ask a time."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "Vます / Vません / Vました / Vませんでした",
+    "meaning": "polite verb tenses",
+    "questions": [
+      {
+        "qid": "g-m1-4-2-1",
+        "pt_id": "m1-4-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "Vます / Vません / Vました / Vませんでした",
+        "type": "gf",
+        "question": "きのう べんきょう（　　）。",
+        "correct": "しました",
+        "wrong_options": [
+          "します",
+          "しません",
+          "しましょう"
+        ],
+        "explanation": "きのう → past: しました.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I studied yesterday.",
+        "notes": [
+          "します is present or future. きのう needs the past: しました.",
+          "しません means \"don't / won't\", and it isn't past either.",
+          "しましょう = let's do it. You can't invite someone to do something yesterday."
+        ]
+      },
+      {
+        "qid": "g-m1-4-2-2",
+        "pt_id": "m1-4-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "Vます / Vません / Vました / Vませんでした",
+        "type": "gf",
+        "question": "あしたは はたらき（　　）。休みです。",
+        "correct": "ません",
+        "wrong_options": [
+          "ました",
+          "ませんでした",
+          "ましょう"
+        ],
+        "explanation": "Tomorrow, not working → ません.",
+        "tags": [
+          "form",
+          "form",
+          "nuance"
+        ],
+        "translation": "I won't work tomorrow. It's my day off.",
+        "notes": [
+          "ました is past. あした is tomorrow.",
+          "ませんでした is past negative. Tomorrow hasn't happened yet.",
+          "ましょう = let's work. But the next sentence says tomorrow is a day off."
+        ]
+      },
+      {
+        "qid": "g-m1-4-2-3",
+        "pt_id": "m1-4-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "Vます / Vません / Vました / Vませんでした",
+        "type": "gf",
+        "question": "おととい べんきょうしましたか。…いいえ、（　　）。",
+        "correct": "しませんでした",
+        "wrong_options": [
+          "しません",
+          "しました",
+          "しないでした"
+        ],
+        "explanation": "Past negative: しませんでした.",
+        "tags": [
+          "form",
+          "dir",
+          "form"
+        ],
+        "translation": "Did you study the day before yesterday? — No, I didn't.",
+        "notes": [
+          "しません is present or future. おととい is in the past.",
+          "しました means \"yes, I did\". It clashes with いいえ.",
+          "しないでした is not a form. The polite past negative is しませんでした."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "N（time）に V",
+    "meaning": "at (a time)",
+    "questions": [
+      {
+        "qid": "g-m1-4-3-1",
+        "pt_id": "m1-4-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N（time）に V",
+        "type": "gf",
+        "question": "まいあさ ６時（　　）おきます。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "へ"
+        ],
+        "explanation": "Clock time + に. (まいあさ, きのう, あした take no に.)",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I get up at 6 every morning.",
+        "notes": [
+          "で marks where an action happens, not a clock time. Clock time + に.",
+          "を marks an object. おきる has no object.",
+          "へ marks where you move to."
+        ]
+      },
+      {
+        "qid": "g-m1-4-3-2",
+        "pt_id": "m1-4-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N（time）に V",
+        "type": "gf",
+        "question": "どようび（　　）としょかんへ 行きます。",
+        "correct": "に",
+        "wrong_options": [
+          "を",
+          "が",
+          "で"
+        ],
+        "explanation": "Days of the week can take に.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I'm going to the library on Saturday.",
+        "notes": [
+          "を marks an object. Saturday isn't what you go to; としょかんへ is.",
+          "が marks a subject. Saturday isn't the one going.",
+          "で marks a place of action or a means. A day of the week takes に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "N1 から N2 まで",
+    "meaning": "from N1 to N2",
+    "questions": [
+      {
+        "qid": "g-m1-4-4-1",
+        "pt_id": "m1-4-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N1 から N2 まで",
+        "type": "gf",
+        "question": "ぎんこうは ９時（　　）３時までです。",
+        "correct": "から",
+        "wrong_options": [
+          "まで",
+          "に",
+          "で"
+        ],
+        "explanation": "から = from.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "The bank is open from 9 to 3.",
+        "notes": [
+          "まで = until. The sentence already has ３時まで, so ９時 is the start: から.",
+          "に marks one point in time. With まで, the start of a range is から.",
+          "で doesn't mark time here. The start of a range is から."
+        ]
+      },
+      {
+        "qid": "g-m1-4-4-2",
+        "pt_id": "m1-4-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N1 から N2 まで",
+        "type": "gf",
+        "question": "休みは どようびから にちようび（　　）です。",
+        "correct": "まで",
+        "wrong_options": [
+          "から",
+          "に",
+          "と"
+        ],
+        "explanation": "まで = until.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "The holiday is from Saturday to Sunday.",
+        "notes": [
+          "から is already used for the start (どようびから). にちようび is the end: まで.",
+          "に marks one point in time, not the end of a range.",
+          "と joins nouns (どようびと にちようび). It can't pair with から."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "N1 と N2",
+    "meaning": "N1 and N2 (nouns)",
+    "questions": [
+      {
+        "qid": "g-m1-4-5-1",
+        "pt_id": "m1-4-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N1 と N2",
+        "type": "gf",
+        "question": "休みは どようび（　　）にちようびです。",
+        "correct": "と",
+        "wrong_options": [
+          "も",
+          "が",
+          "を"
+        ],
+        "explanation": "と joins nouns: A と B.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "My days off are Saturday and Sunday.",
+        "notes": [
+          "も = also. It can't join two nouns into a list.",
+          "が marks a subject. It can't join two nouns.",
+          "を marks an object. です has no object."
+        ]
+      },
+      {
+        "qid": "g-m1-4-5-2",
+        "pt_id": "m1-4-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "N1 と N2",
+        "type": "gf",
+        "question": "きのう パン（　　）たまごを かいました。",
+        "correct": "と",
+        "wrong_options": [
+          "を",
+          "が",
+          "に"
+        ],
+        "explanation": "と joins two nouns: パンと たまご.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Yesterday I bought bread and eggs.",
+        "notes": [
+          "を comes only once, after the last noun. To join パン and たまご, use と.",
+          "が marks a subject. The bread isn't doing the buying.",
+          "に marks a place or a receiver. To join two nouns, use と."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-4-6",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 4,
+    "pattern": "〜ね",
+    "meaning": "right? (seeking agreement)",
+    "questions": [
+      {
+        "qid": "g-m1-4-6-1",
+        "pt_id": "m1-4-6",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "〜ね",
+        "type": "gf",
+        "question": "まいばん 10時まで べんきょうします。…たいへんです（　　）。",
+        "correct": "ね",
+        "wrong_options": [
+          "か",
+          "よ",
+          "も"
+        ],
+        "explanation": "Sympathy / agreement: たいへんですね.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "particle"
+        ],
+        "translation": "I study until 10 every night. — That's tough, isn't it.",
+        "notes": [
+          "か makes it a question (\"is it tough?\"). You are reacting with sympathy: ね.",
+          "よ tells new information. They know their own schedule; you are sharing the feeling: ね.",
+          "も doesn't end a sentence."
+        ]
+      },
+      {
+        "qid": "g-m1-4-6-2",
+        "pt_id": "m1-4-6",
+        "book": "m1",
+        "level": 5,
+        "unit": 4,
+        "pattern": "〜ね",
+        "type": "gf",
+        "question": "今日は いい 天気です（　　）。…ええ、そうですね。",
+        "correct": "ね",
+        "wrong_options": [
+          "よ",
+          "を",
+          "に"
+        ],
+        "explanation": "The other person agrees (そうですね), so the speaker was seeking agreement: ね. よ gives new information.",
+        "tags": [
+          "nuance",
+          "particle",
+          "particle"
+        ],
+        "translation": "Nice weather today, isn't it? — Yes, it is.",
+        "notes": [
+          "よ tells the listener something new. The reply そうですね shows they agree, so it was ね.",
+          "を marks an object of a verb. It can't end a sentence.",
+          "に marks a place or time. It can't end a sentence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-5-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 5,
+    "pattern": "N（place）へ いきます・きます・かえります",
+    "meaning": "go / come / return to",
+    "questions": [
+      {
+        "qid": "g-m1-5-1-1",
+        "pt_id": "m1-5-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（place）へ いきます・きます・かえります",
+        "type": "gf",
+        "question": "あした きょうと（　　）行きます。",
+        "correct": "へ",
+        "wrong_options": [
+          "を",
+          "で",
+          "が"
+        ],
+        "explanation": "Direction へ (or に).",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I'm going to Kyoto tomorrow.",
+        "notes": [
+          "With 行く, を marks a path you move through (みちを 行く), not where you go. \"To Kyoto\" is へ or に.",
+          "で marks where an action happens. A destination takes へ.",
+          "が marks the subject. Kyoto isn't the one going."
+        ]
+      },
+      {
+        "qid": "g-m1-5-1-2",
+        "pt_id": "m1-5-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（place）へ いきます・きます・かえります",
+        "type": "gf",
+        "question": "きのう どこへも（　　）。",
+        "correct": "行きませんでした",
+        "wrong_options": [
+          "行きました",
+          "行きます",
+          "行きましょう"
+        ],
+        "explanation": "どこへも + negative = went nowhere.",
+        "tags": [
+          "polar",
+          "polar",
+          "polar"
+        ],
+        "translation": "I didn't go anywhere yesterday.",
+        "notes": [
+          "どこへも needs a negative. 行きました is positive.",
+          "行きます is positive and not past. どこへも needs a negative, and きのう needs the past.",
+          "行きましょう = let's go. It is positive and about the future."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-5-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 5,
+    "pattern": "N（vehicle）で いきます",
+    "meaning": "by (means of transport)",
+    "questions": [
+      {
+        "qid": "g-m1-5-2-1",
+        "pt_id": "m1-5-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（vehicle）で いきます",
+        "type": "gf",
+        "question": "電車（　　）学校へ 来ます。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "を",
+          "と"
+        ],
+        "explanation": "Means of transport + で.",
+        "tags": [
+          "colloc",
+          "particle",
+          "particle"
+        ],
+        "translation": "I come to school by train.",
+        "notes": [
+          "に goes with のる (電車に のる = get on a train). With 来ます, \"by train\" is で.",
+          "を marks an object. The train isn't what you come.",
+          "と = with a person. A train is a means of transport: で."
+        ]
+      },
+      {
+        "qid": "g-m1-5-2-2",
+        "pt_id": "m1-5-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（vehicle）で いきます",
+        "type": "gf",
+        "question": "駅から（　　）かえりました。(on foot)",
+        "correct": "あるいて",
+        "wrong_options": [
+          "あるいてで",
+          "あるくで",
+          "あるきで"
+        ],
+        "explanation": "On foot = あるいて (no で).",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I walked home from the station.",
+        "notes": [
+          "あるいて already means \"on foot\". Don't add で after a て-form.",
+          "あるく is a verb, and a verb can't take で. Use the て-form: あるいて.",
+          "あるき is the stem. \"On foot\" is the て-form あるいて."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-5-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 5,
+    "pattern": "N（person）と V / ひとりで",
+    "meaning": "with someone / alone",
+    "questions": [
+      {
+        "qid": "g-m1-5-3-1",
+        "pt_id": "m1-5-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（person）と V / ひとりで",
+        "type": "gf",
+        "question": "かぞく（　　）日本へ 来ました。",
+        "correct": "と",
+        "wrong_options": [
+          "に",
+          "を",
+          "へ"
+        ],
+        "explanation": "With a person: と.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I came to Japan with my family.",
+        "notes": [
+          "に marks a receiver or a destination. \"With your family\" is と.",
+          "を marks an object or a path. \"With your family\" is と.",
+          "へ marks direction, and 日本へ already does that. \"With your family\" is と."
+        ]
+      },
+      {
+        "qid": "g-m1-5-3-2",
+        "pt_id": "m1-5-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "N（person）と V / ひとりで",
+        "type": "gf",
+        "question": "だれと 行きましたか。…（　　）行きました。",
+        "correct": "一人で",
+        "wrong_options": [
+          "一人と",
+          "一人に",
+          "一人を"
+        ],
+        "explanation": "Alone = 一人で.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Who did you go with? — I went alone.",
+        "notes": [
+          "一人と would mean \"with one person\". You went alone: 一人で.",
+          "に marks a receiver or destination. \"Alone\" is 一人で.",
+          "を marks an object. \"Alone\" is 一人で."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-5-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 5,
+    "pattern": "いつ",
+    "meaning": "when",
+    "questions": [
+      {
+        "qid": "g-m1-5-4-1",
+        "pt_id": "m1-5-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "いつ",
+        "type": "gf",
+        "question": "（　　）日本へ 来ましたか。…３月 25日に 来ました。",
+        "correct": "いつ",
+        "wrong_options": [
+          "何時",
+          "どこ",
+          "だれ"
+        ],
+        "explanation": "The answer is a date: いつ.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "When did you come to Japan? — I came on March 25.",
+        "notes": [
+          "何時 asks a clock time. The answer is a date: いつ.",
+          "どこ asks where, but 日本へ already says where. The answer is a date.",
+          "だれ asks who (and would need が: だれが). The answer is a date."
+        ]
+      },
+      {
+        "qid": "g-m1-5-4-2",
+        "pt_id": "m1-5-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "いつ",
+        "type": "gf",
+        "question": "たんじょうびは（　　）ですか。…５月 10かです。",
+        "correct": "いつ",
+        "wrong_options": [
+          "何時",
+          "どこ",
+          "いくつ"
+        ],
+        "explanation": "The answer is a date: いつ.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "When is your birthday? — May 10.",
+        "notes": [
+          "何時 asks a clock time. A birthday is a date: いつ.",
+          "どこ asks where. A birthday is a date.",
+          "いくつ asks how old or how many. The answer is a date."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-5-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 5,
+    "pattern": "〜よ",
+    "meaning": "I tell you (new information)",
+    "questions": [
+      {
+        "qid": "g-m1-5-5-1",
+        "pt_id": "m1-5-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "〜よ",
+        "type": "gf",
+        "question": "この 電車は こうしえんへ 行きますか。…いいえ、行きません。つぎの「ふつう」です（　　）。",
+        "correct": "よ",
+        "wrong_options": [
+          "か",
+          "ね",
+          "の"
+        ],
+        "explanation": "Giving the listener information they don't have: よ.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "particle"
+        ],
+        "translation": "Does this train go to Koshien? — No, it doesn't. It's the next local train, you know.",
+        "notes": [
+          "か makes it a question, but you are giving the answer.",
+          "ね asks for agreement on something they already know. They just asked, so they don't know: よ.",
+          "の at the end of a polite です sentence isn't standard. New information: よ."
+        ]
+      },
+      {
+        "qid": "g-m1-5-5-2",
+        "pt_id": "m1-5-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 5,
+        "pattern": "〜よ",
+        "type": "gf",
+        "question": "あした テストが あります（　　）。…え、ほんとうですか。しりませんでした。",
+        "correct": "よ",
+        "wrong_options": [
+          "ね",
+          "か",
+          "を"
+        ],
+        "explanation": "The listener didn't know (しりませんでした), so it is new information: よ. ね is for something both people already know.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "particle"
+        ],
+        "translation": "There's a test tomorrow, you know. — What, really? I didn't know.",
+        "notes": [
+          "ね is for something both people know. The listener says しりませんでした, so it was news: よ.",
+          "か asks a question. The reply ほんとうですか reacts to news, so it was よ.",
+          "を marks an object. It can't end a sentence."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-6-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 6,
+    "pattern": "N を V（object）",
+    "meaning": "object marker",
+    "questions": [
+      {
+        "qid": "g-m1-6-1-1",
+        "pt_id": "m1-6-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "N を V（object）",
+        "type": "gf",
+        "question": "ジュース（　　）飲みます。",
+        "correct": "を",
+        "wrong_options": [
+          "が",
+          "に",
+          "で"
+        ],
+        "explanation": "Object + を.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I drink juice.",
+        "notes": [
+          "が marks the subject. Juice isn't drinking. (ジュースが 飲みたい takes が, but 飲みます takes を.)",
+          "に marks a place or a receiver. The thing you drink takes を.",
+          "で marks a place or a tool. The thing you drink takes を."
+        ]
+      },
+      {
+        "qid": "g-m1-6-1-2",
+        "pt_id": "m1-6-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "N を V（object）",
+        "type": "gf",
+        "question": "テニス（　　）します。",
+        "correct": "を",
+        "wrong_options": [
+          "が",
+          "に",
+          "で"
+        ],
+        "explanation": "N を します.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I play tennis.",
+        "notes": [
+          "が marks the subject. Tennis isn't doing anything. N を します.",
+          "に marks a place or a receiver. N を します.",
+          "で marks a place or a tool. Tennis is what you play: を."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-6-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 6,
+    "pattern": "なにを しますか",
+    "meaning": "what do you do",
+    "questions": [
+      {
+        "qid": "g-m1-6-2-1",
+        "pt_id": "m1-6-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "なにを しますか",
+        "type": "gf",
+        "question": "にちようび（　　）を しますか。…きょうとへ 行きます。",
+        "correct": "なに",
+        "wrong_options": [
+          "なん",
+          "どこ",
+          "いつ"
+        ],
+        "explanation": "Before を, use なに (not なん).",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "What will you do on Sunday? — I'm going to Kyoto.",
+        "notes": [
+          "なん is used before で, の, だ or a counter (なんで, なんの). Before を, say なに.",
+          "どこを しますか isn't a question. To ask where, say どこへ 行きますか.",
+          "いつ asks when, but にちようび already says when, and いつ can't take を."
+        ]
+      },
+      {
+        "qid": "g-m1-6-2-2",
+        "pt_id": "m1-6-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "なにを しますか",
+        "type": "gf",
+        "question": "きのうの ばん（　　）を しましたか。…テレビを 見ました。",
+        "correct": "なに",
+        "wrong_options": [
+          "なん",
+          "どこ",
+          "だれ"
+        ],
+        "explanation": "Before を, say なに. なん is used before で, の or a counter.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "What did you do last night? — I watched TV.",
+        "notes": [
+          "なん is used before で, の, だ or a counter. Before を, say なに.",
+          "どこを しましたか isn't a question. The answer is an activity: なに.",
+          "だれを しましたか isn't a question. The answer is an activity: なに."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-6-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 6,
+    "pattern": "N（place）で V",
+    "meaning": "at (place of action)",
+    "questions": [
+      {
+        "qid": "g-m1-6-3-1",
+        "pt_id": "m1-6-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "N（place）で V",
+        "type": "gf",
+        "question": "駅（　　）新聞を かいます。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "を",
+          "へ"
+        ],
+        "explanation": "Place where an action happens: で.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I buy a newspaper at the station.",
+        "notes": [
+          "に marks where something is or goes. Where you do the buying takes で.",
+          "新聞を already has を. The station isn't what you buy.",
+          "へ marks where you move to. かう isn't movement."
+        ]
+      },
+      {
+        "qid": "g-m1-6-3-2",
+        "pt_id": "m1-6-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "N（place）で V",
+        "type": "gf",
+        "question": "きのう デパート（　　）くつを かいました。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "を",
+          "へ"
+        ],
+        "explanation": "Where the action (buying) happened: で.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Yesterday I bought shoes at the department store.",
+        "notes": [
+          "に marks where something is or goes. Where you did the buying takes で.",
+          "くつを already has を. The store isn't what you bought.",
+          "へ marks where you move to. かう isn't movement."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-6-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 6,
+    "pattern": "Vませんか",
+    "meaning": "won't you ~? (invitation)",
+    "questions": [
+      {
+        "qid": "g-m1-6-4-1",
+        "pt_id": "m1-6-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "Vませんか",
+        "type": "gf",
+        "question": "いっしょに きょうとへ（　　）。…ええ、いいですね。",
+        "correct": "行きませんか",
+        "wrong_options": [
+          "行きません",
+          "行きましたか",
+          "行きませんでした"
+        ],
+        "explanation": "Invitation: Vませんか.",
+        "tags": [
+          "nuance",
+          "form",
+          "form"
+        ],
+        "translation": "Won't you go to Kyoto with me? — Yes, that sounds good.",
+        "notes": [
+          "行きません = \"I won't go\". It isn't an invitation, and いいですね doesn't answer it.",
+          "行きましたか asks about the past. いいですね answers an invitation.",
+          "行きませんでした = \"I didn't go\". It's past, not an invitation."
+        ]
+      },
+      {
+        "qid": "g-m1-6-4-2",
+        "pt_id": "m1-6-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "Vませんか",
+        "type": "gf",
+        "question": "こんばん いっしょに ばんごはんを（　　）。…すみません、こんばんは ちょっと…。",
+        "correct": "食べませんか",
+        "wrong_options": [
+          "食べません",
+          "食べましたか",
+          "食べて いません"
+        ],
+        "explanation": "Inviting someone: Vませんか. The answer is a polite refusal.",
+        "tags": [
+          "nuance",
+          "form",
+          "form"
+        ],
+        "translation": "Won't you have dinner with me tonight? — Sorry, tonight is a bit…",
+        "notes": [
+          "食べません = \"I won't eat\". The polite refusal shows it was an invitation: ませんか.",
+          "食べましたか asks about the past. こんばん is tonight.",
+          "食べて いません = \"I haven't eaten\". The reply is a refusal of an invitation."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-6-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 6,
+    "pattern": "Vましょう",
+    "meaning": "let's ~",
+    "questions": [
+      {
+        "qid": "g-m1-6-5-1",
+        "pt_id": "m1-6-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "Vましょう",
+        "type": "gf",
+        "question": "ちょっと 休みましょうか。…ええ、（　　）。",
+        "correct": "休みましょう",
+        "wrong_options": [
+          "休みません",
+          "休みました",
+          "休みませんか"
+        ],
+        "explanation": "Agreeing: ええ、Vましょう.",
+        "tags": [
+          "dir",
+          "form",
+          "nuance"
+        ],
+        "translation": "Shall we take a short break? — Yes, let's.",
+        "notes": [
+          "休みません = \"I won't rest\". It clashes with ええ.",
+          "休みました is past. You are agreeing to rest now.",
+          "休みませんか invites again. To accept, say 休みましょう."
+        ]
+      },
+      {
+        "qid": "g-m1-6-5-2",
+        "pt_id": "m1-6-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 6,
+        "pattern": "Vましょう",
+        "type": "gf",
+        "question": "あした 10時に ロビーで（　　）。",
+        "correct": "会いましょう",
+        "wrong_options": [
+          "会いました",
+          "会いませんでした",
+          "会って いました"
+        ],
+        "explanation": "Suggestion about tomorrow: Vましょう.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Let's meet in the lobby at 10 tomorrow.",
+        "notes": [
+          "会いました is past. あした is tomorrow.",
+          "会いませんでした is past negative. あした is tomorrow.",
+          "会って いました = \"was meeting\". It is past."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-7-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 7,
+    "pattern": "N（tool）で V",
+    "meaning": "with (a tool) / in (a language)",
+    "questions": [
+      {
+        "qid": "g-m1-7-1-1",
+        "pt_id": "m1-7-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（tool）で V",
+        "type": "gf",
+        "question": "はし（　　）食べます。",
+        "correct": "で",
+        "wrong_options": [
+          "を",
+          "に",
+          "と"
+        ],
+        "explanation": "Tool + で.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I eat with chopsticks.",
+        "notes": [
+          "はしを 食べます means you eat the chopsticks. A tool takes で.",
+          "に marks a place or a receiver. A tool takes で.",
+          "と = together with a person. Chopsticks are a tool: で."
+        ]
+      },
+      {
+        "qid": "g-m1-7-1-2",
+        "pt_id": "m1-7-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（tool）で V",
+        "type": "gf",
+        "question": "日本語（　　）レポートを 書きます。",
+        "correct": "で",
+        "wrong_options": [
+          "を",
+          "に",
+          "が"
+        ],
+        "explanation": "Language + で.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I write the report in Japanese.",
+        "notes": [
+          "レポートを already has the object. A language takes で.",
+          "に marks where you write (ノートに 書く), not the language.",
+          "が marks a subject. A language takes で."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-7-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 7,
+    "pattern": "「word」は 〜語で なんですか",
+    "meaning": "what is X in ~ (language)",
+    "questions": [
+      {
+        "qid": "g-m1-7-2-1",
+        "pt_id": "m1-7-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "「word」は 〜語で なんですか",
+        "type": "gf",
+        "question": "「Thank you」は 日本語（　　）何ですか。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "の",
+          "を"
+        ],
+        "explanation": "日本語で = in Japanese.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "How do you say \"Thank you\" in Japanese?",
+        "notes": [
+          "に marks a place or a receiver. \"In Japanese\" is 日本語で.",
+          "日本語の 何 means \"what of Japanese\". \"In Japanese\" is 日本語で.",
+          "を marks an object. \"In Japanese\" is 日本語で."
+        ]
+      },
+      {
+        "qid": "g-m1-7-2-2",
+        "pt_id": "m1-7-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "「word」は 〜語で なんですか",
+        "type": "gf",
+        "question": "「駅」は えいご（　　）何ですか。…「station」です。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "の",
+          "を"
+        ],
+        "explanation": "In a language: 〜語で. えいごで = in English.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "What is \"eki\" in English? — It's \"station\".",
+        "notes": [
+          "に marks a place or a receiver. \"In English\" is えいごで.",
+          "えいごの 何 means \"what of English\". \"In English\" is えいごで.",
+          "を marks an object. \"In English\" is えいごで."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-7-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 7,
+    "pattern": "N（person）に あげます",
+    "meaning": "give to someone",
+    "questions": [
+      {
+        "qid": "g-m1-7-3-1",
+        "pt_id": "m1-7-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（person）に あげます",
+        "type": "gf",
+        "question": "わたしは きむらさん（　　）はなを あげました。",
+        "correct": "に",
+        "wrong_options": [
+          "を",
+          "が",
+          "で"
+        ],
+        "explanation": "Receiver + に.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I gave flowers to Ms. Kimura.",
+        "notes": [
+          "はなを already has を. Ms. Kimura isn't the thing given.",
+          "が marks a subject, but わたしは is the giver. The receiver takes に.",
+          "で marks a place of action or a means. The receiver takes に."
+        ]
+      },
+      {
+        "qid": "g-m1-7-3-2",
+        "pt_id": "m1-7-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（person）に あげます",
+        "type": "gf",
+        "question": "母の日に、わたしは 母（　　）はなを あげました。",
+        "correct": "に",
+        "wrong_options": [
+          "を",
+          "から",
+          "で"
+        ],
+        "explanation": "The receiver takes に: 母に あげる. から marks the giver, not the receiver.",
+        "tags": [
+          "particle",
+          "particle",
+          "dir"
+        ],
+        "translation": "On Mother's Day, I gave my mother flowers.",
+        "notes": [
+          "はなを already has を. Your mother isn't the thing given.",
+          "から marks where something comes from. With あげる, the receiver takes に.",
+          "で marks a place or a means. The receiver takes に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-7-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 7,
+    "pattern": "N（person）に／から もらいます",
+    "meaning": "receive from someone",
+    "questions": [
+      {
+        "qid": "g-m1-7-4-1",
+        "pt_id": "m1-7-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（person）に／から もらいます",
+        "type": "gf",
+        "question": "わたしは カリナさん（　　）チョコレートを もらいました。",
+        "correct": "に",
+        "wrong_options": [
+          "を",
+          "へ",
+          "で"
+        ],
+        "explanation": "Giver + に (or から) もらう.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I received chocolate from Karina.",
+        "notes": [
+          "チョコレートを already has を. Karina isn't the thing you got.",
+          "へ marks direction of movement. With もらう, the giver takes に or から.",
+          "で marks a place or a means. The giver takes に or から."
+        ]
+      },
+      {
+        "qid": "g-m1-7-4-2",
+        "pt_id": "m1-7-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "N（person）に／から もらいます",
+        "type": "gf",
+        "question": "わたしは 父から とけいを（　　）。",
+        "correct": "もらいました",
+        "wrong_options": [
+          "あげました",
+          "かしました",
+          "おくりました"
+        ],
+        "explanation": "から + receiving = もらいました.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "I received a watch from my father.",
+        "notes": [
+          "あげる is giving away from you. 父から shows it came TO you: もらいました.",
+          "かす = lend to someone. 父から shows it came to you: もらいました.",
+          "おくる = send to someone. From 父から, you received: もらいました."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-7-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 7,
+    "pattern": "もう Vました",
+    "meaning": "already did",
+    "questions": [
+      {
+        "qid": "g-m1-7-5-1",
+        "pt_id": "m1-7-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "もう Vました",
+        "type": "gf",
+        "question": "もう にもつを おくりましたか。…いいえ、（　　）です。",
+        "correct": "まだ",
+        "wrong_options": [
+          "もう",
+          "すぐ",
+          "よく"
+        ],
+        "explanation": "Not yet = まだです.",
+        "tags": [
+          "dir",
+          "field",
+          "field"
+        ],
+        "translation": "Have you already sent the package? — No, not yet.",
+        "notes": [
+          "いいえ、もうです isn't an answer. \"No, not yet\" is いいえ、まだです.",
+          "すぐ = soon, right away. \"Not yet\" is まだです.",
+          "よく = often or well. \"Not yet\" is まだです."
+        ]
+      },
+      {
+        "qid": "g-m1-7-5-2",
+        "pt_id": "m1-7-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 7,
+        "pattern": "もう Vました",
+        "type": "gf",
+        "question": "もう ひるごはんを 食べましたか。…はい、（　　）。",
+        "correct": "もう 食べました",
+        "wrong_options": [
+          "まだ 食べません",
+          "まだです",
+          "食べませんでした"
+        ],
+        "explanation": "はい → もう Vました.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "Have you already eaten lunch? — Yes, I already ate.",
+        "notes": [
+          "まだ means \"not yet\", against はい. (And \"not yet\" is まだ 食べて いません, not 食べません.)",
+          "まだです = \"not yet\", against はい.",
+          "食べませんでした = \"I didn't eat\", against はい."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "な-adj です / い-adj です",
+    "meaning": "adjective sentences",
+    "questions": [
+      {
+        "qid": "g-m1-8-1-1",
+        "pt_id": "m1-8-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj です / い-adj です",
+        "type": "gf",
+        "question": "さくらは（　　）です。",
+        "correct": "きれい",
+        "wrong_options": [
+          "きれいな",
+          "きれいだ",
+          "きれいに"
+        ],
+        "explanation": "な-adjective before です: no な.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Cherry blossoms are beautiful.",
+        "notes": [
+          "な is used only before a noun (きれいな はな). Before です, just きれい.",
+          "だ and です are both \"is\". You can't use them together.",
+          "きれいに goes before a verb (きれいに 書く). Before です, just きれい."
+        ]
+      },
+      {
+        "qid": "g-m1-8-1-2",
+        "pt_id": "m1-8-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj です / い-adj です",
+        "type": "gf",
+        "question": "この へやは（　　）。",
+        "correct": "ひろいです",
+        "wrong_options": [
+          "ひろいだです",
+          "ひろいなです",
+          "ひろです"
+        ],
+        "explanation": "い-adjective + です.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "This room is spacious.",
+        "notes": [
+          "だ can't follow an い-adjective, and it can't sit before です.",
+          "な is for な-adjectives. ひろい is an い-adjective: ひろいです.",
+          "ひろ is not a word. Keep the い: ひろいです."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "な-adj な N / い-adj N",
+    "meaning": "adjective + noun",
+    "questions": [
+      {
+        "qid": "g-m1-8-2-1",
+        "pt_id": "m1-8-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj な N / い-adj N",
+        "type": "gf",
+        "question": "ならは（　　）まちです。",
+        "correct": "しずかな",
+        "wrong_options": [
+          "しずか",
+          "しずかだ",
+          "しずかに"
+        ],
+        "explanation": "な-adjective + な + noun.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Nara is a quiet town.",
+        "notes": [
+          "A な-adjective needs な before a noun: しずかな まち.",
+          "だ ends a sentence. Before a noun, use な: しずかな まち.",
+          "しずかに goes before a verb. Before a noun, use しずかな."
+        ]
+      },
+      {
+        "qid": "g-m1-8-2-2",
+        "pt_id": "m1-8-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj な N / い-adj N",
+        "type": "gf",
+        "question": "ふじさんは（　　）山です。",
+        "correct": "高い",
+        "wrong_options": [
+          "高いな",
+          "高な",
+          "高く"
+        ],
+        "explanation": "い-adjective + noun directly.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Mount Fuji is a tall mountain.",
+        "notes": [
+          "い-adjectives go straight before a noun, with no な.",
+          "高 alone is not a word. Keep the い: 高い 山.",
+          "高く goes before a verb (高く なる). Before a noun, use 高い."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "な-adj じゃ ありません / い-adj くないです",
+    "meaning": "negative adjectives",
+    "questions": [
+      {
+        "qid": "g-m1-8-3-1",
+        "pt_id": "m1-8-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj じゃ ありません / い-adj くないです",
+        "type": "gf",
+        "question": "この へやは しずか（　　）。",
+        "correct": "じゃ ありません",
+        "wrong_options": [
+          "くないです",
+          "ないです",
+          "くありません"
+        ],
+        "explanation": "な-adjective negative: じゃ ありません.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "This room is not quiet.",
+        "notes": [
+          "くないです is for い-adjectives. しずか is a な-adjective: しずかじゃ ありません.",
+          "ないです alone after しずか isn't a form. Use しずかじゃ ありません (or しずかじゃ ないです).",
+          "くありません is for い-adjectives. しずか is a な-adjective."
+        ]
+      },
+      {
+        "qid": "g-m1-8-3-2",
+        "pt_id": "m1-8-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "な-adj じゃ ありません / い-adj くないです",
+        "type": "gf",
+        "question": "今日は さむ（　　）。",
+        "correct": "くないです",
+        "wrong_options": [
+          "じゃ ありません",
+          "いないです",
+          "いじゃ ありません"
+        ],
+        "explanation": "い-adjective negative: drop い + くないです.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "It's not cold today.",
+        "notes": [
+          "じゃ ありません is for な-adjectives and nouns. さむい is an い-adjective: さむくないです.",
+          "さむいない is not a form. Drop い and add くない.",
+          "じゃ ありません can't follow an い-adjective."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "とても / あまり〜ない",
+    "meaning": "very / not very",
+    "questions": [
+      {
+        "qid": "g-m1-8-4-1",
+        "pt_id": "m1-8-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "とても / あまり〜ない",
+        "type": "gf",
+        "question": "この 本は あまり（　　）。",
+        "correct": "おもしろくないです",
+        "wrong_options": [
+          "おもしろいです",
+          "おもしろくです",
+          "おもしろいないです"
+        ],
+        "explanation": "あまり needs a negative.",
+        "tags": [
+          "polar",
+          "form",
+          "form"
+        ],
+        "translation": "This book is not very interesting.",
+        "notes": [
+          "あまり needs a negative. おもしろいです is positive.",
+          "おもしろくです is not a form. The negative is おもしろくないです.",
+          "い-adjectives drop い before ない: おもしろくない."
+        ]
+      },
+      {
+        "qid": "g-m1-8-4-2",
+        "pt_id": "m1-8-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "とても / あまり〜ない",
+        "type": "gf",
+        "question": "この まちは とても（　　）。",
+        "correct": "にぎやかです",
+        "wrong_options": [
+          "にぎやかじゃ ありません",
+          "にぎやかなです",
+          "にぎやかくないです"
+        ],
+        "explanation": "とても goes with a positive.",
+        "tags": [
+          "polar",
+          "form",
+          "form"
+        ],
+        "translation": "This town is very lively.",
+        "notes": [
+          "とても goes with a positive. With a negative, use あまり.",
+          "な is only used before a noun. Before です, just にぎやか.",
+          "にぎやか is a な-adjective. くない is only for い-adjectives."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "N は どうですか / どんな N",
+    "meaning": "how is ~ / what kind of",
+    "questions": [
+      {
+        "qid": "g-m1-8-5-1",
+        "pt_id": "m1-8-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "N は どうですか / どんな N",
+        "type": "gf",
+        "question": "日本の せいかつは（　　）ですか。…たのしいです。",
+        "correct": "どう",
+        "wrong_options": [
+          "どんな",
+          "どれ",
+          "何"
+        ],
+        "explanation": "どんな needs a noun after it; どう stands alone.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "How is life in Japan? — It's fun.",
+        "notes": [
+          "どんな needs a noun after it (どんな せいかつ). Alone before です, use どう.",
+          "どれ asks which one of several. You're asking how life is.",
+          "何ですか asks what something is. The answer たのしい describes it, so どう."
+        ]
+      },
+      {
+        "qid": "g-m1-8-5-2",
+        "pt_id": "m1-8-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "N は どうですか / どんな N",
+        "type": "gf",
+        "question": "ならは（　　）まちですか。…古い まちです。",
+        "correct": "どんな",
+        "wrong_options": [
+          "どう",
+          "どれ",
+          "どこ"
+        ],
+        "explanation": "どんな + noun asks what kind.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "What kind of town is Nara? — It's an old town.",
+        "notes": [
+          "どう stands alone and asks how. Before a noun (まち), use どんな.",
+          "どれ asks which one. It can't sit before a noun.",
+          "どこ asks where. It can't sit before まち without の, and the answer describes the town."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-6",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "S1 が、S2",
+    "meaning": "but",
+    "questions": [
+      {
+        "qid": "g-m1-8-6-1",
+        "pt_id": "m1-8-6",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "S1 が、S2",
+        "type": "gf",
+        "question": "日本の たべものは おいしいです（　　）、高いです。",
+        "correct": "が",
+        "wrong_options": [
+          "で",
+          "と",
+          "も"
+        ],
+        "explanation": "Contrast: 〜が、〜 = but. おいしい (good) and 高い (bad) are opposite points.",
+        "tags": [
+          "form",
+          "particle",
+          "particle"
+        ],
+        "translation": "Japanese food is delicious, but expensive.",
+        "notes": [
+          "で can't follow です. To join adjectives use おいしくて, and that means \"and\", not \"but\".",
+          "と joins nouns or means \"when\". It can't join two contrasting sentences.",
+          "も = also. It can't join two sentences."
+        ]
+      },
+      {
+        "qid": "g-m1-8-6-2",
+        "pt_id": "m1-8-6",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "S1 が、S2",
+        "type": "gf",
+        "question": "この へやは ひろいです（　　）、ちょっと くらいです。",
+        "correct": "が",
+        "wrong_options": [
+          "から",
+          "と",
+          "や"
+        ],
+        "explanation": "ひろい (good) and くらい (not good) contrast: 〜が、 = but.",
+        "tags": [
+          "nuance",
+          "particle",
+          "particle"
+        ],
+        "translation": "This room is spacious, but a little dark.",
+        "notes": [
+          "から gives a reason: \"spacious, SO dark\" makes no sense. The two points contrast: が.",
+          "と joins nouns or means \"when\". It can't make \"but\".",
+          "や lists nouns (A や B). It can't join two sentences."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-8-7",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 8,
+    "pattern": "どれ",
+    "meaning": "which one (of three or more)",
+    "questions": [
+      {
+        "qid": "g-m1-8-7-1",
+        "pt_id": "m1-8-7",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "どれ",
+        "type": "gf",
+        "question": "ミラーさんの かさは（　　）ですか。…あの 青い かさです。",
+        "correct": "どれ",
+        "wrong_options": [
+          "どの",
+          "どこ",
+          "どう"
+        ],
+        "explanation": "どれ stands alone; どの needs a noun.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "Which one is your umbrella, Mr. Miller? — That blue umbrella.",
+        "notes": [
+          "どの needs a noun after it (どの かさ). Alone, use どれ.",
+          "どこ asks where. The answer \"that blue umbrella\" picks one out: どれ.",
+          "どう asks how something is. You want to know which one."
+        ]
+      },
+      {
+        "qid": "g-m1-8-7-2",
+        "pt_id": "m1-8-7",
+        "book": "m1",
+        "level": 5,
+        "unit": 8,
+        "pattern": "どれ",
+        "type": "gf",
+        "question": "あなたの かばんは（　　）ですか。…その くろいのです。",
+        "correct": "どれ",
+        "wrong_options": [
+          "どの",
+          "どんな",
+          "どう"
+        ],
+        "explanation": "どれ stands alone; どの and どんな need a noun after them.",
+        "tags": [
+          "form",
+          "form",
+          "field"
+        ],
+        "translation": "Which one is your bag? — That black one.",
+        "notes": [
+          "どの needs a noun after it (どの かばん). Alone, use どれ.",
+          "どんな needs a noun after it and asks what kind. You want to know which one.",
+          "どう asks how something is. You want to know which one."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-9-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 9,
+    "pattern": "N が すき・じょうず・わかります・あります",
+    "meaning": "like / good at / understand / have",
+    "questions": [
+      {
+        "qid": "g-m1-9-1-1",
+        "pt_id": "m1-9-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "N が すき・じょうず・わかります・あります",
+        "type": "gf",
+        "question": "わたしは イタリアりょうり（　　）すきです。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "に",
+          "で"
+        ],
+        "explanation": "すき takes が.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I like Italian food.",
+        "notes": [
+          "すき is an adjective, not a verb, so the thing you like takes が, not を.",
+          "に marks a place or a receiver. すき takes が.",
+          "で marks a place or a means. すき takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-9-1-2",
+        "pt_id": "m1-9-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "N が すき・じょうず・わかります・あります",
+        "type": "gf",
+        "question": "ミラーさんは 日本語（　　）わかります。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "に",
+          "へ"
+        ],
+        "explanation": "わかる takes が.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Mr. Miller understands Japanese.",
+        "notes": [
+          "In English you \"understand Japanese\" as an object, but わかる takes が.",
+          "に marks a place or a receiver. わかる takes が.",
+          "へ marks direction. わかる takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-9-1-3",
+        "pt_id": "m1-9-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "N が すき・じょうず・わかります・あります",
+        "type": "gf",
+        "question": "わたしは 車（　　）あります。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "に",
+          "で"
+        ],
+        "explanation": "Possession: N が あります.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I have a car.",
+        "notes": [
+          "あります takes が. The thing you have is not an object with を.",
+          "に marks where something is. The thing you have takes が.",
+          "で marks a place or a means. The thing you have takes が."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-9-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 9,
+    "pattern": "どんな N",
+    "meaning": "what kind of",
+    "questions": [
+      {
+        "qid": "g-m1-9-2-1",
+        "pt_id": "m1-9-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "どんな N",
+        "type": "gf",
+        "question": "（　　）スポーツが すきですか。…サッカーが すきです。",
+        "correct": "どんな",
+        "wrong_options": [
+          "どう",
+          "どれ",
+          "何"
+        ],
+        "explanation": "どんな + noun.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "What kind of sports do you like? — I like soccer.",
+        "notes": [
+          "どう stands alone. Before a noun (スポーツ), use どんな.",
+          "どれ asks which one and can't sit before a noun.",
+          "何 asks what. To ask what kind of sport, use どんな スポーツ."
+        ]
+      },
+      {
+        "qid": "g-m1-9-2-2",
+        "pt_id": "m1-9-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "どんな N",
+        "type": "gf",
+        "question": "（　　）おんがくを 聞きますか。…ジャズを よく 聞きます。",
+        "correct": "どんな",
+        "wrong_options": [
+          "どう",
+          "どれ",
+          "どちら"
+        ],
+        "explanation": "どんな + noun asks what kind. どう, どれ and どちら can't sit directly before a noun.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "What kind of music do you listen to? — I often listen to jazz.",
+        "notes": [
+          "どう stands alone. Before a noun (おんがく), use どんな.",
+          "どれ asks which one and can't sit before a noun.",
+          "どちら asks which of two (or where, politely). It can't sit before a noun."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-9-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 9,
+    "pattern": "よく / だいたい / すこし / あまり / ぜんぜん",
+    "meaning": "how much (degree)",
+    "questions": [
+      {
+        "qid": "g-m1-9-3-1",
+        "pt_id": "m1-9-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "よく / だいたい / すこし / あまり / ぜんぜん",
+        "type": "gf",
+        "question": "かんじが（　　）わかります。",
+        "correct": "だいたい",
+        "wrong_options": [
+          "ぜんぜん",
+          "あまり",
+          "少しも"
+        ],
+        "explanation": "ぜんぜん / あまり / 少しも need a negative.",
+        "tags": [
+          "polar",
+          "polar",
+          "polar"
+        ],
+        "translation": "I understand most kanji.",
+        "notes": [
+          "ぜんぜん needs a negative: ぜんぜん わかりません.",
+          "あまり needs a negative: あまり わかりません.",
+          "少しも needs a negative: 少しも わかりません."
+        ]
+      },
+      {
+        "qid": "g-m1-9-3-2",
+        "pt_id": "m1-9-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "よく / だいたい / すこし / あまり / ぜんぜん",
+        "type": "gf",
+        "question": "わたしは おさけを（　　）飲みません。",
+        "correct": "ぜんぜん",
+        "wrong_options": [
+          "とても",
+          "すこし",
+          "たいへん"
+        ],
+        "explanation": "The verb is negative (飲みません), so ぜんぜん (not at all) fits. とても, すこし and たいへん go with a positive.",
+        "tags": [
+          "polar",
+          "polar",
+          "polar"
+        ],
+        "translation": "I don't drink alcohol at all.",
+        "notes": [
+          "とても goes with a positive (とても すきです). With a negative verb, use ぜんぜん or あまり.",
+          "すこし goes with a positive (すこし 飲みます). With a negative, use ぜんぜん or あまり.",
+          "たいへん = very, used with a positive. With a negative verb, use ぜんぜん."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-9-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 9,
+    "pattern": "S1 から、S2 / どうして",
+    "meaning": "because / why",
+    "questions": [
+      {
+        "qid": "g-m1-9-4-1",
+        "pt_id": "m1-9-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "S1 から、S2 / どうして",
+        "type": "gf",
+        "question": "時間が ありません（　　）、新聞を 読みません。",
+        "correct": "から",
+        "wrong_options": [
+          "が",
+          "と",
+          "も"
+        ],
+        "explanation": "Reason + から.",
+        "tags": [
+          "nuance",
+          "particle",
+          "particle"
+        ],
+        "translation": "I don't have time, so I don't read the newspaper.",
+        "notes": [
+          "が = but. \"No time, but I don't read\" doesn't make sense. It's a reason: から.",
+          "と joins nouns or means \"when\". A reason takes から.",
+          "も = also. It can't join two sentences."
+        ]
+      },
+      {
+        "qid": "g-m1-9-4-2",
+        "pt_id": "m1-9-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 9,
+        "pattern": "S1 から、S2 / どうして",
+        "type": "gf",
+        "question": "（　　）あさ 新聞を 読みませんか。…時間が ありませんから。",
+        "correct": "どうして",
+        "wrong_options": [
+          "どう",
+          "どんな",
+          "何"
+        ],
+        "explanation": "どうして = why.",
+        "tags": [
+          "field",
+          "form",
+          "field"
+        ],
+        "translation": "Why don't you read the newspaper in the morning? — Because I don't have time.",
+        "notes": [
+          "どう asks how something is. The answer gives a reason (〜から), so どうして.",
+          "どんな needs a noun after it.",
+          "何 asks what. The answer gives a reason, so どうして."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-10-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 10,
+    "pattern": "N が あります / います",
+    "meaning": "there is (things / living beings)",
+    "questions": [
+      {
+        "qid": "g-m1-10-1-1",
+        "pt_id": "m1-10-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N が あります / います",
+        "type": "gf",
+        "question": "あそこに 男の 人が（　　）。",
+        "correct": "います",
+        "wrong_options": [
+          "あります",
+          "です",
+          "ありません"
+        ],
+        "explanation": "People and animals: います.",
+        "tags": [
+          "nuance",
+          "form",
+          "nuance"
+        ],
+        "translation": "There is a man over there.",
+        "notes": [
+          "あります is for things. A man is a living being: います.",
+          "です can't follow が here. To say someone is somewhere, use います.",
+          "ありません is the negative of あります, and it is for things. A person takes います."
+        ]
+      },
+      {
+        "qid": "g-m1-10-1-2",
+        "pt_id": "m1-10-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N が あります / います",
+        "type": "gf",
+        "question": "つくえの 上に しゃしんが（　　）。",
+        "correct": "あります",
+        "wrong_options": [
+          "います",
+          "です",
+          "おきます"
+        ],
+        "explanation": "Things: あります.",
+        "tags": [
+          "nuance",
+          "form",
+          "colloc"
+        ],
+        "translation": "There is a photo on the desk.",
+        "notes": [
+          "います is for people and animals. A photo is a thing: あります.",
+          "です can't follow が here. To say a thing is somewhere, use あります.",
+          "おきます = put (or get up). しゃしんが おきます isn't Japanese; a thing just being there is あります."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-10-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 10,
+    "pattern": "N1（place）に N2 が あります",
+    "meaning": "at N1 there is N2",
+    "questions": [
+      {
+        "qid": "g-m1-10-2-1",
+        "pt_id": "m1-10-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1（place）に N2 が あります",
+        "type": "gf",
+        "question": "ちかに スーパー（　　）あります。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "で",
+          "へ"
+        ],
+        "explanation": "Thing + が あります.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "There is a supermarket in the basement.",
+        "notes": [
+          "を marks an object. The thing that exists takes が.",
+          "で marks where an action happens. The thing that exists takes が.",
+          "へ marks direction. The thing that exists takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-10-2-2",
+        "pt_id": "m1-10-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1（place）に N2 が あります",
+        "type": "gf",
+        "question": "学校の ちかく（　　）ぎんこうが あります。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "が"
+        ],
+        "explanation": "Place of existence: に.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "There is a bank near the school.",
+        "notes": [
+          "English says \"a bank AT the school\", but で is for where an action happens. Where something exists takes に.",
+          "を marks an object. A place where something exists takes に.",
+          "が is for the thing that exists (ぎんこうが). The place takes に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-10-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 10,
+    "pattern": "N1 は N2（place）に あります",
+    "meaning": "N1 is at N2",
+    "questions": [
+      {
+        "qid": "g-m1-10-3-1",
+        "pt_id": "m1-10-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1 は N2（place）に あります",
+        "type": "gf",
+        "question": "ミラーさんは どこに いますか。…かいぎしつ（　　）います。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "へ"
+        ],
+        "explanation": "Existence: に います.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Where is Mr. Miller? — He's in the meeting room.",
+        "notes": [
+          "で marks where an action happens. Being somewhere (います) takes に.",
+          "を marks an object. います takes に for the place.",
+          "へ marks direction. Being somewhere takes に."
+        ]
+      },
+      {
+        "qid": "g-m1-10-3-2",
+        "pt_id": "m1-10-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1 は N2（place）に あります",
+        "type": "gf",
+        "question": "わたしの かさは どこに ありますか。…ドアの そば（　　）あります。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "が"
+        ],
+        "explanation": "Where something is: に あります.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Where is my umbrella? — It's by the door.",
+        "notes": [
+          "で marks where an action happens. Where a thing is (あります) takes に.",
+          "を marks an object. A place of existence takes に.",
+          "が is for the thing that exists. The place (ドアの そば) takes に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-10-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 10,
+    "pattern": "N の うえ・した・なか・となり",
+    "meaning": "on / under / in / next to",
+    "questions": [
+      {
+        "qid": "g-m1-10-4-1",
+        "pt_id": "m1-10-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N の うえ・した・なか・となり",
+        "type": "gf",
+        "question": "はこの（　　）に ねこが います。(inside)",
+        "correct": "中",
+        "wrong_options": [
+          "上",
+          "外",
+          "前"
+        ],
+        "explanation": "Inside = 中.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "There is a cat in the box.",
+        "notes": [
+          "上 = on top. The hint says inside: 中.",
+          "外 = outside, the opposite. The hint says inside: 中.",
+          "前 = in front. The hint says inside: 中."
+        ]
+      },
+      {
+        "qid": "g-m1-10-4-2",
+        "pt_id": "m1-10-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N の うえ・した・なか・となり",
+        "type": "gf",
+        "question": "ぎんこうは スーパーの（　　）です。(next to)",
+        "correct": "となり",
+        "wrong_options": [
+          "前",
+          "後ろ",
+          "あいだ"
+        ],
+        "explanation": "Next to = となり.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "The bank is next to the supermarket.",
+        "notes": [
+          "前 = in front of. The hint says next to: となり.",
+          "後ろ = behind. The hint says next to: となり.",
+          "あいだ = between, and needs two places (A と B の あいだ). Next to is となり."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-10-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 10,
+    "pattern": "N1 や N2（など）",
+    "meaning": "N1, N2 and so on",
+    "questions": [
+      {
+        "qid": "g-m1-10-5-1",
+        "pt_id": "m1-10-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1 や N2（など）",
+        "type": "gf",
+        "question": "はこの 中に てがみ（　　）しゃしんなどが あります。",
+        "correct": "や",
+        "wrong_options": [
+          "を",
+          "も",
+          "が"
+        ],
+        "explanation": "や … など lists examples; と lists everything.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "In the box there are letters, photos and so on.",
+        "notes": [
+          "を marks an object, and あります has none. A list of examples uses や … など.",
+          "も = also. It doesn't make a list. Use や … など.",
+          "が marks what exists, and comes after the whole list (しゃしんなどが). Between the items use や."
+        ]
+      },
+      {
+        "qid": "g-m1-10-5-2",
+        "pt_id": "m1-10-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 10,
+        "pattern": "N1 や N2（など）",
+        "type": "gf",
+        "question": "れいぞうこに たまご（　　）ぎゅうにゅうなどが あります。",
+        "correct": "や",
+        "wrong_options": [
+          "を",
+          "で",
+          "が"
+        ],
+        "explanation": "や … など lists some examples of what is there.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "In the fridge there are eggs, milk and so on.",
+        "notes": [
+          "を marks an object, and あります has none. A list of examples uses や … など.",
+          "で marks a place of action or a means. Between list items use や.",
+          "が comes after the whole list (ぎゅうにゅうなどが). Between the items use や."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-11-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 11,
+    "pattern": "counters（〜つ・〜人・〜まい・〜だい）",
+    "meaning": "counting",
+    "questions": [
+      {
+        "qid": "g-m1-11-1-1",
+        "pt_id": "m1-11-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "counters（〜つ・〜人・〜まい・〜だい）",
+        "type": "gf",
+        "question": "りんごを（　　）かいました。(4)",
+        "correct": "よっつ",
+        "wrong_options": [
+          "よにん",
+          "よんまい",
+          "よんだい"
+        ],
+        "explanation": "General objects: つ.",
+        "tags": [
+          "count",
+          "count",
+          "count"
+        ],
+        "translation": "I bought four apples.",
+        "notes": [
+          "〜にん counts people. Apples are things: よっつ.",
+          "〜まい counts flat things like paper. Apples: よっつ.",
+          "〜だい counts machines and cars. Apples: よっつ."
+        ]
+      },
+      {
+        "qid": "g-m1-11-1-2",
+        "pt_id": "m1-11-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "counters（〜つ・〜人・〜まい・〜だい）",
+        "type": "gf",
+        "question": "きょうしつに 学生が（　　）います。(2)",
+        "correct": "ふたり",
+        "wrong_options": [
+          "ふたつ",
+          "ににん",
+          "にまい"
+        ],
+        "explanation": "Two people = ふたり.",
+        "tags": [
+          "count",
+          "count",
+          "count"
+        ],
+        "translation": "There are two students in the classroom.",
+        "notes": [
+          "ふたつ counts things. Two people is ふたり.",
+          "ににん isn't used. One and two people are special: ひとり, ふたり.",
+          "〜まい counts flat things. Two people is ふたり."
+        ]
+      },
+      {
+        "qid": "g-m1-11-1-3",
+        "pt_id": "m1-11-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "counters（〜つ・〜人・〜まい・〜だい）",
+        "type": "gf",
+        "question": "80円の きってを（　　）ください。(5 stamps)",
+        "correct": "ごまい",
+        "wrong_options": [
+          "いつつ",
+          "ごほん",
+          "ごだい"
+        ],
+        "explanation": "Flat things: まい.",
+        "tags": [
+          "count",
+          "count",
+          "count"
+        ],
+        "translation": "Five 80-yen stamps, please.",
+        "notes": [
+          "いつつ counts things in general. Stamps are flat: ごまい.",
+          "〜ほん counts long thin things like pens. Stamps are flat: ごまい.",
+          "〜だい counts machines and cars. Stamps are flat: ごまい."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-11-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 11,
+    "pattern": "period に 〜かい",
+    "meaning": "X times per period",
+    "questions": [
+      {
+        "qid": "g-m1-11-2-1",
+        "pt_id": "m1-11-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "period に 〜かい",
+        "type": "gf",
+        "question": "１しゅうかん（　　）２かい プールへ 行きます。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "と"
+        ],
+        "explanation": "Frequency: period に N かい.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I go to the pool twice a week.",
+        "notes": [
+          "で marks a place or a means. \"Per week\" is １しゅうかんに.",
+          "を marks an object. \"Per week\" is １しゅうかんに.",
+          "と joins nouns. \"Per week\" is １しゅうかんに."
+        ]
+      },
+      {
+        "qid": "g-m1-11-2-2",
+        "pt_id": "m1-11-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "period に 〜かい",
+        "type": "gf",
+        "question": "１か月（　　）３かい えいがを 見ます。",
+        "correct": "に",
+        "wrong_options": [
+          "で",
+          "を",
+          "が"
+        ],
+        "explanation": "How often: period + に + number of times.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I watch movies three times a month.",
+        "notes": [
+          "で marks a place or a means. \"Per month\" is １か月に.",
+          "を marks an object. \"Per month\" is １か月に.",
+          "が marks a subject. \"Per month\" is １か月に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-11-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 11,
+    "pattern": "〜だけ",
+    "meaning": "only",
+    "questions": [
+      {
+        "qid": "g-m1-11-3-1",
+        "pt_id": "m1-11-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "〜だけ",
+        "type": "gf",
+        "question": "休みは にちようび（　　）です。",
+        "correct": "だけ",
+        "wrong_options": [
+          "しか",
+          "ばかり",
+          "も"
+        ],
+        "explanation": "しか needs a negative; だけ works with a positive.",
+        "tags": [
+          "polar",
+          "nuance",
+          "particle"
+        ],
+        "translation": "My only day off is Sunday.",
+        "notes": [
+          "しか means \"only\" but needs a negative: にちようびしか ありません.",
+          "ばかり = nothing but, doing lots of something. \"Only Sunday\" is だけ.",
+          "も = also. \"Sunday too\" doesn't say it's the only day off."
+        ]
+      },
+      {
+        "qid": "g-m1-11-3-2",
+        "pt_id": "m1-11-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "〜だけ",
+        "type": "gf",
+        "question": "きょうしつに 学生が 一人（　　）います。",
+        "correct": "だけ",
+        "wrong_options": [
+          "しか",
+          "も",
+          "まで"
+        ],
+        "explanation": "The verb is positive (います), so だけ. しか and 一人も need a negative (しか いません).",
+        "tags": [
+          "polar",
+          "polar",
+          "particle"
+        ],
+        "translation": "There is only one student in the classroom.",
+        "notes": [
+          "しか needs a negative: 一人しか いません. います is positive.",
+          "一人も needs a negative (一人も いません = nobody).",
+          "まで = until. It doesn't mean \"only\"."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-11-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 11,
+    "pattern": "どのくらい かかりますか",
+    "meaning": "how long does it take",
+    "questions": [
+      {
+        "qid": "g-m1-11-4-1",
+        "pt_id": "m1-11-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "どのくらい かかりますか",
+        "type": "gf",
+        "question": "とうきょうから おおさかまで しんかんせんで（　　）かかりますか。…２時間半 かかります。",
+        "correct": "どのくらい",
+        "wrong_options": [
+          "いくつ",
+          "いつ",
+          "何時"
+        ],
+        "explanation": "Duration: どのくらい.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "How long does it take from Tokyo to Osaka by shinkansen? — It takes two and a half hours.",
+        "notes": [
+          "いくつ asks how many. The answer is a length of time: どのくらい.",
+          "いつ asks when. The answer is how long: どのくらい.",
+          "何時 asks a clock time. The answer is how long: どのくらい."
+        ]
+      },
+      {
+        "qid": "g-m1-11-4-2",
+        "pt_id": "m1-11-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 11,
+        "pattern": "どのくらい かかりますか",
+        "type": "gf",
+        "question": "うちから 会社まで（　　）かかりますか。…30分ぐらいです。",
+        "correct": "どのくらい",
+        "wrong_options": [
+          "いくら",
+          "何時",
+          "いつ"
+        ],
+        "explanation": "The answer is a length of time, so どのくらい. いくら かかりますか asks about the cost.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "How long does it take from your home to the office? — About 30 minutes.",
+        "notes": [
+          "いくら かかりますか asks the cost. The answer 30分 is time.",
+          "何時 asks a clock time, not how long.",
+          "いつ asks when. The answer is how long it takes."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-12-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 12,
+    "pattern": "past adjectives / nouns",
+    "meaning": "was ~",
+    "questions": [
+      {
+        "qid": "g-m1-12-1-1",
+        "pt_id": "m1-12-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "past adjectives / nouns",
+        "type": "gf",
+        "question": "きのうは 雨（　　）。",
+        "correct": "でした",
+        "wrong_options": [
+          "かったです",
+          "だったです",
+          "ました"
+        ],
+        "explanation": "Noun past: でした.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "It rained yesterday.",
+        "notes": [
+          "かった is for い-adjectives. 雨 is a noun: 雨でした.",
+          "だった and です can't be used together. Noun past: でした.",
+          "ました attaches to a verb stem. 雨 is a noun."
+        ]
+      },
+      {
+        "qid": "g-m1-12-1-2",
+        "pt_id": "m1-12-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "past adjectives / nouns",
+        "type": "gf",
+        "question": "りょこうは たのし（　　）。",
+        "correct": "かったです",
+        "wrong_options": [
+          "いでした",
+          "かったでした",
+          "いだったです"
+        ],
+        "explanation": "い-adjective past: 〜かったです.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "The trip was fun.",
+        "notes": [
+          "でした follows nouns and な-adjectives. たのしい is an い-adjective: たのしかったです.",
+          "かった is already past. Don't add でした.",
+          "い-adjectives don't take だった. Use たのしかったです."
+        ]
+      },
+      {
+        "qid": "g-m1-12-1-3",
+        "pt_id": "m1-12-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "past adjectives / nouns",
+        "type": "gf",
+        "question": "天気は よ（　　）。",
+        "correct": "くなかったです",
+        "wrong_options": [
+          "かったじゃ ありません",
+          "くないでした",
+          "いじゃ なかったです"
+        ],
+        "explanation": "いい → よくなかったです.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "The weather was not good.",
+        "notes": [
+          "よかった is \"was good\". To make it negative, use よくなかった.",
+          "くない is present. The weather was past: よくなかったです.",
+          "じゃ なかった is for nouns and な-adjectives. いい → よくなかったです."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-12-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 12,
+    "pattern": "N1 は N2 より adj",
+    "meaning": "N1 is more ~ than N2",
+    "questions": [
+      {
+        "qid": "g-m1-12-2-1",
+        "pt_id": "m1-12-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N1 は N2 より adj",
+        "type": "gf",
+        "question": "この 車は あの 車（　　）高いです。",
+        "correct": "より",
+        "wrong_options": [
+          "ほど",
+          "のほう",
+          "から"
+        ],
+        "explanation": "より = than. ほど needs a negative.",
+        "tags": [
+          "particle",
+          "polar",
+          "particle"
+        ],
+        "translation": "This car is more expensive than that car.",
+        "notes": [
+          "ほど needs a negative (あの 車ほど 高くない). With a positive, use より.",
+          "のほう marks the thing that is MORE (and needs が: この 車のほうが). \"Than that car\" is より.",
+          "から = from. \"Than\" is より."
+        ]
+      },
+      {
+        "qid": "g-m1-12-2-2",
+        "pt_id": "m1-12-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N1 は N2 より adj",
+        "type": "gf",
+        "question": "電車は バス（　　）はやいです。",
+        "correct": "より",
+        "wrong_options": [
+          "ほど",
+          "から",
+          "まで"
+        ],
+        "explanation": "より = than. ほど only works with a negative (バスほど はやくない).",
+        "tags": [
+          "particle",
+          "polar",
+          "particle"
+        ],
+        "translation": "Trains are faster than buses.",
+        "notes": [
+          "ほど needs a negative (バスほど はやくない). With a positive, use より.",
+          "から = from. \"Than\" is より.",
+          "まで = until. \"Than\" is より."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-12-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 12,
+    "pattern": "N1 と N2 と どちらが / N の ほうが",
+    "meaning": "which (of two) / N is more",
+    "questions": [
+      {
+        "qid": "g-m1-12-3-1",
+        "pt_id": "m1-12-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N1 と N2 と どちらが / N の ほうが",
+        "type": "gf",
+        "question": "サッカーと やきゅうと（　　）が おもしろいですか。",
+        "correct": "どちら",
+        "wrong_options": [
+          "どれ",
+          "どこ",
+          "何"
+        ],
+        "explanation": "Choosing between two: どちら.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "Which is more interesting, soccer or baseball?",
+        "notes": [
+          "どれ is for three or more. For two things, use どちら.",
+          "どこ asks where. Choosing between two: どちら.",
+          "何 asks what. Choosing between two: どちら."
+        ]
+      },
+      {
+        "qid": "g-m1-12-3-2",
+        "pt_id": "m1-12-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N1 と N2 と どちらが / N の ほうが",
+        "type": "gf",
+        "question": "サッカーの（　　）が おもしろいです。",
+        "correct": "ほう",
+        "wrong_options": [
+          "より",
+          "ほど",
+          "だけ"
+        ],
+        "explanation": "N の ほうが = N is more.",
+        "tags": [
+          "form",
+          "particle",
+          "particle"
+        ],
+        "translation": "Soccer is more interesting.",
+        "notes": [
+          "より marks the thing being compared against, not the one that is more.",
+          "ほど needs a negative and doesn't go before が.",
+          "だけ = only. \"Soccer is more\" is サッカーの ほうが."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-12-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 12,
+    "pattern": "N の なかで 〜が いちばん",
+    "meaning": "the most (among)",
+    "questions": [
+      {
+        "qid": "g-m1-12-4-1",
+        "pt_id": "m1-12-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N の なかで 〜が いちばん",
+        "type": "gf",
+        "question": "くだものの 中で（　　）が いちばん すきですか。",
+        "correct": "何",
+        "wrong_options": [
+          "どちら",
+          "どう",
+          "どんな"
+        ],
+        "explanation": "Among three or more: 何 / どれ / だれ. どちら is for two.",
+        "tags": [
+          "field",
+          "form",
+          "form"
+        ],
+        "translation": "Which fruit do you like best?",
+        "notes": [
+          "どちら is for choosing between two. Among all fruit, use 何 (or どれ).",
+          "どう asks how. It can't take が.",
+          "どんな needs a noun after it."
+        ]
+      },
+      {
+        "qid": "g-m1-12-4-2",
+        "pt_id": "m1-12-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 12,
+        "pattern": "N の なかで 〜が いちばん",
+        "type": "gf",
+        "question": "かぞくで（　　）が いちばん せが 高いですか。…父です。",
+        "correct": "だれ",
+        "wrong_options": [
+          "どれ",
+          "どちら",
+          "何"
+        ],
+        "explanation": "People: だれ.",
+        "tags": [
+          "field",
+          "field",
+          "field"
+        ],
+        "translation": "Who is the tallest in your family? — My father.",
+        "notes": [
+          "どれ is for things. Family members are people: だれ.",
+          "どちら is for choosing between two. A family here is more people: だれ.",
+          "何 asks about things. The answer is a person: だれ."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-13-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 13,
+    "pattern": "N が ほしいです",
+    "meaning": "want (a thing)",
+    "questions": [
+      {
+        "qid": "g-m1-13-1-1",
+        "pt_id": "m1-13-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "N が ほしいです",
+        "type": "gf",
+        "question": "わたしは 新しい 車（　　）ほしいです。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "に",
+          "で"
+        ],
+        "explanation": "ほしい takes が.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I want a new car.",
+        "notes": [
+          "ほしい is an adjective, so the thing you want takes が, not を.",
+          "に marks a place or a receiver. ほしい takes が.",
+          "で marks a place or a means. ほしい takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-13-1-2",
+        "pt_id": "m1-13-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "N が ほしいです",
+        "type": "gf",
+        "question": "わたしは 新しい くつが（　　）。",
+        "correct": "ほしいです",
+        "wrong_options": [
+          "たいです",
+          "ほしいたいです",
+          "ほしがります"
+        ],
+        "explanation": "A thing you want: N が ほしいです. たい attaches to a verb, not a noun, and ほしがる is for someone else's wish.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I want new shoes.",
+        "notes": [
+          "たい attaches to a verb stem (かいたい). くつ is a noun: くつが ほしいです.",
+          "ほしい and たい both mean \"want\". You can't stack them.",
+          "ほしがる is for someone else's wish. For yourself: ほしいです."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-13-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 13,
+    "pattern": "Vます-stem たいです",
+    "meaning": "want to do",
+    "questions": [
+      {
+        "qid": "g-m1-13-2-1",
+        "pt_id": "m1-13-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "Vます-stem たいです",
+        "type": "gf",
+        "question": "何か（　　）たいです。",
+        "correct": "飲み",
+        "wrong_options": [
+          "飲む",
+          "飲んで",
+          "飲ま"
+        ],
+        "explanation": "Verb stem + たい.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I want to drink something.",
+        "notes": [
+          "たい attaches to the stem, not the dictionary form: 飲み + たい.",
+          "たい attaches to the stem, not the て-form.",
+          "飲ま is the ない-form stem. たい takes the ます-stem: 飲み."
+        ]
+      },
+      {
+        "qid": "g-m1-13-2-2",
+        "pt_id": "m1-13-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "Vます-stem たいです",
+        "type": "gf",
+        "question": "おなかが すきましたから、何か（　　）。",
+        "correct": "食べたいです",
+        "wrong_options": [
+          "食べるです",
+          "食べましたいです",
+          "食べほしいです"
+        ],
+        "explanation": "食べたいです = I want to eat.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I'm hungry, so I want to eat something.",
+        "notes": [
+          "です can't follow a verb's dictionary form. \"Want to eat\" is 食べたいです.",
+          "ました is past and can't take たい. Use the stem: 食べたいです.",
+          "ほしい is for things. For actions, use たい: 食べたいです."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-13-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 13,
+    "pattern": "N（place）へ Vstem・N に いきます",
+    "meaning": "go somewhere to do",
+    "questions": [
+      {
+        "qid": "g-m1-13-3-1",
+        "pt_id": "m1-13-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "N（place）へ Vstem・N に いきます",
+        "type": "gf",
+        "question": "こうべへ インドりょうりを（　　）に 行きます。",
+        "correct": "食べ",
+        "wrong_options": [
+          "食べる",
+          "食べて",
+          "食べた"
+        ],
+        "explanation": "Purpose: verb stem + に 行く.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I'm going to Kobe to eat Indian food.",
+        "notes": [
+          "Purpose + に 行く takes the stem, not the dictionary form.",
+          "Purpose + に 行く takes the stem, not the て-form.",
+          "Purpose + に 行く takes the stem, not the past."
+        ]
+      },
+      {
+        "qid": "g-m1-13-3-2",
+        "pt_id": "m1-13-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "N（place）へ Vstem・N に いきます",
+        "type": "gf",
+        "question": "こうえんへ さんぽ（　　）行きます。",
+        "correct": "に",
+        "wrong_options": [
+          "を",
+          "で",
+          "と"
+        ],
+        "explanation": "する-noun + に 行く.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I'm going to the park for a walk.",
+        "notes": [
+          "を marks an object. A purpose with 行く takes に: さんぽに 行く.",
+          "で marks a place or a means. A purpose takes に.",
+          "と = with someone. A purpose takes に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-13-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 13,
+    "pattern": "どこか / なにか",
+    "meaning": "somewhere / something",
+    "questions": [
+      {
+        "qid": "g-m1-13-4-1",
+        "pt_id": "m1-13-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "どこか / なにか",
+        "type": "gf",
+        "question": "ふゆやすみは（　　）行きましたか。…はい、ほっかいどうへ 行きました。",
+        "correct": "どこか",
+        "wrong_options": [
+          "どこ",
+          "どこも",
+          "どこでも"
+        ],
+        "explanation": "Answered with はい, so it is a yes/no question: どこか = anywhere.",
+        "tags": [
+          "nuance",
+          "form",
+          "form"
+        ],
+        "translation": "Did you go anywhere for the winter holiday? — Yes, I went to Hokkaido.",
+        "notes": [
+          "どこ asks where, and the answer would be a place, not はい.",
+          "どこも needs a negative (どこも 行きませんでした).",
+          "どこでも = anywhere at all, any place is fine. It doesn't ask a yes/no question."
+        ]
+      },
+      {
+        "qid": "g-m1-13-4-2",
+        "pt_id": "m1-13-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 13,
+        "pattern": "どこか / なにか",
+        "type": "gf",
+        "question": "のどが かわきましたね。（　　）飲みませんか。",
+        "correct": "何か",
+        "wrong_options": [
+          "何も",
+          "何",
+          "何でも"
+        ],
+        "explanation": "Something (not a specific thing) = 何か. 何も needs a negative answer like 何も 飲みません.",
+        "tags": [
+          "polar",
+          "form",
+          "nuance"
+        ],
+        "translation": "I'm thirsty. Won't you drink something?",
+        "notes": [
+          "何も needs a negative answer (何も 飲みません). An invitation needs 何か.",
+          "何 alone asks what. For an invitation to drink \"something\", use 何か.",
+          "何でも = anything at all. 何でも 飲みませんか isn't natural; \"something\" is 何か."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-14-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 14,
+    "pattern": "Vて ください",
+    "meaning": "please do",
+    "questions": [
+      {
+        "qid": "g-m1-14-1-1",
+        "pt_id": "m1-14-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vて ください",
+        "type": "gf",
+        "question": "すみませんが、しおを（　　）ください。",
+        "correct": "とって",
+        "wrong_options": [
+          "とる",
+          "とり",
+          "とった"
+        ],
+        "explanation": "て-form + ください.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Excuse me, could you pass the salt, please?",
+        "notes": [
+          "ください takes the て-form, not the dictionary form.",
+          "ください takes the て-form, not the stem.",
+          "ください takes the て-form, not the past."
+        ]
+      },
+      {
+        "qid": "g-m1-14-1-2",
+        "pt_id": "m1-14-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vて ください",
+        "type": "gf",
+        "question": "ここに 名前を（　　）ください。",
+        "correct": "書いて",
+        "wrong_options": [
+          "書きて",
+          "書って",
+          "書んで"
+        ],
+        "explanation": "書く → 書いて.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Please write your name here.",
+        "notes": [
+          "書く is a く-verb: 書いて, not 書きて.",
+          "書く ends in く, so the て-form is 書いて. って is for う, つ, る verbs.",
+          "んで is for ぬ, ぶ, む verbs. 書く → 書いて."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-14-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 14,
+    "pattern": "Vて います（in progress）",
+    "meaning": "is doing now",
+    "questions": [
+      {
+        "qid": "g-m1-14-2-1",
+        "pt_id": "m1-14-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vて います（in progress）",
+        "type": "gf",
+        "question": "ミラーさんは 今 電話を（　　）います。",
+        "correct": "かけて",
+        "wrong_options": [
+          "かける",
+          "かけ",
+          "かけた"
+        ],
+        "explanation": "て-form + いる = in progress.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Mr. Miller is on the phone now.",
+        "notes": [
+          "います takes the て-form: かけて います.",
+          "The stem can't take います. Use かけて います.",
+          "The past can't take います. Use かけて います."
+        ]
+      },
+      {
+        "qid": "g-m1-14-2-2",
+        "pt_id": "m1-14-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vて います（in progress）",
+        "type": "gf",
+        "question": "今 雨が（　　）。",
+        "correct": "ふって います",
+        "wrong_options": [
+          "ふります",
+          "ふりました",
+          "ふって ください"
+        ],
+        "explanation": "Right now → ている.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "It's raining now.",
+        "notes": [
+          "ふります is the plain present or future. Right now it is ふって います.",
+          "ふりました = it rained. 今 shows it is happening now.",
+          "ふって ください = please rain. That's a request."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-14-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 14,
+    "pattern": "Vましょうか",
+    "meaning": "shall I ~? (offer)",
+    "questions": [
+      {
+        "qid": "g-m1-14-3-1",
+        "pt_id": "m1-14-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vましょうか",
+        "type": "gf",
+        "question": "にもつが 多いですね。（　　）。…ありがとう ございます。",
+        "correct": "もちましょうか",
+        "wrong_options": [
+          "もちませんか",
+          "もって ください",
+          "もちましたか"
+        ],
+        "explanation": "Offering help: Vましょうか. Vませんか is an invitation.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "You have a lot of luggage. Shall I carry it? — Thank you.",
+        "notes": [
+          "もちませんか invites the listener to carry it. You are offering to do it yourself.",
+          "もって ください asks them to carry it. The reply ありがとう shows you offered.",
+          "もちましたか asks about the past."
+        ]
+      },
+      {
+        "qid": "g-m1-14-3-2",
+        "pt_id": "m1-14-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 14,
+        "pattern": "Vましょうか",
+        "type": "gf",
+        "question": "さむいですね。まどを（　　）。…ええ、おねがいします。",
+        "correct": "しめましょうか",
+        "wrong_options": [
+          "しめませんか",
+          "しめて ください",
+          "しめましたか"
+        ],
+        "explanation": "Offering to do it yourself: Vましょうか. おねがいします accepts an offer.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "It's cold, isn't it. Shall I close the window? — Yes, please.",
+        "notes": [
+          "しめませんか invites them to close it. おねがいします accepts your offer.",
+          "しめて ください asks them to close it. おねがいします shows you offered.",
+          "しめましたか asks about the past."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-15-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 15,
+    "pattern": "Vても いいですか",
+    "meaning": "may I",
+    "questions": [
+      {
+        "qid": "g-m1-15-1-1",
+        "pt_id": "m1-15-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vても いいですか",
+        "type": "gf",
+        "question": "しゃしんを（　　）も いいですか。",
+        "correct": "とって",
+        "wrong_options": [
+          "とる",
+          "とり",
+          "とった"
+        ],
+        "explanation": "て-form + も いいですか.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "May I take a photo?",
+        "notes": [
+          "も いいですか takes the て-form, not the dictionary form.",
+          "も いいですか takes the て-form, not the stem.",
+          "も いいですか takes the て-form, not the past."
+        ]
+      },
+      {
+        "qid": "g-m1-15-1-2",
+        "pt_id": "m1-15-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vても いいですか",
+        "type": "gf",
+        "question": "ここで たばこを すっても いいですか。…すみません、（　　）。",
+        "correct": "すっては いけません",
+        "wrong_options": [
+          "すっても いいです",
+          "すいましょう",
+          "すって ください"
+        ],
+        "explanation": "Polite refusal + prohibition.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "May I smoke here? — Sorry, you must not smoke here.",
+        "notes": [
+          "すっても いいです = yes, you may. すみません shows a refusal.",
+          "すいましょう = let's smoke. That isn't a refusal.",
+          "すって ください = please smoke. すみません shows it's not allowed."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-15-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 15,
+    "pattern": "Vては いけません",
+    "meaning": "must not",
+    "questions": [
+      {
+        "qid": "g-m1-15-2-1",
+        "pt_id": "m1-15-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vては いけません",
+        "type": "gf",
+        "question": "ここに 車を とめては（　　）。",
+        "correct": "いけません",
+        "wrong_options": [
+          "いいです",
+          "ください",
+          "います"
+        ],
+        "explanation": "て-form + は いけません.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "You must not park your car here.",
+        "notes": [
+          "ても いいです is \"may\"; では いいです is not a form.",
+          "て ください is a request, and は can't sit before ください.",
+          "て います is \"is doing\", and は can't make it a rule."
+        ]
+      },
+      {
+        "qid": "g-m1-15-2-2",
+        "pt_id": "m1-15-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vては いけません",
+        "type": "gf",
+        "question": "としょかんで 電話を（　　）は いけません。",
+        "correct": "かけて",
+        "wrong_options": [
+          "かける",
+          "かけ",
+          "かけた"
+        ],
+        "explanation": "て-form + は いけません.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "You must not make phone calls in the library.",
+        "notes": [
+          "は いけません takes the て-form, not the dictionary form.",
+          "は いけません takes the て-form, not the stem.",
+          "は いけません takes the て-form, not the past."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-15-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 15,
+    "pattern": "Vて います（state / job / where you live）",
+    "meaning": "state",
+    "questions": [
+      {
+        "qid": "g-m1-15-3-1",
+        "pt_id": "m1-15-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vて います（state / job / where you live）",
+        "type": "gf",
+        "question": "わたしは おおさかに（　　）。",
+        "correct": "すんで います",
+        "wrong_options": [
+          "すみて います",
+          "すむ います",
+          "すんで ください"
+        ],
+        "explanation": "Where you live: すんで います.",
+        "tags": [
+          "form",
+          "form",
+          "nuance"
+        ],
+        "translation": "I live in Osaka.",
+        "notes": [
+          "すむ ends in む, so the て-form is すんで, not すみて.",
+          "います takes the て-form: すんで います.",
+          "すんで ください = please live. Where you live is a state: すんで います."
+        ]
+      },
+      {
+        "qid": "g-m1-15-3-2",
+        "pt_id": "m1-15-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 15,
+        "pattern": "Vて います（state / job / where you live）",
+        "type": "gf",
+        "question": "マリアさんの でんわばんごうを しって いますか。…いいえ、（　　）。",
+        "correct": "しりません",
+        "wrong_options": [
+          "しって いません",
+          "しりませんでした",
+          "しらないでした"
+        ],
+        "explanation": "The negative of しって います is しりません.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Do you know Maria's phone number? — No, I don't.",
+        "notes": [
+          "しって いません is not used. The negative of しって います is しりません.",
+          "しりませんでした = \"I didn't know\" (about the past). The question is about now.",
+          "しらないでした is not a form. Use しりません."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-16-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 16,
+    "pattern": "V1て、V2て、V3",
+    "meaning": "sequence of actions",
+    "questions": [
+      {
+        "qid": "g-m1-16-1-1",
+        "pt_id": "m1-16-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "V1て、V2て、V3",
+        "type": "gf",
+        "question": "あさ ジョギングを（　　）、シャワーを あびて、会社へ 行きます。",
+        "correct": "して",
+        "wrong_options": [
+          "します",
+          "した",
+          "しに"
+        ],
+        "explanation": "Linking actions: て-form.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "In the morning I go jogging, take a shower, and go to the office.",
+        "notes": [
+          "します ends a sentence. To link actions in order, use the て-form.",
+          "した is past. To link actions, use the て-form.",
+          "しに shows a purpose (しに 行く). To link actions, use the て-form."
+        ]
+      },
+      {
+        "qid": "g-m1-16-1-2",
+        "pt_id": "m1-16-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "V1て、V2て、V3",
+        "type": "gf",
+        "question": "きのうは デパートへ（　　）、かいものを して、うちへ かえりました。",
+        "correct": "行って",
+        "wrong_options": [
+          "行きて",
+          "行った",
+          "行く"
+        ],
+        "explanation": "行く → 行って (irregular て-form). Actions in order: Vて、Vて、V.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Yesterday I went to the department store, did some shopping and went home.",
+        "notes": [
+          "行く has an irregular て-form: 行って, not 行きて.",
+          "行った is past. To link actions, use the て-form.",
+          "行く is the dictionary form. To link actions, use the て-form."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-16-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 16,
+    "pattern": "い-adj くて / な-adj・N で",
+    "meaning": "and (adjectives)",
+    "questions": [
+      {
+        "qid": "g-m1-16-2-1",
+        "pt_id": "m1-16-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "い-adj くて / な-adj・N で",
+        "type": "gf",
+        "question": "この へやは ひろ（　　）、あかるいです。",
+        "correct": "くて",
+        "wrong_options": [
+          "いで",
+          "いくて",
+          "いて"
+        ],
+        "explanation": "い-adjective: drop い + くて.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "This room is spacious and bright.",
+        "notes": [
+          "いで is not a form. い-adjectives drop い and add くて.",
+          "Drop the い first: ひろ + くて.",
+          "いて is not an adjective form. ひろい → ひろくて."
+        ]
+      },
+      {
+        "qid": "g-m1-16-2-2",
+        "pt_id": "m1-16-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "い-adj くて / な-adj・N で",
+        "type": "gf",
+        "question": "ミラーさんは ハンサム（　　）、しんせつです。",
+        "correct": "で",
+        "wrong_options": [
+          "くて",
+          "なで",
+          "に"
+        ],
+        "explanation": "な-adjective + で.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Mr. Miller is handsome and kind.",
+        "notes": [
+          "くて is for い-adjectives. ハンサム is a な-adjective: ハンサムで.",
+          "な is only used before a noun.",
+          "に goes before a verb. To join adjectives, use で."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-16-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 16,
+    "pattern": "V1て から、V2",
+    "meaning": "after doing V1",
+    "questions": [
+      {
+        "qid": "g-m1-16-3-1",
+        "pt_id": "m1-16-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "V1て から、V2",
+        "type": "gf",
+        "question": "しごとが（　　）から、飲みに 行きます。",
+        "correct": "おわって",
+        "wrong_options": [
+          "おわりて",
+          "おわんで",
+          "おわり"
+        ],
+        "explanation": "て-form + から.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "After work is over, I'll go for a drink.",
+        "notes": [
+          "おわる is a る-ending う-verb: the て-form is おわって, not おわりて.",
+          "んで is for ぬ, ぶ, む verbs. おわる → おわって.",
+          "おわり is the stem (or the noun \"end\"). てから takes the て-form."
+        ]
+      },
+      {
+        "qid": "g-m1-16-3-2",
+        "pt_id": "m1-16-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "V1て から、V2",
+        "type": "gf",
+        "question": "手を（　　）から、ごはんを 食べます。",
+        "correct": "あらって",
+        "wrong_options": [
+          "あらいて",
+          "あらんで",
+          "あらい"
+        ],
+        "explanation": "て-form + から = after doing. あらう → あらって.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I eat after washing my hands.",
+        "notes": [
+          "あらう ends in う, so the て-form is あらって, not あらいて.",
+          "んで is for ぬ, ぶ, む verbs. あらう → あらって.",
+          "あらい is the stem. てから takes the て-form."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-16-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 16,
+    "pattern": "N1 は N2 が adj",
+    "meaning": "N1 has an adj N2",
+    "questions": [
+      {
+        "qid": "g-m1-16-4-1",
+        "pt_id": "m1-16-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "N1 は N2 が adj",
+        "type": "gf",
+        "question": "おおさかは たべもの（　　）おいしいです。",
+        "correct": "が",
+        "wrong_options": [
+          "を",
+          "に",
+          "で"
+        ],
+        "explanation": "Topic は, feature が.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Osaka has delicious food.",
+        "notes": [
+          "を marks an object. The feature (たべもの) takes が: たべものが おいしい.",
+          "に marks a place or a receiver. The feature takes が.",
+          "で marks a place or a means. The feature takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-16-4-2",
+        "pt_id": "m1-16-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "N1 は N2 が adj",
+        "type": "go",
+        "question": "マリアさんは　★　＿＿　＿＿　＿＿　です。",
+        "correct": "かみ",
+        "wrong_options": [
+          "長い",
+          "が",
+          "人"
+        ],
+        "explanation": "マリアさんは かみ が 長い 人 です。 ★ = かみ.",
+        "tags": [
+          "order",
+          "order",
+          "order"
+        ],
+        "translation": "Maria is the person with long hair.",
+        "notes": [
+          "The order is かみ が 長い 人. 長い comes after かみが, not first.",
+          "が comes after かみ (かみが), so it can't be first.",
+          "人 comes last, right before です."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-16-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 16,
+    "pattern": "どうやって",
+    "meaning": "how (method)",
+    "questions": [
+      {
+        "qid": "g-m1-16-5-1",
+        "pt_id": "m1-16-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "どうやって",
+        "type": "gf",
+        "question": "大学まで（　　）行きますか。…きょうと駅から 16ばんの バスに のって ください。",
+        "correct": "どうやって",
+        "wrong_options": [
+          "どんな",
+          "どれ",
+          "どこ"
+        ],
+        "explanation": "Method: どうやって.",
+        "tags": [
+          "form",
+          "field",
+          "field"
+        ],
+        "translation": "How do I get to the university? — Take the No. 16 bus from Kyoto Station.",
+        "notes": [
+          "どんな needs a noun after it.",
+          "どれ asks which one. The answer is a way of going.",
+          "どこ asks where, but 大学まで already says where. The answer is how: by bus."
+        ]
+      },
+      {
+        "qid": "g-m1-16-5-2",
+        "pt_id": "m1-16-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 16,
+        "pattern": "どうやって",
+        "type": "gf",
+        "question": "駅まで（　　）行きますか。…あるいて いきます。",
+        "correct": "どうやって",
+        "wrong_options": [
+          "どんな",
+          "どれ",
+          "どの"
+        ],
+        "explanation": "Asking the way of doing something: どうやって.",
+        "tags": [
+          "form",
+          "field",
+          "form"
+        ],
+        "translation": "How do you get to the station? — I walk.",
+        "notes": [
+          "どんな needs a noun after it.",
+          "どれ asks which one. The answer あるいて is a way of going.",
+          "どの needs a noun after it."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-17-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 17,
+    "pattern": "Vないで ください",
+    "meaning": "please don't",
+    "questions": [
+      {
+        "qid": "g-m1-17-1-1",
+        "pt_id": "m1-17-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vないで ください",
+        "type": "gf",
+        "question": "ここで しゃしんを（　　）ください。",
+        "correct": "とらないで",
+        "wrong_options": [
+          "とらなくて",
+          "とらない",
+          "とって ないで"
+        ],
+        "explanation": "ない-form + で ください.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Please don't take photos here.",
+        "notes": [
+          "なくて shows a reason (not doing, so…). A request takes ないで ください.",
+          "ない alone can't take ください. Add で: とらないで.",
+          "とって ないで is not a form. The negative request is とらないで ください."
+        ]
+      },
+      {
+        "qid": "g-m1-17-1-2",
+        "pt_id": "m1-17-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vないで ください",
+        "type": "gf",
+        "question": "しんぱい（　　）ください。",
+        "correct": "しないで",
+        "wrong_options": [
+          "しなくて",
+          "しない",
+          "しなかった"
+        ],
+        "explanation": "しないで ください = please don't worry.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Please don't worry.",
+        "notes": [
+          "なくて shows a reason. \"Please don't\" is ないで ください.",
+          "ない alone can't take ください. Add で: しないで.",
+          "しなかった is past. A request takes ないで ください."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-17-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 17,
+    "pattern": "Vなければ なりません",
+    "meaning": "must",
+    "questions": [
+      {
+        "qid": "g-m1-17-2-1",
+        "pt_id": "m1-17-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vなければ なりません",
+        "type": "gf",
+        "question": "くすりを（　　）なりません。",
+        "correct": "飲まなければ",
+        "wrong_options": [
+          "飲まないで",
+          "飲まなくて",
+          "飲むなければ"
+        ],
+        "explanation": "ない → なければ なりません.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I must take my medicine.",
+        "notes": [
+          "ないで is used for \"please don't\" or \"without\". \"Must\" is なければ なりません.",
+          "なくて needs は before なりません (なくては なりません).",
+          "なければ attaches to the ない-form: 飲まなければ, not 飲むなければ."
+        ]
+      },
+      {
+        "qid": "g-m1-17-2-2",
+        "pt_id": "m1-17-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vなければ なりません",
+        "type": "gf",
+        "question": "あしたは ７時の ひこうきですから、はやく おき（　　）。",
+        "correct": "なければ なりません",
+        "wrong_options": [
+          "なくても いいです",
+          "ないで ください",
+          "ません"
+        ],
+        "explanation": "Early flight → must get up early.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "Tomorrow's flight is at 7, so I have to get up early.",
+        "notes": [
+          "なくても いいです = don't have to. With an early flight, you must.",
+          "ないで ください = please don't. That's a request to someone else.",
+          "ません = \"I won't get up early\". The early flight shows you have to."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-17-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 17,
+    "pattern": "Vなくても いいです",
+    "meaning": "don't have to",
+    "questions": [
+      {
+        "qid": "g-m1-17-3-1",
+        "pt_id": "m1-17-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vなくても いいです",
+        "type": "gf",
+        "question": "あしたは 休みですから、来なくて（　　）。",
+        "correct": "いいです",
+        "wrong_options": [
+          "いけません",
+          "なりません",
+          "ください"
+        ],
+        "explanation": "なくても いいです = no need to.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Tomorrow is a day off, so you don't have to come.",
+        "notes": [
+          "なくて いけません isn't right; \"must\" is なければ いけません. And a day off means no need to come.",
+          "なくて なりません isn't a form; \"must\" is なければ なりません. And a day off means no need to come.",
+          "なくて ください isn't a form. \"No need to\" is なくても いいです."
+        ]
+      },
+      {
+        "qid": "g-m1-17-3-2",
+        "pt_id": "m1-17-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "Vなくても いいです",
+        "type": "gf",
+        "question": "あしたは テストが ありませんから、べんきょうし（　　）。",
+        "correct": "なくても いいです",
+        "wrong_options": [
+          "なければ なりません",
+          "ては いけません",
+          "ないで ください"
+        ],
+        "explanation": "No test → no need to study: Vなくても いいです.",
+        "tags": [
+          "dir",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "There's no test tomorrow, so you don't have to study.",
+        "notes": [
+          "なければ なりません = must study. With no test, that's the opposite.",
+          "ては いけません = you must not study. No test means you don't have to, not that you're forbidden.",
+          "ないで ください = please don't study. That's a request, not \"no need\"."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-17-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 17,
+    "pattern": "までに",
+    "meaning": "by (a deadline)",
+    "questions": [
+      {
+        "qid": "g-m1-17-4-1",
+        "pt_id": "m1-17-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "までに",
+        "type": "gf",
+        "question": "この 本は どようび（　　）かえして ください。",
+        "correct": "までに",
+        "wrong_options": [
+          "まで",
+          "から",
+          "より"
+        ],
+        "explanation": "Deadline = までに. まで = continuously until.",
+        "tags": [
+          "nuance",
+          "particle",
+          "particle"
+        ],
+        "translation": "Please return this book by Saturday.",
+        "notes": [
+          "まで = continuously until. \"Return by Saturday\" is a deadline: までに.",
+          "から = from. A deadline is までに.",
+          "より = than. A deadline is までに."
+        ]
+      },
+      {
+        "qid": "g-m1-17-4-2",
+        "pt_id": "m1-17-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 17,
+        "pattern": "までに",
+        "type": "gf",
+        "question": "かいぎは ５時（　　）おわります。",
+        "correct": "までに",
+        "wrong_options": [
+          "まで",
+          "から",
+          "ごろまで"
+        ],
+        "explanation": "Finishes by 5 = までに.",
+        "tags": [
+          "nuance",
+          "particle",
+          "nuance"
+        ],
+        "translation": "The meeting will finish by 5.",
+        "notes": [
+          "まで = something goes on until 5. おわる happens once, so \"by 5\" is までに.",
+          "から = from. \"By 5\" is までに.",
+          "ごろまで = until about 5. おわる happens once: までに."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-18-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 18,
+    "pattern": "N / Vdict こと が できます",
+    "meaning": "can do",
+    "questions": [
+      {
+        "qid": "g-m1-18-1-1",
+        "pt_id": "m1-18-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "N / Vdict こと が できます",
+        "type": "gf",
+        "question": "ミラーさんは かんじを（　　）が できます。",
+        "correct": "読むこと",
+        "wrong_options": [
+          "読む",
+          "読んで",
+          "読み"
+        ],
+        "explanation": "Dictionary form + こと が できる.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Mr. Miller can read kanji.",
+        "notes": [
+          "A verb can't take が できます directly. Add こと: 読むことが.",
+          "ができます needs a noun. The て-form isn't one.",
+          "The stem can't take が できます. Use 読むこと."
+        ]
+      },
+      {
+        "qid": "g-m1-18-1-2",
+        "pt_id": "m1-18-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "N / Vdict こと が できます",
+        "type": "gf",
+        "question": "ここで カードで はらう（　　）できますか。",
+        "correct": "ことが",
+        "wrong_options": [
+          "のを",
+          "ことを",
+          "が"
+        ],
+        "explanation": "こと が できます.",
+        "tags": [
+          "particle",
+          "particle",
+          "form"
+        ],
+        "translation": "Can I pay by card here?",
+        "notes": [
+          "のを is not used with できる. Use ことが できます.",
+          "できる takes が, not を: ことが できます.",
+          "A verb can't take が directly. Add こと: はらうことが."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-18-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 18,
+    "pattern": "しゅみは 〜ことです",
+    "meaning": "my hobby is ~ing",
+    "questions": [
+      {
+        "qid": "g-m1-18-2-1",
+        "pt_id": "m1-18-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "しゅみは 〜ことです",
+        "type": "gf",
+        "question": "わたしの しゅみは えを（　　）です。",
+        "correct": "書くこと",
+        "wrong_options": [
+          "書きます",
+          "書いて",
+          "書く"
+        ],
+        "explanation": "Turn a verb into a noun: dictionary form + こと.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "My hobby is drawing pictures.",
+        "notes": [
+          "書きます can't sit before です. Turn the verb into a noun: 書くこと.",
+          "The て-form can't sit before です. Use 書くこと.",
+          "A plain verb can't sit before です. Add こと: 書くことです."
+        ]
+      },
+      {
+        "qid": "g-m1-18-2-2",
+        "pt_id": "m1-18-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "しゅみは 〜ことです",
+        "type": "gf",
+        "question": "わたしの しゅみは ギターを（　　）です。",
+        "correct": "ひくこと",
+        "wrong_options": [
+          "ひきます",
+          "ひいて",
+          "ひく"
+        ],
+        "explanation": "しゅみは + dictionary form + こと です.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "My hobby is playing the guitar.",
+        "notes": [
+          "ひきます can't sit before です. Use ひくこと.",
+          "The て-form can't sit before です. Use ひくこと.",
+          "A plain verb can't sit before です. Add こと: ひくことです."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-18-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 18,
+    "pattern": "Vdict / N の まえに",
+    "meaning": "before",
+    "questions": [
+      {
+        "qid": "g-m1-18-3-1",
+        "pt_id": "m1-18-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "Vdict / N の まえに",
+        "type": "gf",
+        "question": "ねる（　　）、本を 読みます。",
+        "correct": "前に",
+        "wrong_options": [
+          "前で",
+          "後で",
+          "前の"
+        ],
+        "explanation": "Dictionary form + 前に.",
+        "tags": [
+          "form",
+          "form",
+          "nuance"
+        ],
+        "translation": "Before going to bed, I read a book.",
+        "notes": [
+          "前で marks a place in front of something. \"Before (time)\" is 前に.",
+          "後で = after, the opposite, and it takes the た-form (ねた 後で).",
+          "前の needs a noun after it. Before a sentence, use 前に."
+        ]
+      },
+      {
+        "qid": "g-m1-18-3-2",
+        "pt_id": "m1-18-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "Vdict / N の まえに",
+        "type": "gf",
+        "question": "しょくじの（　　）、手を あらいます。",
+        "correct": "前に",
+        "wrong_options": [
+          "前で",
+          "前を",
+          "前と"
+        ],
+        "explanation": "N の 前に.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Before meals, I wash my hands.",
+        "notes": [
+          "前で marks a place in front of something. \"Before meals\" is しょくじの 前に.",
+          "前を marks a place you pass. \"Before meals\" is 前に.",
+          "前と isn't used for time. \"Before meals\" is 前に."
+        ]
+      },
+      {
+        "qid": "g-m1-18-3-3",
+        "pt_id": "m1-18-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "Vdict / N の まえに",
+        "type": "gf",
+        "question": "日本へ（　　）前に、日本語を べんきょうしました。",
+        "correct": "来る",
+        "wrong_options": [
+          "来た",
+          "来て",
+          "来"
+        ],
+        "explanation": "前に always takes the dictionary form, even for past events.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Before coming to Japan, I studied Japanese.",
+        "notes": [
+          "前に always takes the dictionary form, even for past events.",
+          "The て-form can't take 前に.",
+          "来 alone is not a form. Use 来る."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-18-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 18,
+    "pattern": "なかなか 〜ない",
+    "meaning": "not easily",
+    "questions": [
+      {
+        "qid": "g-m1-18-4-1",
+        "pt_id": "m1-18-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "なかなか 〜ない",
+        "type": "gf",
+        "question": "日本では なかなか うまを（　　）。",
+        "correct": "見る ことが できません",
+        "wrong_options": [
+          "見る ことが できます",
+          "見ます",
+          "見ました"
+        ],
+        "explanation": "なかなか (meaning \"not easily\") needs a negative.",
+        "tags": [
+          "polar",
+          "polar",
+          "polar"
+        ],
+        "translation": "In Japan you rarely get a chance to see horses.",
+        "notes": [
+          "なかなか meaning \"not easily\" needs a negative.",
+          "なかなか needs a negative. 見ます is positive.",
+          "なかなか needs a negative. 見ました is positive."
+        ]
+      },
+      {
+        "qid": "g-m1-18-4-2",
+        "pt_id": "m1-18-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 18,
+        "pattern": "なかなか 〜ない",
+        "type": "gf",
+        "question": "この ドアは なかなか（　　）。",
+        "correct": "あきません",
+        "wrong_options": [
+          "あきます",
+          "あきました",
+          "あけましょう"
+        ],
+        "explanation": "なかなか meaning \"not easily\" goes with a negative.",
+        "tags": [
+          "polar",
+          "polar",
+          "polar"
+        ],
+        "translation": "This door just won't open.",
+        "notes": [
+          "なかなか meaning \"not easily\" needs a negative.",
+          "なかなか needs a negative. あきました is positive.",
+          "あけましょう = let's open it. なかなか needs a negative, and the door won't open by itself."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-19-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 19,
+    "pattern": "Vた こと が あります",
+    "meaning": "have done (experience)",
+    "questions": [
+      {
+        "qid": "g-m1-19-1-1",
+        "pt_id": "m1-19-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "Vた こと が あります",
+        "type": "gf",
+        "question": "ふじさんに（　　）ことが ありますか。",
+        "correct": "のぼった",
+        "wrong_options": [
+          "のぼります",
+          "のぼって",
+          "のぼり"
+        ],
+        "explanation": "Experience: た-form + ことが ある.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Have you ever climbed Mount Fuji?",
+        "notes": [
+          "ます-form can't sit before こと. Experience takes the た-form.",
+          "The て-form can't sit before こと. Use のぼった.",
+          "The stem can't sit before こと. Use のぼった."
+        ]
+      },
+      {
+        "qid": "g-m1-19-1-2",
+        "pt_id": "m1-19-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "Vた こと が あります",
+        "type": "gf",
+        "question": "すしを 食べた（　　）が あります。",
+        "correct": "こと",
+        "wrong_options": [
+          "の",
+          "もの",
+          "ところ"
+        ],
+        "explanation": "た ことが あります.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I have eaten sushi before.",
+        "notes": [
+          "の can turn a verb into a noun, but experience is always ことが あります.",
+          "もの = a thing. Experience is ことが あります.",
+          "ところ = a place or a moment. Experience is ことが あります."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-19-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 19,
+    "pattern": "Vたり、Vたり します",
+    "meaning": "do things like A and B",
+    "questions": [
+      {
+        "qid": "g-m1-19-2-1",
+        "pt_id": "m1-19-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "Vたり、Vたり します",
+        "type": "gf",
+        "question": "にちようびは テニスを（　　）、えいがを 見たり します。",
+        "correct": "したり",
+        "wrong_options": [
+          "しだり",
+          "しながら",
+          "するたり"
+        ],
+        "explanation": "List of activities: たり、たり する.",
+        "tags": [
+          "form",
+          "form",
+          "nuance"
+        ],
+        "translation": "On Sundays I do things like play tennis and watch movies.",
+        "notes": [
+          "する → した → したり. だり is only for verbs whose た-form ends in だ (読んだり).",
+          "ながら = doing two things at the same time. You can't play tennis while watching a movie.",
+          "たり attaches to the た-form: したり, not するたり."
+        ]
+      },
+      {
+        "qid": "g-m1-19-2-2",
+        "pt_id": "m1-19-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "Vたり、Vたり します",
+        "type": "gf",
+        "question": "休みの ひは そうじを したり、せんたくを（　　）します。",
+        "correct": "したり",
+        "wrong_options": [
+          "して",
+          "する",
+          "した"
+        ],
+        "explanation": "Both verbs take たり.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "On my days off I do things like cleaning and laundry.",
+        "notes": [
+          "When you list with たり, both verbs take たり, then します.",
+          "A plain verb can't sit before します. Use したり.",
+          "した can't sit before します. Use したり."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-19-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 19,
+    "pattern": "い-adj く / な-adj・N に なります",
+    "meaning": "become",
+    "questions": [
+      {
+        "qid": "g-m1-19-3-1",
+        "pt_id": "m1-19-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "い-adj く / な-adj・N に なります",
+        "type": "gf",
+        "question": "さむく（　　）ね。",
+        "correct": "なりました",
+        "wrong_options": [
+          "しました",
+          "ありました",
+          "いました"
+        ],
+        "explanation": "Change: く なる.",
+        "tags": [
+          "nuance",
+          "colloc",
+          "colloc"
+        ],
+        "translation": "It's gotten cold, hasn't it.",
+        "notes": [
+          "く する means you make it cold. The weather changed by itself: く なる.",
+          "ありました = there was. It can't follow さむく.",
+          "いました = was (a person). It can't follow さむく."
+        ]
+      },
+      {
+        "qid": "g-m1-19-3-2",
+        "pt_id": "m1-19-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 19,
+        "pattern": "い-adj く / な-adj・N に なります",
+        "type": "gf",
+        "question": "げんき（　　）なりました。",
+        "correct": "に",
+        "wrong_options": [
+          "く",
+          "が",
+          "で"
+        ],
+        "explanation": "な-adjective + に なる.",
+        "tags": [
+          "form",
+          "form",
+          "particle"
+        ],
+        "translation": "I got well again.",
+        "notes": [
+          "く is for い-adjectives. げんき is a な-adjective: げんきに.",
+          "が marks a subject. Before なる, a な-adjective takes に.",
+          "で links two parts. Before なる, use に."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-20-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 20,
+    "pattern": "plain style（普通形）",
+    "meaning": "casual speech",
+    "questions": [
+      {
+        "qid": "g-m1-20-1-1",
+        "pt_id": "m1-20-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 20,
+        "pattern": "plain style（普通形）",
+        "type": "gf",
+        "question": "あした ひま？…うん、（　　）。",
+        "correct": "ひま",
+        "wrong_options": [
+          "ひまだです",
+          "ひまな",
+          "ひまに"
+        ],
+        "explanation": "Casual: ひま (or ひまだ).",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Are you free tomorrow? — Yeah, I'm free.",
+        "notes": [
+          "だ and です are both \"is\". Casual speech uses ひま or ひまだ.",
+          "な is only used before a noun.",
+          "に goes before a verb."
+        ]
+      },
+      {
+        "qid": "g-m1-20-1-2",
+        "pt_id": "m1-20-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 20,
+        "pattern": "plain style（普通形）",
+        "type": "gf",
+        "question": "きのう えいがを 見た？…ううん、（　　）。",
+        "correct": "見なかった",
+        "wrong_options": [
+          "見ない",
+          "見ません",
+          "見ないかった"
+        ],
+        "explanation": "Casual past negative: なかった.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Did you see a movie yesterday? — No, I didn't.",
+        "notes": [
+          "見ない is present (\"I don't watch\"). きのう needs past: 見なかった.",
+          "見ません is polite and present. The talk is casual and about yesterday.",
+          "Past negative is なかった: 見なかった."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-21-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 21,
+    "pattern": "普通形 と おもいます",
+    "meaning": "I think that",
+    "questions": [
+      {
+        "qid": "g-m1-21-1-1",
+        "pt_id": "m1-21-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 と おもいます",
+        "type": "gf",
+        "question": "あしたは 雨が（　　）と おもいます。",
+        "correct": "ふる",
+        "wrong_options": [
+          "ふります",
+          "ふって",
+          "ふり"
+        ],
+        "explanation": "Plain form + と おもう.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I think it will rain tomorrow.",
+        "notes": [
+          "と おもいます takes the plain form, not ます.",
+          "The て-form can't sit before と おもう.",
+          "The stem can't sit before と おもう."
+        ]
+      },
+      {
+        "qid": "g-m1-21-1-2",
+        "pt_id": "m1-21-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 と おもいます",
+        "type": "gf",
+        "question": "あの みせは しずか（　　）と おもいます。",
+        "correct": "だ",
+        "wrong_options": [
+          "な",
+          "です",
+          "に"
+        ],
+        "explanation": "な-adjective plain form: しずかだ.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I think that shop is quiet.",
+        "notes": [
+          "な is only used before a noun. Before と おもう, use しずかだ.",
+          "Before と おもう, use the plain form: しずかだ, not です.",
+          "に goes before a verb. Before と おもう, use しずかだ."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-21-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 21,
+    "pattern": "普通形 と いいます",
+    "meaning": "say that",
+    "questions": [
+      {
+        "qid": "g-m1-21-2-1",
+        "pt_id": "m1-21-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 と いいます",
+        "type": "gf",
+        "question": "しゅしょうは 来月 アメリカへ 行く（　　）言いました。",
+        "correct": "と",
+        "wrong_options": [
+          "を",
+          "に",
+          "が"
+        ],
+        "explanation": "Quotation: と いう.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "The prime minister said he would go to America next month.",
+        "notes": [
+          "を marks an object. A quote takes と.",
+          "に marks a receiver. A quote takes と.",
+          "が marks a subject. A quote takes と."
+        ]
+      },
+      {
+        "qid": "g-m1-21-2-2",
+        "pt_id": "m1-21-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 と いいます",
+        "type": "gf",
+        "question": "ミラーさんは あした 休む（　　）言って いました。",
+        "correct": "と",
+        "wrong_options": [
+          "を",
+          "に",
+          "で"
+        ],
+        "explanation": "Quoting what someone said: plain form + と いう.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Mr. Miller said he would take the day off tomorrow.",
+        "notes": [
+          "を marks an object. A quote takes と.",
+          "に marks a receiver. A quote takes と.",
+          "で marks a place or a means. A quote takes と."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-21-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 21,
+    "pattern": "普通形 でしょう？",
+    "meaning": "right? (checking)",
+    "questions": [
+      {
+        "qid": "g-m1-21-3-1",
+        "pt_id": "m1-21-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 でしょう？",
+        "type": "gf",
+        "question": "パーティーに 行く（　　）？…ええ、行きます。",
+        "correct": "でしょう",
+        "wrong_options": [
+          "ですか",
+          "ましょう",
+          "だか"
+        ],
+        "explanation": "Plain form + でしょう？ = right?",
+        "tags": [
+          "form",
+          "nuance",
+          "form"
+        ],
+        "translation": "You're going to the party, right? — Yes, I am.",
+        "notes": [
+          "ですか can't follow a verb's plain form.",
+          "ましょう = let's. It attaches to a stem, not the plain form.",
+          "だか isn't used to check something. Use でしょう？"
+        ]
+      },
+      {
+        "qid": "g-m1-21-3-2",
+        "pt_id": "m1-21-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "普通形 でしょう？",
+        "type": "gf",
+        "question": "きのう テレビを 見た（　　）？…ええ、見ました。",
+        "correct": "でしょう",
+        "wrong_options": [
+          "ですか",
+          "ましょう",
+          "だ"
+        ],
+        "explanation": "Checking something you expect: plain form + でしょう？ ですか and だ can't follow a verb's plain form.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "You watched TV yesterday, right? — Yes, I did.",
+        "notes": [
+          "ですか can't follow a verb's plain form.",
+          "ましょう = let's, about the future. It attaches to a stem.",
+          "だ can't follow a verb's plain form."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-21-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 21,
+    "pattern": "N でも V",
+    "meaning": "or something (suggestion)",
+    "questions": [
+      {
+        "qid": "g-m1-21-4-1",
+        "pt_id": "m1-21-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "N でも V",
+        "type": "gf",
+        "question": "ちょっと ビール（　　）飲みませんか。",
+        "correct": "でも",
+        "wrong_options": [
+          "しか",
+          "に",
+          "まで"
+        ],
+        "explanation": "Soft suggestion: N でも.",
+        "tags": [
+          "nuance",
+          "polar",
+          "particle"
+        ],
+        "translation": "How about a beer or something?",
+        "notes": [
+          "しか needs a negative (ビールしか 飲みません). An invitation uses でも.",
+          "に marks a place or receiver. \"A beer or something\" is ビールでも.",
+          "まで = even (or until). A soft suggestion is ビールでも."
+        ]
+      },
+      {
+        "qid": "g-m1-21-4-2",
+        "pt_id": "m1-21-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "N でも V",
+        "type": "gf",
+        "question": "つかれましたね。ちょっと おちゃ（　　）飲みましょう。",
+        "correct": "でも",
+        "wrong_options": [
+          "しか",
+          "に",
+          "が"
+        ],
+        "explanation": "N でも + suggestion = \"tea or something\". しか needs a negative.",
+        "tags": [
+          "polar",
+          "particle",
+          "particle"
+        ],
+        "translation": "We're tired, aren't we. Let's have some tea or something.",
+        "notes": [
+          "しか needs a negative. A suggestion takes でも.",
+          "に marks a place or a receiver. \"Tea or something\" is おちゃでも.",
+          "が marks a subject. Tea isn't drinking."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-21-5",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 21,
+    "pattern": "N（place）で（event）が あります",
+    "meaning": "an event takes place at",
+    "questions": [
+      {
+        "qid": "g-m1-21-5-1",
+        "pt_id": "m1-21-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "N（place）で（event）が あります",
+        "type": "gf",
+        "question": "こんばん ホテル（　　）パーティーが あります。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "を",
+          "へ"
+        ],
+        "explanation": "Events \"happen\", so they take で even with あります.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "There's a party at the hotel tonight.",
+        "notes": [
+          "に あります is for where a thing is. A party is an event that takes place: で.",
+          "を marks an object. An event takes で.",
+          "へ marks direction. An event takes で."
+        ]
+      },
+      {
+        "qid": "g-m1-21-5-2",
+        "pt_id": "m1-21-5",
+        "book": "m1",
+        "level": 5,
+        "unit": 21,
+        "pattern": "N（place）で（event）が あります",
+        "type": "gf",
+        "question": "あした 学校（　　）しけんが あります。",
+        "correct": "で",
+        "wrong_options": [
+          "に",
+          "を",
+          "へ"
+        ],
+        "explanation": "An event (an exam) takes place somewhere: で あります. に あります is for where a thing is.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "There's an exam at school tomorrow.",
+        "notes": [
+          "に あります is for where a thing is. An exam is an event: で.",
+          "を marks an object. An event takes で.",
+          "へ marks direction. An event takes で."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-22-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 22,
+    "pattern": "noun-modifying clause（V普通形 N）",
+    "meaning": "the N that ~",
+    "questions": [
+      {
+        "qid": "g-m1-22-1-1",
+        "pt_id": "m1-22-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 22,
+        "pattern": "noun-modifying clause（V普通形 N）",
+        "type": "gf",
+        "question": "これは ミラーさんが（　　）ケーキです。",
+        "correct": "つくった",
+        "wrong_options": [
+          "つくりました",
+          "つくったの",
+          "つくって"
+        ],
+        "explanation": "Plain form directly before the noun.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "This is the cake Mr. Miller made.",
+        "notes": [
+          "A noun can't follow the ます-form. Use the plain form: つくった ケーキ.",
+          "つくったの is \"the one he made\". Before ケーキ, just つくった.",
+          "The て-form can't sit directly before a noun."
+        ]
+      },
+      {
+        "qid": "g-m1-22-1-2",
+        "pt_id": "m1-22-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 22,
+        "pattern": "noun-modifying clause（V普通形 N）",
+        "type": "go",
+        "question": "あそこで　＿＿　＿＿　＿＿　★　は だれですか。",
+        "correct": "人",
+        "wrong_options": [
+          "いる",
+          "本を",
+          "読んで"
+        ],
+        "explanation": "あそこで 本を 読んで いる 人 は だれですか。 ★ = 人.",
+        "tags": [
+          "order",
+          "order",
+          "order"
+        ],
+        "translation": "Who is the person reading a book over there?",
+        "notes": [
+          "いる comes after 読んで (読んで いる). 人 comes last.",
+          "本を comes first: 本を 読んで いる 人.",
+          "読んで comes after 本を. 人 comes last."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-22-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 22,
+    "pattern": "Vdict じかん・やくそく・ようじ",
+    "meaning": "time / plan / errand to do",
+    "questions": [
+      {
+        "qid": "g-m1-22-2-1",
+        "pt_id": "m1-22-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 22,
+        "pattern": "Vdict じかん・やくそく・ようじ",
+        "type": "gf",
+        "question": "あさごはんを（　　）時間が ありません。",
+        "correct": "食べる",
+        "wrong_options": [
+          "食べます",
+          "食べて",
+          "食べた"
+        ],
+        "explanation": "Dictionary form + 時間.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "I don't have time to eat breakfast.",
+        "notes": [
+          "A noun can't follow the ます-form. Use 食べる 時間.",
+          "The て-form can't sit before a noun.",
+          "食べた 時間 is \"the time when I ate\". \"Time to eat\" is 食べる 時間."
+        ]
+      },
+      {
+        "qid": "g-m1-22-2-2",
+        "pt_id": "m1-22-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 22,
+        "pattern": "Vdict じかん・やくそく・ようじ",
+        "type": "gf",
+        "question": "今日は 友だちと 会う（　　）が あります。",
+        "correct": "やくそく",
+        "wrong_options": [
+          "しゅみ",
+          "前",
+          "ほう"
+        ],
+        "explanation": "会う やくそく = an appointment to meet.",
+        "tags": [
+          "colloc",
+          "colloc",
+          "colloc"
+        ],
+        "translation": "I have plans to meet a friend today.",
+        "notes": [
+          "しゅみ = hobby. 会う しゅみ isn't a phrase; a plan to meet is やくそく.",
+          "前 needs に after the dictionary form (会う 前に). It isn't \"a plan\".",
+          "ほう is used for comparisons. A plan to meet is やくそく."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-23-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 23,
+    "pattern": "Vdict・Vない・adj・N の とき",
+    "meaning": "when",
+    "questions": [
+      {
+        "qid": "g-m1-23-1-1",
+        "pt_id": "m1-23-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "Vdict・Vない・adj・N の とき",
+        "type": "gf",
+        "question": "子どもの（　　）、よく 川で およぎました。",
+        "correct": "とき",
+        "wrong_options": [
+          "前",
+          "後",
+          "時間"
+        ],
+        "explanation": "N の とき = when I was a child.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "When I was a child, I often swam in the river.",
+        "notes": [
+          "子どもの 前 = in front of a child. \"When I was a child\" is とき.",
+          "後 = after. \"When I was a child\" is 子どもの とき.",
+          "時間 = time (hours). \"When I was a child\" is 子どもの とき."
+        ]
+      },
+      {
+        "qid": "g-m1-23-1-2",
+        "pt_id": "m1-23-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "Vdict・Vない・adj・N の とき",
+        "type": "gf",
+        "question": "道を わたる（　　）、車に 気を つけて ください。",
+        "correct": "とき",
+        "wrong_options": [
+          "後で",
+          "ながら",
+          "と"
+        ],
+        "explanation": "When crossing: dictionary form + とき.",
+        "tags": [
+          "nuance",
+          "form",
+          "form"
+        ],
+        "translation": "When you cross the road, watch out for cars.",
+        "notes": [
+          "後で = after crossing. You should watch for cars while crossing: とき.",
+          "ながら attaches to the stem (わたりながら), not the dictionary form.",
+          "と can't end in a request like ください. Use とき."
+        ]
+      },
+      {
+        "qid": "g-m1-23-1-3",
+        "pt_id": "m1-23-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "Vdict・Vない・adj・N の とき",
+        "type": "gf",
+        "question": "日本へ（　　）とき、くうこうで かばんを かいました。(bought it at the airport in Japan)",
+        "correct": "来た",
+        "wrong_options": [
+          "来る",
+          "来て",
+          "来ない"
+        ],
+        "explanation": "You bought it after arriving, so it's the た-form. 来る とき would mean before leaving home.",
+        "tags": [
+          "nuance",
+          "form",
+          "form"
+        ],
+        "translation": "When I came to Japan, I bought a bag at the airport.",
+        "notes": [
+          "来る とき = before leaving home, on the way. You bought it after you arrived: 来た とき.",
+          "The て-form can't sit before とき.",
+          "来ない とき = when you don't come. You did come."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-23-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 23,
+    "pattern": "Vdict と、〜",
+    "meaning": "when / if (automatic result)",
+    "questions": [
+      {
+        "qid": "g-m1-23-2-1",
+        "pt_id": "m1-23-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "Vdict と、〜",
+        "type": "gf",
+        "question": "この ボタンを（　　）と、おつりが 出ます。",
+        "correct": "おす",
+        "wrong_options": [
+          "おした",
+          "おして",
+          "おします"
+        ],
+        "explanation": "Dictionary form + と.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "When you press this button, the change comes out.",
+        "notes": [
+          "と takes the dictionary form, not the past.",
+          "The て-form can't take と for \"when / if\".",
+          "と takes the plain form, not ます."
+        ]
+      },
+      {
+        "qid": "g-m1-23-2-2",
+        "pt_id": "m1-23-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "Vdict と、〜",
+        "type": "gf",
+        "question": "まっすぐ 行く（　　）、ゆうびんきょくが あります。",
+        "correct": "と",
+        "wrong_options": [
+          "ば",
+          "ても",
+          "たら"
+        ],
+        "explanation": "Directions: dictionary form + と.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "If you go straight, there's a post office.",
+        "notes": [
+          "ば attaches to the ば-form (行けば), not the dictionary form.",
+          "ても attaches to the て-form (行っても), and means \"even if\".",
+          "たら attaches to the た-form (行ったら), not 行く."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-23-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 23,
+    "pattern": "N（place）を V（movement）",
+    "meaning": "through / across",
+    "questions": [
+      {
+        "qid": "g-m1-23-3-1",
+        "pt_id": "m1-23-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "N（place）を V（movement）",
+        "type": "gf",
+        "question": "はし（　　）わたります。",
+        "correct": "を",
+        "wrong_options": [
+          "に",
+          "で",
+          "へ"
+        ],
+        "explanation": "Crossing / passing through: を.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "I cross the bridge.",
+        "notes": [
+          "に marks where you arrive. Crossing over something takes を.",
+          "で marks where an action happens. Crossing takes を.",
+          "へ marks direction. Crossing over something takes を."
+        ]
+      },
+      {
+        "qid": "g-m1-23-3-2",
+        "pt_id": "m1-23-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 23,
+        "pattern": "N（place）を V（movement）",
+        "type": "gf",
+        "question": "この 道（　　）まっすぐ 行って ください。",
+        "correct": "を",
+        "wrong_options": [
+          "に",
+          "で",
+          "が"
+        ],
+        "explanation": "Moving along a road: を.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Please go straight along this road.",
+        "notes": [
+          "に marks where you arrive. Moving along a road takes を.",
+          "で marks where an action happens. Moving along takes を.",
+          "が marks a subject. The road isn't going anywhere."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-24-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 24,
+    "pattern": "くれます",
+    "meaning": "gives (to me)",
+    "questions": [
+      {
+        "qid": "g-m1-24-1-1",
+        "pt_id": "m1-24-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "くれます",
+        "type": "gf",
+        "question": "さとうさんは わたしに クリスマスカードを（　　）。",
+        "correct": "くれました",
+        "wrong_options": [
+          "あげました",
+          "もらいました",
+          "やりました"
+        ],
+        "explanation": "Someone gives to me: くれる.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "Ms. Sato gave me a Christmas card.",
+        "notes": [
+          "あげる is giving away from me. Someone giving to me is くれる.",
+          "もらう needs me as the subject (わたしは さとうさんに もらった).",
+          "やる is giving to someone below you (or an animal). Giving to me is くれる."
+        ]
+      },
+      {
+        "qid": "g-m1-24-1-2",
+        "pt_id": "m1-24-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "くれます",
+        "type": "gf",
+        "question": "友だちが わたしに CDを（　　）。",
+        "correct": "くれました",
+        "wrong_options": [
+          "あげました",
+          "もらいました",
+          "いただきました"
+        ],
+        "explanation": "Someone gives to me: くれる. あげる is giving away from me; もらう needs me as the subject.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "My friend gave me a CD.",
+        "notes": [
+          "あげる is giving away from me. Giving to me is くれる.",
+          "もらう needs me as the subject. Here 友だちが is the giver.",
+          "いただく is the polite もらう. It also needs me as the subject."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-24-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 24,
+    "pattern": "Vて あげます・もらいます・くれます",
+    "meaning": "do a favor",
+    "questions": [
+      {
+        "qid": "g-m1-24-2-1",
+        "pt_id": "m1-24-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "Vて あげます・もらいます・くれます",
+        "type": "gf",
+        "question": "わたしは きむらさんに 本を（　　）。(I lent)",
+        "correct": "かして あげました",
+        "wrong_options": [
+          "かして くれました",
+          "かして もらいました",
+          "かりて あげました"
+        ],
+        "explanation": "I did the favor → てあげる.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "I lent Ms. Kimura a book.",
+        "notes": [
+          "てくれる = someone does a favor for me. The hint says I lent: てあげる.",
+          "てもらう = I receive a favor from Kimura. The hint says I lent.",
+          "かりる = borrow. I lent, so かす."
+        ]
+      },
+      {
+        "qid": "g-m1-24-2-2",
+        "pt_id": "m1-24-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "Vて あげます・もらいます・くれます",
+        "type": "gf",
+        "question": "母が セーターを おくって（　　）。",
+        "correct": "くれました",
+        "wrong_options": [
+          "あげました",
+          "もらいました",
+          "やりました"
+        ],
+        "explanation": "Mother did me a favor → てくれる.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "My mother sent me a sweater.",
+        "notes": [
+          "てあげる = I do a favor. My mother did it for me: てくれる.",
+          "てもらう needs me as the subject (わたしは 母に).",
+          "てやる = do for someone below you. My mother did it for me: てくれる."
+        ]
+      },
+      {
+        "qid": "g-m1-24-2-3",
+        "pt_id": "m1-24-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "Vて あげます・もらいます・くれます",
+        "type": "gf",
+        "question": "わたしは やまださんに 駅まで おくって（　　）。",
+        "correct": "もらいました",
+        "wrong_options": [
+          "くれました",
+          "あげました",
+          "くださいました"
+        ],
+        "explanation": "I received the favor from Yamada → てもらう.",
+        "tags": [
+          "dir",
+          "dir",
+          "dir"
+        ],
+        "translation": "Mr. Yamada kindly took me to the station.",
+        "notes": [
+          "てくれる needs the giver as the subject (やまださんが). Here わたしは is the subject.",
+          "てあげる = I do a favor. Yamada did it for me.",
+          "くださる is the polite くれる and needs the giver as the subject. With わたしは … に, use もらいました."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-24-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 24,
+    "pattern": "だれが V",
+    "meaning": "who did it（が）",
+    "questions": [
+      {
+        "qid": "g-m1-24-3-1",
+        "pt_id": "m1-24-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "だれが V",
+        "type": "gf",
+        "question": "だれ（　　）てつだって くれましたか。",
+        "correct": "が",
+        "wrong_options": [
+          "は",
+          "も",
+          "で"
+        ],
+        "explanation": "A question word as subject takes が, never は.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Who helped you?",
+        "notes": [
+          "A question word as the subject can't take は. Use が.",
+          "だれも needs a negative (だれも 来ませんでした = nobody).",
+          "で marks a place or a means. The subject takes が."
+        ]
+      },
+      {
+        "qid": "g-m1-24-3-2",
+        "pt_id": "m1-24-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 24,
+        "pattern": "だれが V",
+        "type": "gf",
+        "question": "きのう だれ（　　）来ましたか。…やまださんが 来ました。",
+        "correct": "が",
+        "wrong_options": [
+          "は",
+          "を",
+          "で"
+        ],
+        "explanation": "A question word as subject takes が, never は.",
+        "tags": [
+          "particle",
+          "particle",
+          "particle"
+        ],
+        "translation": "Who came yesterday? — Mr. Yamada came.",
+        "notes": [
+          "A question word as the subject can't take は. Use が.",
+          "を marks an object. 来る has none.",
+          "で marks a place or a means. The subject takes が."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-25-1",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 25,
+    "pattern": "〜たら（if）",
+    "meaning": "if",
+    "questions": [
+      {
+        "qid": "g-m1-25-1-1",
+        "pt_id": "m1-25-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "〜たら（if）",
+        "type": "gf",
+        "question": "お金が（　　）、りょこうします。",
+        "correct": "あったら",
+        "wrong_options": [
+          "あるたら",
+          "ありたら",
+          "あれたら"
+        ],
+        "explanation": "た-form + ら.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "If I have money, I'll travel.",
+        "notes": [
+          "たら attaches to the た-form: あった + ら, not the dictionary form.",
+          "たら attaches to the た-form (あった), not the stem.",
+          "あれ is not the た-form. ある → あった → あったら."
+        ]
+      },
+      {
+        "qid": "g-m1-25-1-2",
+        "pt_id": "m1-25-1",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "〜たら（if）",
+        "type": "gf",
+        "question": "あした 雨が（　　）、うちで えいがを 見ます。",
+        "correct": "ふったら",
+        "wrong_options": [
+          "ふるたら",
+          "ふらたら",
+          "ふりたら"
+        ],
+        "explanation": "Conditional: た-form + ら. ふる → ふった → ふったら.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "If it rains tomorrow, I'll watch a movie at home.",
+        "notes": [
+          "たら attaches to the た-form: ふった + ら, not the dictionary form.",
+          "ふら is the ない-form stem. たら takes the た-form: ふったら.",
+          "ふり is the ます-stem. たら takes the た-form: ふったら."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-25-2",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 25,
+    "pattern": "Vたら（when / once）",
+    "meaning": "once / when",
+    "questions": [
+      {
+        "qid": "g-m1-25-2-1",
+        "pt_id": "m1-25-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "Vたら（when / once）",
+        "type": "gf",
+        "question": "10時に（　　）、出かけましょう。",
+        "correct": "なったら",
+        "wrong_options": [
+          "なると",
+          "なって",
+          "なれば"
+        ],
+        "explanation": "Before ましょう (let's), use たら, not と / ば.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "When it's 10 o'clock, let's go out.",
+        "notes": [
+          "と can't end with \"let's\" (ましょう). Use たら.",
+          "なって just links actions. \"When it's 10\" is なったら.",
+          "ば doesn't go before ましょう with a verb like なる. Use たら."
+        ]
+      },
+      {
+        "qid": "g-m1-25-2-2",
+        "pt_id": "m1-25-2",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "Vたら（when / once）",
+        "type": "gf",
+        "question": "駅に（　　）、電話して ください。",
+        "correct": "ついたら",
+        "wrong_options": [
+          "つくと",
+          "つくたら",
+          "つけば"
+        ],
+        "explanation": "Before a request (ください), use たら: ついたら = once you arrive. と and ば can't end in a request.",
+        "tags": [
+          "form",
+          "form",
+          "form"
+        ],
+        "translation": "Please call me once you get to the station.",
+        "notes": [
+          "と can't end in a request like ください. Use たら.",
+          "たら attaches to the た-form: ついた + ら, not つく.",
+          "ば can't end in a request like ください. Use たら."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-25-3",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 25,
+    "pattern": "Vても・adj くても・N でも",
+    "meaning": "even if",
+    "questions": [
+      {
+        "qid": "g-m1-25-3-1",
+        "pt_id": "m1-25-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "Vても・adj くても・N でも",
+        "type": "gf",
+        "question": "たいせつな しごとが ありますから、雨が（　　）、出かけます。",
+        "correct": "ふっても",
+        "wrong_options": [
+          "ふったら",
+          "ふると",
+          "ふれば"
+        ],
+        "explanation": "Even if it rains = ふっても.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "nuance"
+        ],
+        "translation": "I have important work, so I'll go out even if it rains.",
+        "notes": [
+          "ふったら = if it rains. With important work, you go out whatever happens: even if, ふっても.",
+          "と = whenever. You go out because of the work, not because of the rain.",
+          "ば = if. With important work, rain doesn't matter: ふっても."
+        ]
+      },
+      {
+        "qid": "g-m1-25-3-2",
+        "pt_id": "m1-25-3",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "Vても・adj くても・N でも",
+        "type": "gf",
+        "question": "いくら かんがえても、（　　）。",
+        "correct": "わかりません",
+        "wrong_options": [
+          "わかります",
+          "わかりました",
+          "わかりましょう"
+        ],
+        "explanation": "いくら〜ても usually ends with a negative result.",
+        "tags": [
+          "polar",
+          "polar",
+          "form"
+        ],
+        "translation": "No matter how much I think about it, I don't understand.",
+        "notes": [
+          "いくら〜ても leads to a bad result. わかります says you understand.",
+          "わかりました says you understood. いくら〜ても leads to \"still don't\".",
+          "わかりましょう = let's understand. That isn't a result."
+        ]
+      }
+    ]
+  },
+  {
+    "id": "m1-25-4",
+    "book": "m1",
+    "book_name": "Minna no Nihongo I",
+    "level": 5,
+    "unit": 25,
+    "pattern": "もし / いくら",
+    "meaning": "if / no matter how",
+    "questions": [
+      {
+        "qid": "g-m1-25-4-1",
+        "pt_id": "m1-25-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "もし / いくら",
+        "type": "gf",
+        "question": "（　　）１おくえん あったら、いえを かいたいです。",
+        "correct": "もし",
+        "wrong_options": [
+          "いくら",
+          "けっして",
+          "ぜひ"
+        ],
+        "explanation": "もし … たら = if. いくら pairs with ても.",
+        "tags": [
+          "polar",
+          "polar",
+          "nuance"
+        ],
+        "translation": "If I had 100 million yen, I'd want to buy a house.",
+        "notes": [
+          "いくら pairs with ても (いくら 高くても). With たら, use もし.",
+          "けっして needs a negative. With たら, use もし.",
+          "ぜひ goes with a wish or request (ぜひ 来て ください). \"If\" is もし."
+        ]
+      },
+      {
+        "qid": "g-m1-25-4-2",
+        "pt_id": "m1-25-4",
+        "book": "m1",
+        "level": 5,
+        "unit": 25,
+        "pattern": "もし / いくら",
+        "type": "gf",
+        "question": "（　　）たかくても、この とけいを かいたいです。",
+        "correct": "いくら",
+        "wrong_options": [
+          "ぜひ",
+          "まだ",
+          "あまり"
+        ],
+        "explanation": "いくら + 〜ても = no matter how. ぜひ goes with a wish or request, まだ means still / not yet, and あまり needs a negative.",
+        "tags": [
+          "nuance",
+          "nuance",
+          "polar"
+        ],
+        "translation": "No matter how expensive it is, I want to buy this watch.",
+        "notes": [
+          "ぜひ goes with a wish or request, not with ても.",
+          "まだ means still or not yet. It doesn't pair with ても.",
+          "あまり needs a negative."
+        ]
+      }
+    ]
+  }
+]

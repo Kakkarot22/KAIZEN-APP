@@ -1,0 +1,5004 @@
+export const N3G = [
+  [
+    "Time",
+    "〜うちに",
+    "while (before it changes)",
+    [
+      [
+        "若い（　　）、いろいろな 国へ 行きたい。",
+        [
+          "うちに",
+          "たびに",
+          "までに",
+          "ところで"
+        ],
+        "While you are still young: うちに.",
+        "nuance nuance nuance",
+        "While I'm still young, I want to go to lots of countries.",
+        [
+          "たびに means \"every time\". Being young is one period, not something that repeats.",
+          "までに is a deadline (by a point in time). It can't follow an adjective like 若い.",
+          "ところで means \"even if\" or \"by the way\" here. \"While I'm still young\" is 若い うちに."
+        ]
+      ],
+      [
+        "温かい（　　）、どうぞ めしあがって ください。",
+        [
+          "うちに",
+          "前に",
+          "後で",
+          "ほどに"
+        ],
+        "While it's still warm: うちに. 前に cannot follow an adjective.",
+        "form nuance nuance",
+        "Please eat it while it's still warm.",
+        [
+          "前に follows a verb (冷める 前に), never an adjective. With 温かい, use うちに.",
+          "後で means \"after\", and it follows a た-form verb. \"While it's still warm\" is うちに.",
+          "ほどに shows degree (so … that). It doesn't mean \"while\". Use うちに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜最中に",
+    "right in the middle of",
+    [
+      [
+        "昨日の 会議の（　　）、電話が 鳴った。",
+        [
+          "最中に",
+          "うちに",
+          "たびに",
+          "とたんに"
+        ],
+        "N の 最中に = right in the middle of.",
+        "nuance nuance form",
+        "Right in the middle of yesterday's meeting, a phone rang.",
+        [
+          "N の うちに means \"before it changes / while it lasts\" and is unnatural with one meeting. \"Right in the middle of\" is 最中に.",
+          "たびに means \"every time\". 昨日の 会議 is one meeting, so it can't repeat.",
+          "とたんに follows a た-form verb (始まった とたんに), not N の. Use 最中に."
+        ]
+      ],
+      [
+        "食事を して いる（　　）に、客が 来た。",
+        [
+          "最中",
+          "とたん",
+          "たび",
+          "ばかり"
+        ],
+        "〜て いる 最中に.",
+        "form nuance nuance",
+        "Right in the middle of our meal, a guest came.",
+        [
+          "とたん follows a た-form (した とたん), not 〜て いる. Use 最中.",
+          "たび follows a dictionary form (する たびに) and means \"every time\". It doesn't follow 〜て いる.",
+          "ばかりに means \"just because (bad result)\". A guest coming isn't caused by eating."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜たとたん（に）",
+    "the moment",
+    [
+      [
+        "ドアを（　　）とたん、猫が 飛び出した。",
+        [
+          "開けた",
+          "開ける",
+          "開けて",
+          "開け"
+        ],
+        "た-form + とたん.",
+        "form form form",
+        "The moment I opened the door, the cat ran out.",
+        [
+          "とたん follows the た-form. 開ける とたん is wrong; say 開けた とたん.",
+          "The て-form can't come before とたん. Use the た-form: 開けた.",
+          "The stem 開け doesn't connect to とたん. Use the た-form: 開けた."
+        ]
+      ],
+      [
+        "立ち上がった（　　）、めまいが した。",
+        [
+          "とたん",
+          "最中",
+          "うちに",
+          "たびに"
+        ],
+        "The moment I stood up: とたん.",
+        "form form form",
+        "The moment I stood up, I felt dizzy.",
+        [
+          "最中 needs 〜て いる or N の (会議の 最中). It can't follow a た-form.",
+          "うちに follows 〜て いる, 〜ない or an adjective, not a た-form. \"The moment\" is とたん.",
+          "たびに follows the dictionary form and means \"every time\". Standing up once is とたん."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜てからでないと",
+    "not until (first)",
+    [
+      [
+        "この 仕事が（　　）からでないと、帰れません。",
+        [
+          "終わって",
+          "終わる",
+          "終わった",
+          "終わり"
+        ],
+        "て-form + から でないと + negative.",
+        "form form form",
+        "I can't go home until this work is finished.",
+        [
+          "からでないと needs the て-form: 終わって からでないと.",
+          "The た-form doesn't connect to から here. Use the て-form: 終わって.",
+          "The stem 終わり doesn't connect to から. Use the て-form: 終わって."
+        ]
+      ],
+      [
+        "ちゃんと 説明を（　　）からでないと、サインは できません。",
+        [
+          "聞いて",
+          "聞く",
+          "聞いた",
+          "聞き"
+        ],
+        "て-form + からでないと: not before you have heard it.",
+        "form form form",
+        "I can't sign until I've heard a proper explanation.",
+        [
+          "からでないと needs the て-form: 聞いて からでないと.",
+          "The た-form doesn't connect to から here. Use the て-form: 聞いて.",
+          "The stem 聞き doesn't connect to から. Use the て-form: 聞いて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜たびに",
+    "every time",
+    [
+      [
+        "この 歌を 聞く（　　）、高校時代を 思い出す。",
+        [
+          "たびに",
+          "ごとに",
+          "とたんに",
+          "最中に"
+        ],
+        "Every time: dictionary form + たびに.",
+        "form form form",
+        "Every time I hear this song, I remember my high school days.",
+        [
+          "ごとに follows a noun (一日ごとに, 会う 人ごとに). After a verb, \"every time\" is たびに.",
+          "とたんに follows the た-form and means \"the moment\". Every time you hear it is たびに.",
+          "最中に needs 〜て いる or N の. \"Every time I hear\" is 聞く たびに."
+        ]
+      ],
+      [
+        "ふるさとに 帰る（　　）、町が 変わって いて おどろく。",
+        [
+          "たびに",
+          "うちに",
+          "とたんに",
+          "最中に"
+        ],
+        "Each time I go back: たびに.",
+        "nuance form form",
+        "Every time I go back to my hometown, I'm surprised at how much it has changed.",
+        [
+          "うちに means \"while (before it changes)\". Going home happens many times, and each time you are surprised: たびに.",
+          "とたんに follows a た-form (帰った とたんに) and is one moment, not every visit.",
+          "最中に needs 〜て いる or N の. \"Every time I go back\" is 帰る たびに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜ところへ / 〜ところを",
+    "just as / at the moment",
+    [
+      [
+        "出かけようと した（　　）、電話が かかって きた。",
+        [
+          "ところへ",
+          "ところを",
+          "ばかりに",
+          "うちに"
+        ],
+        "Something arrives just then: ところへ.",
+        "nuance nuance nuance",
+        "Just as I was about to go out, the phone rang.",
+        [
+          "ところを comes before a verb that acts on you (〜ところを 見られた). With かかって きた, use ところへ.",
+          "ばかりに means \"just because (bad result)\". The phone didn't ring because you tried to go out.",
+          "うちに can't follow 〜ようと した. \"Just as I was about to\" is ところへ."
+        ]
+      ],
+      [
+        "寝て いる（　　）、起こされた。",
+        [
+          "ところを",
+          "ところへ",
+          "ところで",
+          "うちを"
+        ],
+        "ところを + passive (done to you at that moment).",
+        "nuance nuance form",
+        "I was woken up while I was sleeping.",
+        [
+          "ところへ is for someone or something arriving (来た, かかって きた). 起こされた is done to you: ところを.",
+          "ところで here would mean \"even if\". With a passive done to you, use ところを.",
+          "うち takes に (うちに) and means \"while it lasts\". It never takes を."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜一方だ / 〜ばかりだ",
+    "keeps getting (more and more)",
+    [
+      [
+        "{物価|ぶっか}は 何年も 前から 上がる（　　）だ。",
+        [
+          "一方",
+          "ところ",
+          "はず",
+          "つもり"
+        ],
+        "Continuing change: dictionary form + 一方だ.",
+        "nuance nuance nuance",
+        "Prices have just kept going up for years.",
+        [
+          "上がる ところだ means \"about to go up\". 何年も 前から shows it has been rising for years: 一方だ.",
+          "はずだ is an expectation (should go up). It doesn't fit 何年も 前から. Keeps going: 一方だ.",
+          "つもりだ is a person's plan. Prices don't plan. Use 一方だ."
+        ]
+      ],
+      [
+        "彼の 病気は 入院して から ずっと 悪く なる（　　）だ。",
+        [
+          "ばかり",
+          "ところ",
+          "はず",
+          "うち"
+        ],
+        "Getting worse and worse: ばかりだ.",
+        "nuance nuance form",
+        "Since he went into hospital, his illness has just kept getting worse.",
+        [
+          "なる ところだ means \"about to get worse\". ずっと shows it has kept getting worse: ばかりだ.",
+          "はずだ is an expectation, not a change that keeps going. Use ばかりだ.",
+          "うち needs に (うちに) and starts a clause. It can't end a sentence with だ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜かけ / 〜かける",
+    "half-done",
+    [
+      [
+        "テーブルの 上に 食べ（　　）の パンが ある。",
+        [
+          "かけ",
+          "始め",
+          "終わり",
+          "すぎ"
+        ],
+        "Half-eaten: stem + かけ.",
+        "nuance nuance nuance",
+        "There's some half-eaten bread on the table.",
+        [
+          "食べ始め is \"the start of eating\", not \"half-eaten\". Half-eaten bread is 食べかけの パン.",
+          "食べ終わり is the end of eating. Bread you finished wouldn't be there. Half-eaten is 食べかけ.",
+          "すぎ means \"too much\" (食べすぎ). It doesn't describe bread. Use 食べかけ."
+        ]
+      ],
+      [
+        "読み（　　）の 本が つくえに 3さつも ある。",
+        [
+          "かけ",
+          "終わり",
+          "すぎ",
+          "がち"
+        ],
+        "Half-read books: stem + かけ.",
+        "nuance nuance nuance",
+        "There are as many as three half-read books on my desk.",
+        [
+          "A finished book is 読み終わった 本. 読み終わりの 本 isn't said, and it's the opposite of half-read.",
+          "すぎ means \"too much\" (読みすぎ). It doesn't describe a book. Half-read is 読みかけ.",
+          "がち is a habit (忘れがち). It doesn't describe a book. Half-read is 読みかけ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜きる / 〜きれない",
+    "completely / can't finish",
+    [
+      [
+        "こんなに たくさんの 料理は 一人では 食べ（　　）。",
+        [
+          "きれない",
+          "きる",
+          "かける",
+          "あう"
+        ],
+        "Can't finish it all: stem + きれない.",
+        "polar nuance nuance",
+        "I can't eat this much food all by myself.",
+        [
+          "食べきる means \"eat it all\". 一人では shows you can't: 食べきれない.",
+          "かける means \"start to / half-do\". \"Can't finish\" is 食べきれない.",
+          "あう means \"do to each other\" (話しあう). It doesn't fit eating alone."
+        ]
+      ],
+      [
+        "足が いたかったけど、マラソンを 最後まで 走り（　　）。",
+        [
+          "きった",
+          "きれない",
+          "かけた",
+          "出した"
+        ],
+        "To the end = きった.",
+        "polar nuance nuance",
+        "My legs hurt, but I ran the marathon all the way to the end.",
+        [
+          "けど sets up a contrast: legs hurt, BUT you still did it. 走りきれない (couldn't) is no contrast. Use 走りきった.",
+          "走りかけた means \"started to run\" or \"half-ran\". 最後まで needs 走りきった.",
+          "走り出した means \"started running\". 最後まで (to the end) needs 走りきった."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜っぱなし",
+    "left as is (not finished)",
+    [
+      [
+        "窓を 開け（　　）で 出かけて しまった。",
+        [
+          "っぱなし",
+          "かけ",
+          "きり",
+          "がち"
+        ],
+        "Left open: stem + っぱなし.",
+        "nuance nuance nuance",
+        "I went out and left the window open.",
+        [
+          "開けかけ means \"half-opened\". You left it open: 開けっぱなし.",
+          "きり means \"only / since\" (それきり). After a verb stem for \"left as is\", use っぱなし.",
+          "がち is a habit (忘れがち). \"Left open\" is 開けっぱなし."
+        ]
+      ],
+      [
+        "電気を つけ（　　）に しないで ください。",
+        [
+          "っぱなし",
+          "かけ",
+          "がち",
+          "気味"
+        ],
+        "Left on: つけっぱなし.",
+        "nuance nuance nuance",
+        "Please don't leave the lights on.",
+        [
+          "つけかけ means \"half-done turning on\". Leaving the light on is つけっぱなし.",
+          "がち is a habit, and it doesn't take に しないで. Use つけっぱなし.",
+          "気味 means \"a bit of\" ({風邪|かぜ}気味). Lights left on are つけっぱなし."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜ことに する / している",
+    "decide to / make it my rule",
+    [
+      [
+        "私は {健康|けんこう}の ために、毎晩 10時に 寝る（　　）。(my own rule)",
+        [
+          "ことに して いる",
+          "ことに なって いる",
+          "ように なって いる",
+          "はずに なって いる"
+        ],
+        "Your own decision kept as a habit: ことに して いる.",
+        "nuance nuance form",
+        "For my health, I make it a rule to go to bed at 10 every night.",
+        [
+          "ことに なって いる is a rule others made. (my own rule) means ことに して いる.",
+          "ように なって いる is a change that happened (now able to). Your own rule is ことに して いる.",
+          "はず can't take に なる. Your own rule is ことに して いる."
+        ]
+      ],
+      [
+        "迷ったけど、その 仕事は 断る（　　）。(I decided)",
+        [
+          "ことに した",
+          "ことに なった",
+          "ように なった",
+          "ことが あった"
+        ],
+        "Your own decision: ことに した. ことに なった = decided by others.",
+        "nuance nuance nuance",
+        "I hesitated, but I decided to turn that job down.",
+        [
+          "ことに なった is decided by others or by events. (I decided) is ことに した.",
+          "ように なった is a gradual change (came to). A one-time decision is ことに した.",
+          "ことが あった means \"there were times\". The sentence is about one decision: ことに した."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜ことに なる / なっている",
+    "it has been decided / it's the rule",
+    [
+      [
+        "来月から 大阪の 支店で 働く（　　）。(the company decided)",
+        [
+          "ことに なった",
+          "ことに した",
+          "ように した",
+          "ように なった"
+        ],
+        "Decided by others: ことに なる.",
+        "nuance nuance nuance",
+        "It's been decided that I'll work at the Osaka branch from next month.",
+        [
+          "ことに した is your own decision. The company decided: ことに なった.",
+          "ように した means \"made an effort to\". The company decided it: ことに なった.",
+          "ように なった is a gradual change (came to). It can't talk about next month. A decision: ことに なった."
+        ]
+      ],
+      [
+        "この {寮|りょう}では、夜 11時までに 帰る（　　）。(dormitory rule)",
+        [
+          "ことに なって いる",
+          "ことに して いる",
+          "ように して いる",
+          "ことが ある"
+        ],
+        "A rule: ことに なって いる.",
+        "nuance nuance nuance",
+        "In this dormitory, the rule is that you have to be back by 11 at night.",
+        [
+          "ことに して いる is your own personal rule. A dormitory rule is ことに なって いる.",
+          "ように して いる means \"I try to\". The dormitory sets a rule: ことに なって いる.",
+          "ことが ある means \"sometimes\". A rule is ことに なって いる."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜ようとする",
+    "try to / be about to",
+    [
+      [
+        "出かけ（　　）と した とき、雨が 降り出した。",
+        [
+          "よう",
+          "る",
+          "て",
+          "ない"
+        ],
+        "Volitional + と する = be about to.",
+        "form form form",
+        "Just as I was about to go out, it started to rain.",
+        [
+          "と した after the dictionary form means \"supposing\". \"About to\" needs the volitional: 出かけよう と した.",
+          "The て-form doesn't connect to と する. Use the volitional: 出かけよう.",
+          "出かけない と した isn't \"about to go out\". Use the volitional: 出かけよう."
+        ]
+      ],
+      [
+        "寝よう（　　）とき、友だちから 電話が あった。",
+        [
+          "と した",
+          "と して",
+          "と なった",
+          "に した"
+        ],
+        "Volitional + と した とき = just as I was about to.",
+        "form form nuance",
+        "Just as I was about to go to sleep, I got a call from a friend.",
+        [
+          "と して is a て-form. Before とき you need the た-form: 寝ようと した とき.",
+          "と なった is \"it became\". \"Was about to\" is volitional + と した.",
+          "に した means \"decided on\". After a volitional, use と した."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜に違いない",
+    "must be (certain)",
+    [
+      [
+        "電気が ついて いる。彼は 家に いる（　　）。",
+        [
+          "に 違いない",
+          "はずが ない",
+          "わけが ない",
+          "ことが ない"
+        ],
+        "Strong conclusion: に 違いない.",
+        "nuance nuance nuance",
+        "The lights are on. He must be at home.",
+        [
+          "はずが ない means \"it can't be\". The lights are on, so he must be home: に 違いない.",
+          "わけが ない means \"no way\". The light shows the opposite: に 違いない.",
+          "ことが ない means \"never\". It doesn't fit a guess. Use に 違いない."
+        ]
+      ],
+      [
+        "彼の 顔が 赤い。お酒を 飲んだ（　　）。",
+        [
+          "に 違いない",
+          "わけが ない",
+          "はずが ない",
+          "ことは ない"
+        ],
+        "Strong guess from evidence: に 違いない.",
+        "nuance nuance nuance",
+        "His face is red. He must have been drinking.",
+        [
+          "わけが ない means \"no way\". A red face suggests he did drink: に 違いない.",
+          "はずが ない means \"can't be\". The red face points the other way: に 違いない.",
+          "ことは ない means \"no need\". A guess from evidence is に 違いない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜はずがない",
+    "cannot possibly",
+    [
+      [
+        "あんなに 勉強した 彼が 落ちる（　　）。",
+        [
+          "はずが ない",
+          "に 違いない",
+          "はずだ",
+          "ことに なる"
+        ],
+        "Impossible: はずが ない.",
+        "nuance nuance nuance",
+        "There's no way he would fail after studying that hard.",
+        [
+          "に 違いない means he must fail. After studying that hard, it's the opposite: はずが ない.",
+          "はずだ means he should fail. After studying so hard, it's はずが ない.",
+          "ことに なる means \"it turns out / it is decided\". A strong denial is はずが ない."
+        ]
+      ],
+      [
+        "かぎを かけたから、ドアが 開いて いる（　　）。",
+        [
+          "はずが ない",
+          "に 違いない",
+          "はずだ",
+          "わけだ"
+        ],
+        "I locked it, so it can't be open: はずが ない.",
+        "polar polar nuance",
+        "I locked it, so there's no way the door is open.",
+        [
+          "に 違いない means \"must be open\". You locked it, so it can't be: はずが ない.",
+          "はずだ means \"should be open\". Locking it means the opposite: はずが ない.",
+          "わけだ means \"no wonder\". It needs a reason that leads to it. Locking leads to はずが ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜らしい（typical of）",
+    "typical of / like a true",
+    [
+      [
+        "彼は 本当に 男（　　）人だ。",
+        [
+          "らしい",
+          "みたい",
+          "そうな",
+          "ような"
+        ],
+        "Has the qualities of: N らしい. 男みたい would mean \"like a man\" (when he isn't one).",
+        "nuance form form",
+        "He's a really manly man.",
+        [
+          "みたい needs な before a noun (男みたいな 人), and that means someone like a man who isn't one. A manly man is 男らしい.",
+          "Noun + そうな is not a form. \"Manly\" is 男らしい.",
+          "ような needs の after a noun (男のような) and means \"like a man\", for someone who isn't one. Use らしい."
+        ]
+      ],
+      [
+        "たまには 学生（　　）勉強しなさい。",
+        [
+          "らしく",
+          "らしい",
+          "みたいな",
+          "ような"
+        ],
+        "Like a proper student, before a verb: らしく (adverb form).",
+        "form form form",
+        "Study like a proper student once in a while!",
+        [
+          "らしい before a verb must be らしく (adverb form): 学生らしく 勉強しなさい.",
+          "みたいな comes before a noun. Before a verb it is みたいに, and it means \"like (but not)\". Use らしく.",
+          "ような needs の after a noun and comes before a noun. Before a verb: らしく."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜みたい",
+    "like / looks like (casual)",
+    [
+      [
+        "あの 雲は わたあめ（　　）だね。",
+        [
+          "みたい",
+          "らしい",
+          "そう",
+          "よう"
+        ],
+        "Resemblance (casual): N みたい. N よう needs の.",
+        "nuance form form",
+        "That cloud looks like cotton candy, doesn't it?",
+        [
+          "N らしい is hearsay or \"typical of\". A cloud isn't cotton candy; it only looks like it: みたい.",
+          "Noun + そう is not a form. \"Looks like\" after a noun is みたい.",
+          "よう needs の after a noun: わたあめのようだ. As written, use みたい."
+        ]
+      ],
+      [
+        "まるで 夢（　　）話だ。",
+        [
+          "みたいな",
+          "みたいに",
+          "らしい",
+          "そうな"
+        ],
+        "Before a noun: みたいな. みたいに goes before a verb.",
+        "form nuance form",
+        "It's a story just like a dream.",
+        [
+          "みたいに comes before a verb or adjective. Before 話 (a noun), use みたいな.",
+          "N らしい means \"typical of N\". A story isn't typical of a dream; it is like one: みたいな.",
+          "Noun + そうな is not a form. Before a noun, \"like\" is みたいな."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜っぽい",
+    "-ish / tends to",
+    [
+      [
+        "この 服は 子ども（　　）。",
+        [
+          "っぽい",
+          "がち",
+          "気味",
+          "だらけ"
+        ],
+        "Childish: 子どもっぽい.",
+        "nuance nuance nuance",
+        "These clothes look childish.",
+        [
+          "がち follows a verb stem or some nouns for a bad habit (病気がち). \"Childish\" is 子どもっぽい.",
+          "気味 means \"a bit of\" for a state ({風邪|かぜ}気味). Childish is 子どもっぽい.",
+          "子どもだらけ means \"full of children\". Clothes that look childish are 子どもっぽい."
+        ]
+      ],
+      [
+        "彼は 忘れ（　　）から、メモを 渡して おこう。",
+        [
+          "っぽい",
+          "らしい",
+          "みたい",
+          "ように"
+        ],
+        "Tends to forget: 忘れっぽい.",
+        "form form form",
+        "He's forgetful, so let's give him a memo.",
+        [
+          "らしい doesn't follow a verb stem. \"Forgetful\" is 忘れっぽい.",
+          "みたい doesn't follow a verb stem. \"Forgetful\" is 忘れっぽい.",
+          "ように doesn't follow a verb stem, and \"forget-like\" makes no sense. Use 忘れっぽい."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜がち",
+    "tend to (often bad)",
+    [
+      [
+        "最近 疲れて いて、{風邪|かぜ}を ひき（　　）だ。",
+        [
+          "がち",
+          "っぽい",
+          "だらけ",
+          "やすい"
+        ],
+        "Tend to catch colds: ひきがちだ.",
+        "nuance nuance form",
+        "I've been tired lately, so I tend to catch colds.",
+        [
+          "っぽい follows a noun or adjective (子どもっぽい). With a verb stem for a bad habit, use がち.",
+          "だらけ follows a noun for \"covered in\" (どろだらけ). A habit is ひきがち.",
+          "やすい is already an adjective, so it can't take だ: ひきやすい (no だ). With だ, use がちだ."
+        ]
+      ],
+      [
+        "冬は 外に 出ないから、運動不足に なり（　　）。",
+        [
+          "がちだ",
+          "っぽい",
+          "だらけだ",
+          "やすいだ"
+        ],
+        "Tends to happen (bad): stem + がち.",
+        "nuance nuance form",
+        "I don't go outside in winter, so I tend to not get enough exercise.",
+        [
+          "っぽい follows a noun or adjective stem, not なり. A bad tendency after a verb stem is がちだ.",
+          "だらけ follows a noun for \"covered in\". A tendency is なりがちだ.",
+          "やすい is an adjective and never takes だ. Say なりやすい, or use がちだ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜気味",
+    "a touch of / slightly",
+    [
+      [
+        "今日は {風邪|かぜ}（　　）なので、早く 寝ます。",
+        [
+          "気味",
+          "がち",
+          "だらけ",
+          "ばかり"
+        ],
+        "A slight cold today: {風邪|かぜ}気味. {風邪|かぜ}がち = often catch colds.",
+        "nuance nuance nuance",
+        "I have a slight cold today, so I'm going to bed early.",
+        [
+          "がち is a repeated habit (病気がち). Today's slight cold is {風邪|かぜ}気味.",
+          "{風邪|かぜ}だらけ would mean \"covered in colds\". A slight cold is {風邪|かぜ}気味.",
+          "{風邪|かぜ}ばかり means \"only colds\". It doesn't mean \"a bit of a cold\". Use 気味."
+        ]
+      ],
+      [
+        "プロジェクトは 予定より 少し 遅れ（　　）だ。",
+        [
+          "気味",
+          "すぎ",
+          "だらけ",
+          "っぽい"
+        ],
+        "A slight degree right now: 遅れ気味.",
+        "nuance nuance nuance",
+        "The project is running a little behind schedule.",
+        [
+          "遅れすぎ means \"far too late\", which clashes with 少し. A little behind is 遅れ気味.",
+          "だらけ follows a noun for \"covered in\" (間違いだらけ). It can't follow 遅れ here.",
+          "っぽい is \"-ish / looks like\" (子どもっぽい). Running a little behind is 遅れ気味."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜だらけ",
+    "full of (unpleasant)",
+    [
+      [
+        "この 作文は 間違い（　　）で、先生の 赤い 字で いっぱいだ。",
+        [
+          "だらけ",
+          "気味",
+          "がち",
+          "っぽい"
+        ],
+        "Full of mistakes: 間違いだらけ.",
+        "nuance nuance nuance",
+        "This essay is full of mistakes and covered in the teacher's red corrections.",
+        [
+          "気味 means \"a bit of\" ({風邪|かぜ}気味). An essay covered in corrections is full of them: だらけ.",
+          "がち is a person's habit. An essay can't have a habit. Use だらけ.",
+          "っぽい can't take で like this; it becomes っぽくて, and means \"seems\". Full of mistakes is だらけ."
+        ]
+      ],
+      [
+        "雨の 中 サッカーを して、服が どろ（　　）に なった。",
+        [
+          "だらけ",
+          "気味",
+          "がち",
+          "っぽい"
+        ],
+        "Covered in mud: どろだらけ.",
+        "nuance nuance nuance",
+        "We played soccer in the rain, and my clothes got covered in mud.",
+        [
+          "気味 is \"a bit of\" for a state ({風邪|かぜ}気味), not for mud. Covered in mud is どろだらけ.",
+          "がち is a habit after a verb stem. Covered in mud is どろだらけ.",
+          "どろっぽい means \"mud-like\", and before になった it would be どろっぽく. Covered in mud is だらけ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜ふりをする",
+    "pretend",
+    [
+      [
+        "彼は 知らない（　　）を した。",
+        [
+          "ふり",
+          "よう",
+          "そう",
+          "まま"
+        ],
+        "Pretend not to know: 知らない ふりを する.",
+        "nuance form form",
+        "He pretended not to know.",
+        [
+          "よう can't take を する. \"Pretend\" is 〜ふりを する.",
+          "そう can't take を する after 〜ない. \"Pretend\" is ふりを する.",
+          "まま is \"as it is\" (知らない まま). It can't take を する. Use ふり."
+        ]
+      ],
+      [
+        "寝て いる（　　）を して、話を 聞いて いた。",
+        [
+          "ふり",
+          "まま",
+          "よう",
+          "ところ"
+        ],
+        "Pretend to be asleep: 寝て いる ふりを する.",
+        "nuance nuance nuance",
+        "I pretended to be asleep and listened to the conversation.",
+        [
+          "まま means \"as is\" and doesn't take を して. Pretending is ふりを して.",
+          "よう can't take を して. Pretending to be asleep is 寝て いる ふり.",
+          "ところを して is not a phrase. Pretending is ふりを して."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜として",
+    "as (a role)",
+    [
+      [
+        "彼は 留学生（　　）日本へ 来た。",
+        [
+          "として",
+          "にとって",
+          "について",
+          "によって"
+        ],
+        "In the role of: として.",
+        "nuance nuance nuance",
+        "He came to Japan as an exchange student.",
+        [
+          "にとって means \"from the viewpoint of\". Coming in the role of a student is として.",
+          "について means \"about\". \"As an exchange student\" is として.",
+          "によって means \"by / depending on\". A role is として."
+        ]
+      ],
+      [
+        "この 町は {温泉|おんせん}（　　）有名だ。",
+        [
+          "として",
+          "にとって",
+          "について",
+          "に 対して"
+        ],
+        "Famous as: として 有名.",
+        "nuance nuance nuance",
+        "This town is famous for its hot springs.",
+        [
+          "にとって means \"for (someone)\". Famous AS a hot spring town: として.",
+          "について means \"about\". Being famous as something is として.",
+          "に 対して means \"toward / against\". Being famous as something is として."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜に対して",
+    "toward / in response to",
+    [
+      [
+        "先生の 質問（　　）、だれも 答えなかった。",
+        [
+          "に 対して",
+          "に とって",
+          "に よって",
+          "と して"
+        ],
+        "Directed at: に 対して.",
+        "nuance nuance nuance",
+        "Nobody answered the teacher's question.",
+        [
+          "に とって means \"for (someone)\". Answering toward a question is に 対して.",
+          "に よって means \"by / depending on\". \"To the question\" is に 対して.",
+          "と して means \"as (a role)\". Responding to a question is に 対して."
+        ]
+      ],
+      [
+        "兄は スポーツが 好きなの（　　）、弟は 本が 好きだ。",
+        [
+          "に 対して",
+          "に とって",
+          "に ついて",
+          "と して"
+        ],
+        "Contrasting two things: の に 対して.",
+        "nuance nuance nuance",
+        "My older brother likes sports, whereas my younger brother likes books.",
+        [
+          "に とって means \"for (someone)\". A contrast between two people is に 対して.",
+          "に ついて means \"about\". \"Whereas\" is に 対して.",
+          "と して means \"as (a role)\". A contrast is に 対して."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜によって / 〜による",
+    "depending on / by",
+    [
+      [
+        "国（　　）習慣が 違う。",
+        [
+          "に よって",
+          "に とって",
+          "に ついて",
+          "と して"
+        ],
+        "Varies depending on: に よって.",
+        "nuance nuance nuance",
+        "Customs differ from country to country.",
+        [
+          "に とって means \"for (someone)\". \"Differ from country to country\" is に よって.",
+          "に ついて means \"about\". Variation by country is に よって.",
+          "と して means \"as\". Variation is に よって."
+        ]
+      ],
+      [
+        "この 絵は ピカソ（　　）かかれた。",
+        [
+          "に よって",
+          "に とって",
+          "に ついて",
+          "に 対して"
+        ],
+        "Passive agent (creator): に よって.",
+        "nuance nuance nuance",
+        "This picture was painted by Picasso.",
+        [
+          "に とって means \"for (someone)\". The doer in a passive is に よって.",
+          "に ついて means \"about\". Who painted it in a passive is に よって.",
+          "に 対して means \"toward\". The doer of a passive is に よって."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜に関して",
+    "regarding (formal)",
+    [
+      [
+        "この 問題（　　）、質問が あります。",
+        [
+          "に 関して",
+          "に よって",
+          "に とって",
+          "と して"
+        ],
+        "About (formal): に 関して.",
+        "nuance nuance nuance",
+        "I have a question about this problem.",
+        [
+          "に よって means \"by / depending on\". \"A question about\" is に 関して.",
+          "に とって means \"for (someone)\". A problem is not a person. \"About\" is に 関して.",
+          "と して means \"as (a role)\". \"About this problem\" is に 関して."
+        ]
+      ],
+      [
+        "{事故|じこ}の 原因（　　）、今 調べて います。",
+        [
+          "に 関して",
+          "に とって",
+          "に 対して",
+          "に 加えて"
+        ],
+        "Regarding the cause: に 関して.",
+        "nuance nuance nuance",
+        "We are now investigating the cause of the accident.",
+        [
+          "に とって means \"for (someone)\". Investigating a topic is に 関して.",
+          "に 対して means \"toward / in response to\". Looking into a topic is に 関して.",
+          "に 加えて means \"in addition to\" and needs a second thing. Here it's \"about the cause\": に 関して."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜をはじめ",
+    "starting with / including",
+    [
+      [
+        "東京（　　）、多くの 都市で イベントが ある。",
+        [
+          "を はじめ",
+          "に とって",
+          "に よって",
+          "と して"
+        ],
+        "Including (main example first): を はじめ.",
+        "nuance nuance nuance",
+        "There are events in many cities, starting with Tokyo.",
+        [
+          "に とって means \"for (someone)\". \"Starting with Tokyo\" in a list of cities is を はじめ.",
+          "に よって means \"by / depending on\". The first example in a group is を はじめ.",
+          "と して means \"as\". Tokyo as the first of many cities is を はじめ."
+        ]
+      ],
+      [
+        "社長（　　）、社員 全員が パーティーに 参加した。",
+        [
+          "を はじめ",
+          "に よって",
+          "に とって",
+          "に 関して"
+        ],
+        "Starting with the president: を はじめ.",
+        "nuance nuance nuance",
+        "Everyone in the company, starting with the president, took part in the party.",
+        [
+          "に よって means \"by\". The president as the first of everyone is を はじめ.",
+          "に とって means \"for (someone)\". \"Starting with the president\" is を はじめ.",
+          "に 関して means \"about\". \"Starting with\" is を はじめ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜を中心に",
+    "centered on",
+    [
+      [
+        "この 祭りは 若者（　　）人気が ある。",
+        [
+          "を 中心に",
+          "に よって",
+          "と して",
+          "について"
+        ],
+        "Mainly among: を 中心に.",
+        "nuance nuance nuance",
+        "This festival is popular mainly among young people.",
+        [
+          "に よって means \"by / depending on\". Popular mainly among young people is を 中心に.",
+          "と して means \"as\". \"Centered on young people\" is を 中心に.",
+          "について means \"about\". \"Mainly among\" is を 中心に."
+        ]
+      ],
+      [
+        "駅を（　　）、新しい 町が できた。",
+        [
+          "中心に",
+          "もとに",
+          "はじめ",
+          "通して"
+        ],
+        "A town built around the station: を 中心に.",
+        "nuance nuance nuance",
+        "A new town grew up around the station.",
+        [
+          "を もとに means \"based on (a source)\". A town built around a place is を 中心に.",
+          "を はじめ means \"starting with\" in a list. A town around the station is を 中心に.",
+          "を 通して means \"through\". The town grew around the station: 中心に."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜をもとに",
+    "based on",
+    [
+      [
+        "この 映画は 事実（　　）作られた。",
+        [
+          "を もとに",
+          "に とって",
+          "を はじめ",
+          "に 対して"
+        ],
+        "Based on facts: を もとに.",
+        "nuance nuance nuance",
+        "This film was made based on a true story.",
+        [
+          "に とって means \"for (someone)\". Made based on facts is を もとに.",
+          "を はじめ means \"starting with\". A film made from facts is を もとに.",
+          "に 対して means \"toward\". Based on facts is を もとに."
+        ]
+      ],
+      [
+        "アンケートの {結果|けっか}（　　）、新しい 商品を 開発した。",
+        [
+          "を もとに",
+          "を はじめ",
+          "に 対して",
+          "に 加えて"
+        ],
+        "Based on the survey: を もとに.",
+        "nuance nuance nuance",
+        "We developed a new product based on the results of the survey.",
+        [
+          "を はじめ means \"starting with\" in a list. Built from results is を もとに.",
+          "に 対して means \"toward / in response to\". Using results as a base is を もとに.",
+          "に 加えて means \"in addition to\". The product was based on results: を もとに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜を通して",
+    "through (a medium)",
+    [
+      [
+        "友だち（　　）彼女と 知り合った。",
+        [
+          "を 通して",
+          "に よって",
+          "に 対して",
+          "に 関して"
+        ],
+        "Through a friend: を 通して.",
+        "nuance nuance nuance",
+        "I got to know her through a friend.",
+        [
+          "に よって marks a doer or method, not a person who connects you. \"Through a friend\" is を 通して.",
+          "に 対して means \"toward\". Meeting her through a friend is を 通して.",
+          "に 関して means \"about\". Through a friend is を 通して."
+        ]
+      ],
+      [
+        "インターネット（　　）、世界の ニュースを 知る ことが できる。",
+        [
+          "を 通して",
+          "に 対して",
+          "を はじめ",
+          "に 加えて"
+        ],
+        "Through the internet: を 通して.",
+        "nuance nuance nuance",
+        "You can learn about news from around the world through the internet.",
+        [
+          "に 対して means \"toward\". Learning news through the internet is を 通して.",
+          "を はじめ means \"starting with\" in a list. Through a medium is を 通して.",
+          "に 加えて means \"in addition to\". Through the internet is を 通して."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜にしては",
+    "for (surprisingly)",
+    [
+      [
+        "初めて 作った（　　）、とても おいしい。",
+        [
+          "に しては",
+          "と して",
+          "に とって",
+          "に よって"
+        ],
+        "For a first try (better than expected): に しては.",
+        "nuance nuance nuance",
+        "For a first attempt, it's really delicious.",
+        [
+          "と して means \"as (a role)\". \"For a first try, it's good\" is に しては.",
+          "に とって means \"for (someone's view)\". Better than expected is に しては.",
+          "に よって means \"by / depending on\". Better than expected is に しては."
+        ]
+      ],
+      [
+        "初心者（　　）、ずいぶん うまいですね。",
+        [
+          "に しては",
+          "と して",
+          "に よって",
+          "に とって"
+        ],
+        "Good for a beginner (better than expected): に しては.",
+        "nuance nuance nuance",
+        "You're quite good for a beginner.",
+        [
+          "と して means \"in the role of\". Praise that is better than expected is に しては.",
+          "に よって means \"by / depending on\". \"For a beginner\" is に しては.",
+          "に とって is about someone's viewpoint. Better than expected for a beginner is に しては."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜くせに",
+    "even though (blame)",
+    [
+      [
+        "知らない（　　）、知って いる ふりを する。",
+        [
+          "くせに",
+          "おかげで",
+          "ために",
+          "とおりに"
+        ],
+        "Criticism: くせに.",
+        "nuance nuance nuance",
+        "Even though he doesn't know, he acts like he does.",
+        [
+          "おかげで is \"thanks to\" for a good result. Criticism with \"even though\" is くせに.",
+          "ために is \"for / because\". Acting like he knows doesn't happen for not knowing. Use くせに.",
+          "とおりに means \"exactly as\". The clash between not knowing and acting is くせに."
+        ]
+      ],
+      [
+        "自分は 何も しない（　　）、人の {文句|もんく}ばかり 言う。",
+        [
+          "くせに",
+          "おかげで",
+          "ために",
+          "せいで"
+        ],
+        "Blame: does nothing, yet complains: くせに.",
+        "nuance nuance nuance",
+        "He does nothing himself, yet he's always complaining about other people.",
+        [
+          "おかげで is \"thanks to\" a good result. Complaining isn't a good result. Criticism is くせに.",
+          "ために is \"in order to / because\". He doesn't complain in order to do nothing. Use くせに.",
+          "せいで blames a cause for a bad result. Doing nothing doesn't cause complaining; the two clash: くせに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜わりに",
+    "considering / for",
+    [
+      [
+        "彼は よく 食べる（　　）、やせて いる。",
+        [
+          "わりに",
+          "おかげで",
+          "ために",
+          "ように"
+        ],
+        "Not what you'd expect: わりに.",
+        "nuance nuance nuance",
+        "He eats a lot, but he's still thin.",
+        [
+          "おかげで means \"thanks to\". Eating a lot doesn't make you thin. Use わりに.",
+          "ために means \"because / in order to\". Eating a lot isn't why he's thin. Use わりに.",
+          "ように means \"so that / like\". \"Considering he eats a lot\" is わりに."
+        ]
+      ],
+      [
+        "この レストランは 値段の（　　）、{量|りょう}が 多い。",
+        [
+          "わりに",
+          "くせに",
+          "せいで",
+          "うえに"
+        ],
+        "For the price (more than expected): N の わりに.",
+        "nuance nuance nuance",
+        "For the price, this restaurant gives you big portions.",
+        [
+          "くせに is criticism of a person. Praise of a restaurant for its price is わりに.",
+          "せいで blames a bad result. Big portions are good: 値段の わりに.",
+          "うえに adds another point and follows a clause, not N の here. \"For the price\" is わりに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "たとえ〜ても",
+    "even if",
+    [
+      [
+        "たとえ 雨が（　　）、試合は 行われる。",
+        [
+          "降っても",
+          "降ったら",
+          "降れば",
+          "降ると"
+        ],
+        "たとえ always pairs with ても.",
+        "form form form",
+        "Even if it rains, the match will go ahead.",
+        [
+          "たとえ always pairs with 〜ても. 降ったら is a normal \"if\".",
+          "たとえ pairs with 〜ても, not 〜ば.",
+          "たとえ pairs with 〜ても, not 〜と."
+        ]
+      ],
+      [
+        "たとえ みんなが（　　）、私は 彼を 信じる。",
+        [
+          "反対しても",
+          "反対したら",
+          "反対すれば",
+          "反対するなら"
+        ],
+        "たとえ always pairs with ても.",
+        "form form form",
+        "Even if everyone is against it, I believe in him.",
+        [
+          "たとえ always pairs with 〜ても. 反対したら is a normal \"if\".",
+          "たとえ pairs with 〜ても, not 〜ば.",
+          "たとえ pairs with 〜ても, not なら."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜にもかかわらず",
+    "despite",
+    [
+      [
+        "たくさん 練習した（　　）、負けて しまった。",
+        [
+          "にも かかわらず",
+          "おかげで",
+          "ために",
+          "とおりに"
+        ],
+        "Despite: にも かかわらず.",
+        "nuance nuance nuance",
+        "Even though we practiced a lot, we lost.",
+        [
+          "おかげで is \"thanks to\" a good result. Losing after practice is a surprise: にも かかわらず.",
+          "ために means \"because\". You didn't lose because you practiced. Use にも かかわらず.",
+          "とおりに means \"exactly as\". Losing despite practice is にも かかわらず."
+        ]
+      ],
+      [
+        "注意した（　　）、彼は また 同じ ミスを した。",
+        [
+          "にも かかわらず",
+          "おかげで",
+          "ために",
+          "うえに"
+        ],
+        "Despite the warning: にも かかわらず.",
+        "nuance nuance nuance",
+        "Even though I warned him, he made the same mistake again.",
+        [
+          "おかげで is \"thanks to\" a good result. Repeating a mistake is not one. Use にも かかわらず.",
+          "ために means \"because\". He didn't repeat it because you warned him. Use にも かかわらず.",
+          "うえに adds more in the same direction. Warning and repeating clash: にも かかわらず."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜かわりに",
+    "instead of / in exchange",
+    [
+      [
+        "私が 英語を 教える（　　）、日本語を 教えて ください。",
+        [
+          "代わりに",
+          "うえに",
+          "わりに",
+          "くせに"
+        ],
+        "In exchange: 代わりに.",
+        "nuance nuance nuance",
+        "I'll teach you English, and in return, please teach me Japanese.",
+        [
+          "うえに adds one more thing. A swap (I teach, you teach back) is 代わりに.",
+          "わりに means \"considering\". An exchange is 代わりに.",
+          "くせに is criticism. An exchange is 代わりに."
+        ]
+      ],
+      [
+        "今日は 母の（　　）、私が 晩ご飯を 作った。",
+        [
+          "代わりに",
+          "わりに",
+          "くせに",
+          "せいで"
+        ],
+        "In place of my mother: の 代わりに.",
+        "nuance nuance nuance",
+        "Today I made dinner instead of my mother.",
+        [
+          "わりに means \"considering\". Cooking in mother's place is 代わりに.",
+          "くせに criticizes someone. \"Instead of my mother\" is 代わりに.",
+          "せいで blames a cause. Cooking for her is 母の 代わりに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜せいで / 〜おかげで",
+    "because of (bad / good)",
+    [
+      [
+        "{寝坊|ねぼう}した（　　）、遅刻した。",
+        [
+          "せいで",
+          "おかげで",
+          "くせに",
+          "わりに"
+        ],
+        "Bad result: せいで. おかげで is for good results.",
+        "nuance nuance nuance",
+        "I overslept, and because of that I was late.",
+        [
+          "おかげで is \"thanks to\" a good result. Being late is bad: せいで.",
+          "くせに criticizes \"even though\". Oversleeping caused lateness: せいで.",
+          "わりに means \"considering\". A cause with a bad result is せいで."
+        ]
+      ],
+      [
+        "{先輩|せんぱい}が 教えて くれた（　　）、試験に 合格できた。",
+        [
+          "おかげで",
+          "せいで",
+          "くせに",
+          "わりに"
+        ],
+        "Good result, with thanks: おかげで.",
+        "nuance nuance nuance",
+        "Thanks to my senior teaching me, I passed the exam.",
+        [
+          "せいで blames a bad result. Passing is good: おかげで.",
+          "くせに is criticism \"even though\". Thanks for help is おかげで.",
+          "わりに means \"considering\". A helpful cause is おかげで."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜ため（に）（cause）",
+    "due to (formal)",
+    [
+      [
+        "{事故|じこ}の（　　）、電車が 遅れて います。",
+        [
+          "ため",
+          "せい",
+          "おかげ",
+          "わけ"
+        ],
+        "Formal cause: N の ため. せい / おかげ need で.",
+        "form form form",
+        "Because of an accident, the trains are running late.",
+        [
+          "せい needs で to link the clause: {事故|じこ}の せいで. Alone it doesn't connect. Formal \"because of\" is ため.",
+          "おかげ is for good results, and needs で. Trains running late is not good: ため.",
+          "わけ means \"reason / no wonder\", not \"because of\". Use ため."
+        ]
+      ],
+      [
+        "大雪の（　　）、飛行機が {欠航|けっこう}に なった。",
+        [
+          "ため",
+          "せい",
+          "おかげ",
+          "わけ"
+        ],
+        "Formal cause: N の ため. せい / おかげ would need で.",
+        "form form form",
+        "Because of heavy snow, the flight was cancelled.",
+        [
+          "せい needs で: 大雪の せいで. Alone it doesn't connect. Formal \"because of\" is ため.",
+          "おかげ is for good results, and needs で. A cancelled flight is not good: ため.",
+          "わけ means \"reason / no wonder\". A formal cause is ため."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜からこそ",
+    "precisely because",
+    [
+      [
+        "あなたを 信じて いる（　　）、本当の ことを 話すのです。",
+        [
+          "からこそ",
+          "ものの",
+          "ばかりに",
+          "のに"
+        ],
+        "Emphasized reason: からこそ.",
+        "nuance nuance nuance",
+        "It's precisely because I believe in you that I'm telling you the truth.",
+        [
+          "ものの means \"although\". Believing you and telling the truth don't clash. Use からこそ.",
+          "ばかりに is \"just because\" for a bad result. Telling the truth here is not bad: からこそ.",
+          "のに is \"even though\". Belief and honesty go together: からこそ."
+        ]
+      ],
+      [
+        "失敗した（　　）、わかる ことも ある。",
+        [
+          "からこそ",
+          "からには",
+          "くせに",
+          "わりに"
+        ],
+        "Precisely because you failed: からこそ.",
+        "nuance nuance nuance",
+        "There are things you only understand precisely because you failed.",
+        [
+          "からには means \"now that (so I must)\". It needs a resolve after it. \"Precisely because\" is からこそ.",
+          "くせに is criticism \"even though\". Learning from failure is からこそ.",
+          "わりに means \"considering\". \"Precisely because I failed\" is からこそ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜ばかりに",
+    "just because (bad result)",
+    [
+      [
+        "うそを ついた（　　）、信用を なくした。",
+        [
+          "ばかりに",
+          "からこそ",
+          "おかげで",
+          "うちに"
+        ],
+        "Only because of that, something bad happened: ばかりに.",
+        "nuance nuance nuance",
+        "Just because I told a lie, I lost people's trust.",
+        [
+          "からこそ stresses a good or right reason. A lie causing a loss is ばかりに.",
+          "おかげで is \"thanks to\" a good result. Losing trust is bad: ばかりに.",
+          "うちに means \"while\". One lie that caused a loss is ばかりに."
+        ]
+      ],
+      [
+        "会議で 余計な ことを 言った（　　）、部長に 怒られた。",
+        [
+          "ばかりに",
+          "からこそ",
+          "おかげで",
+          "くせに"
+        ],
+        "Just because of that one thing, a bad result: ばかりに.",
+        "nuance nuance nuance",
+        "Just because I said something unnecessary at the meeting, I got scolded by the department manager.",
+        [
+          "からこそ stresses a good or right reason. A regretted cause is ばかりに.",
+          "おかげで is \"thanks to\" a good result. Being scolded is bad: ばかりに.",
+          "くせに criticizes \"even though\". \"Just because I said it\" is ばかりに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜わけだ",
+    "that's why / no wonder",
+    [
+      [
+        "彼は 10年 アメリカに 住んで いた。英語が 上手な（　　）だ。",
+        [
+          "わけ",
+          "ため",
+          "こと",
+          "ところ"
+        ],
+        "No wonder: わけだ.",
+        "nuance nuance nuance",
+        "He lived in America for 10 years. No wonder his English is good.",
+        [
+          "ためだ gives a cause: \"it's because his English is good\". The 10 years are the cause, so \"no wonder\" is わけだ.",
+          "ことだ gives advice or feeling. \"No wonder\" is わけだ.",
+          "ところだ is about timing (about to / just did). \"No wonder\" is わけだ."
+        ]
+      ],
+      [
+        "窓が 開いて いる。どうりで 寒い（　　）。",
+        [
+          "わけだ",
+          "はずが ない",
+          "ことだ",
+          "ものか"
+        ],
+        "No wonder (どうりで … わけだ).",
+        "nuance nuance nuance",
+        "The window is open. No wonder it's cold.",
+        [
+          "はずが ない means \"can't be\". It is cold, and the open window explains it: わけだ.",
+          "ことだ gives advice. \"No wonder\" is わけだ.",
+          "ものか is \"as if!\" (strong denial). The open window explains the cold: わけだ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜わけではない",
+    "it doesn't mean that",
+    [
+      [
+        "肉が きらいな（　　）が、あまり 食べない。",
+        [
+          "わけでは ない",
+          "わけが ない",
+          "はずが ない",
+          "わけだ"
+        ],
+        "Partial denial: わけでは ない.",
+        "nuance nuance nuance",
+        "It's not that I dislike meat, but I don't eat it much.",
+        [
+          "わけが ない means \"there's no way\". Partial denial (it's not that) is わけでは ない.",
+          "はずが ない means \"can't be\". \"It's not that I dislike it\" is わけでは ない.",
+          "わけだ means \"no wonder / that's why\". Before が (but), \"it's not that\" is わけでは ない."
+        ]
+      ],
+      [
+        "料理が できない（　　）。面倒なだけだ。",
+        [
+          "わけでは ない",
+          "ことだ",
+          "わけだ",
+          "わけには いかない"
+        ],
+        "It's not that I can't: わけでは ない.",
+        "nuance nuance nuance",
+        "It's not that I can't cook. It's just a hassle.",
+        [
+          "ことだ gives advice (\"you should\"). \"It's not that I can't\" is わけでは ない.",
+          "わけだ means \"no wonder\". The next sentence says it's only a hassle: わけでは ない.",
+          "わけには いかない means \"I can't (for a reason)\". \"It's not that I can't cook\" is わけでは ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜わけにはいかない",
+    "can't (because of the situation)",
+    [
+      [
+        "明日は 試験だから、遊びに 行く（　　）。",
+        [
+          "わけには いかない",
+          "わけでは ない",
+          "はずが ない",
+          "ことは ない"
+        ],
+        "Socially or morally can't: わけには いかない.",
+        "nuance nuance nuance",
+        "I have an exam tomorrow, so I can't go out to have fun.",
+        [
+          "わけでは ない means \"it's not that\". \"I can't (because of the exam)\" is わけには いかない.",
+          "はずが ない is a guess about something. Your own choice not to go is わけには いかない.",
+          "ことは ない means \"no need\". The exam stops you: わけには いかない."
+        ]
+      ],
+      [
+        "お客さんが 待って いるので、ここで 休む（　　）。",
+        [
+          "わけには いかない",
+          "わけでは ない",
+          "わけが ない",
+          "わけだ"
+        ],
+        "Can't, given the situation: わけには いかない.",
+        "nuance nuance nuance",
+        "Customers are waiting, so I can't take a break here.",
+        [
+          "わけでは ない means \"it's not that\". You can't rest for a reason: わけには いかない.",
+          "わけが ない is \"no way (it's true)\". You can't rest because of a reason: わけには いかない.",
+          "わけだ means \"no wonder\". \"I can't take a break\" is わけには いかない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜わけがない",
+    "no way / impossible",
+    [
+      [
+        "こんな 難しい 問題、子どもに わかる（　　）。",
+        [
+          "わけが ない",
+          "わけでは ない",
+          "わけには いかない",
+          "ことに なる"
+        ],
+        "Impossible: わけが ない.",
+        "nuance nuance nuance",
+        "There's no way a child could understand such a difficult problem.",
+        [
+          "わけでは ない means \"it's not that\". \"There's no way\" is わけが ない.",
+          "わけには いかない means \"I can't (for a reason)\". A child understanding is impossible: わけが ない.",
+          "ことに なる means \"it turns out / it's decided\". \"No way\" is わけが ない."
+        ]
+      ],
+      [
+        "あの まじめな 人が うそを つく（　　）。",
+        [
+          "わけが ない",
+          "わけでは ない",
+          "わけだ",
+          "わけには いかない"
+        ],
+        "No way: わけが ない.",
+        "nuance nuance nuance",
+        "There's no way that serious person would tell a lie.",
+        [
+          "わけでは ない means \"it's not that\". A strong denial is わけが ない.",
+          "わけだ means \"no wonder\". He wouldn't lie: わけが ない.",
+          "わけには いかない means \"I can't (for a reason)\". About someone else's act, \"no way\" is わけが ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜さえ〜ば",
+    "as long as",
+    [
+      [
+        "時間（　　）あれば、手伝いますよ。",
+        [
+          "さえ",
+          "こそ",
+          "しか",
+          "まで"
+        ],
+        "The one condition needed: さえ … ば.",
+        "nuance polar nuance",
+        "As long as I have time, I'll help you.",
+        [
+          "こそ means \"precisely this\". \"As long as I have time\" is さえ 〜ば.",
+          "しか needs a negative (時間しか ない). With あれば, use さえ.",
+          "まで means \"even / until\". The condition \"as long as\" is さえ."
+        ]
+      ],
+      [
+        "この 薬を 飲み（　　）すれば、すぐ 治りますよ。",
+        [
+          "さえ",
+          "こそ",
+          "しか",
+          "だけ"
+        ],
+        "Just take it and you'll be fine: stem + さえ すれば.",
+        "nuance nuance nuance",
+        "As long as you take this medicine, you'll get better soon.",
+        [
+          "こそ means \"precisely\". \"As long as you take it\" is stem + さえ すれば.",
+          "しか needs a negative. With すれば, use さえ.",
+          "だけ doesn't go between the stem and すれば. \"As long as\" is 飲みさえ すれば."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜としたら",
+    "supposing",
+    [
+      [
+        "もし {宝|たから}くじが 当たった（　　）、何を 買いますか。",
+        [
+          "としたら",
+          "ところで",
+          "うえで",
+          "ばかりに"
+        ],
+        "Hypothesis: としたら.",
+        "nuance nuance nuance",
+        "If you won the lottery, what would you buy?",
+        [
+          "ところで means \"even if (it's no use)\". A real \"if\" asking what you'd buy is としたら.",
+          "うえで means \"after / in doing\". A supposition is としたら.",
+          "ばかりに is \"just because\" for a bad result. A supposition is としたら."
+        ]
+      ],
+      [
+        "もし 1か月 休みが ある（　　）、どこへ 行きたいですか。",
+        [
+          "としたら",
+          "ところで",
+          "わりに",
+          "くせに"
+        ],
+        "Supposing: としたら.",
+        "nuance nuance nuance",
+        "If you had a month off, where would you want to go?",
+        [
+          "ところで means \"even if (no use)\". \"If you had\" is としたら.",
+          "わりに means \"considering\". A supposition is としたら.",
+          "くせに criticizes \"even though\". A supposition is としたら."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜ば〜のに",
+    "if only (regret)",
+    [
+      [
+        "もっと 早く（　　）、間に合ったのに。",
+        [
+          "出れば",
+          "出ると",
+          "出ても",
+          "出るなら"
+        ],
+        "Regret: ば … のに.",
+        "form nuance nuance",
+        "If I had left earlier, I would have made it in time.",
+        [
+          "と is for a result that always or then naturally follows. Regret about the past is 〜ば 〜たのに.",
+          "ても means \"even if\". Leaving earlier would have helped: 出れば.",
+          "なら is \"if that's the case\" about a topic. Regret about the past is 出れば."
+        ]
+      ],
+      [
+        "もっと 勉強（　　）、合格できたのに。",
+        [
+          "すれば",
+          "すると",
+          "しても",
+          "するなら"
+        ],
+        "Regret: すれば … のに.",
+        "form nuance nuance",
+        "If I had studied more, I could have passed.",
+        [
+          "と is for a natural result, not past regret. Use すれば 〜たのに.",
+          "しても means \"even if\". More study would have helped: すれば.",
+          "するなら is \"if you are going to\". Past regret is すれば."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜ところだった",
+    "almost (happened)",
+    [
+      [
+        "危なく 車に ひかれる（　　）。",
+        [
+          "ところだった",
+          "はずだった",
+          "つもりだった",
+          "ことだった"
+        ],
+        "Nearly happened: ところだった.",
+        "nuance nuance nuance",
+        "I was nearly hit by a car.",
+        [
+          "はずだった is a plan or expectation that didn't happen. \"Nearly\" is ところだった.",
+          "つもりだった is your own plan. Nobody plans to be hit. Use ところだった.",
+          "ことだった doesn't mean \"nearly\". Use ところだった."
+        ]
+      ],
+      [
+        "目覚ましが 鳴らなかったら、{寝坊|ねぼう}する（　　）。",
+        [
+          "ところだった",
+          "はずだった",
+          "つもりだった",
+          "ばかりだった"
+        ],
+        "Nearly happened: ところだった.",
+        "nuance nuance nuance",
+        "If my alarm hadn't gone off, I would have overslept.",
+        [
+          "はずだった is an expectation, not a near miss. \"Would have overslept\" is ところだった.",
+          "つもりだった is your own plan. Oversleeping isn't planned: ところだった.",
+          "ばかりだった means \"had just\". A near miss is ところだった."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜さえ",
+    "even",
+    [
+      [
+        "忙しくて、ご飯を 食べる 時間（　　）ない。",
+        [
+          "さえ",
+          "こそ",
+          "ばかり",
+          "だけ"
+        ],
+        "Not even: さえ + negative.",
+        "nuance nuance nuance",
+        "I'm so busy I don't even have time to eat.",
+        [
+          "こそ means \"precisely\". \"Not even time to eat\" is さえ + negative.",
+          "ばかり means \"only / just\", and ばかり ない is not natural. \"Not even\" is さえ.",
+          "だけ ない would mean \"only the time to eat is missing\". \"Not even\" is さえ."
+        ]
+      ],
+      [
+        "こんな {簡単|かんたん}な 漢字（　　）書けないの？",
+        [
+          "さえ",
+          "こそ",
+          "ほど",
+          "ばかり"
+        ],
+        "Not even this easy kanji: さえ + negative.",
+        "nuance nuance nuance",
+        "You can't even write such an easy kanji?",
+        [
+          "こそ is \"precisely this\" for emphasis. \"Not even this easy kanji\" is さえ + negative.",
+          "ほど is degree (not as … as). \"Not even\" is さえ.",
+          "ばかり means \"only / nothing but\". \"Can't write even this\" is さえ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜こそ",
+    "this (time) for sure",
+    [
+      [
+        "今年（　　）試験に 合格するぞ。",
+        [
+          "こそ",
+          "さえ",
+          "しか",
+          "だけ"
+        ],
+        "Emphasis: こそ.",
+        "nuance polar nuance",
+        "This year, I'm definitely going to pass the exam!",
+        [
+          "さえ means \"even\". \"This year for sure\" is こそ.",
+          "しか needs a negative. \"This year, definitely\" is こそ.",
+          "だけ means \"only this year\". A strong resolve is こそ."
+        ]
+      ],
+      [
+        "こちら（　　）、よろしく お願いします。",
+        [
+          "こそ",
+          "さえ",
+          "だけ",
+          "しか"
+        ],
+        "Set phrase: こちらこそ.",
+        "nuance nuance polar",
+        "Likewise — I look forward to working with you too.",
+        [
+          "さえ means \"even\". The set reply \"likewise\" is こちらこそ.",
+          "だけ means \"only\". The set reply is こちらこそ.",
+          "しか needs a negative. The set reply is こちらこそ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜なんて / 〜など",
+    "things like (dismissive)",
+    [
+      [
+        "おばけ（　　）いる わけが ない。",
+        [
+          "なんて",
+          "こそ",
+          "さえ",
+          "だけ"
+        ],
+        "Dismissive: なんて.",
+        "nuance nuance nuance",
+        "There's no way ghosts exist.",
+        [
+          "こそ stresses something as the real one. Dismissing ghosts is なんて.",
+          "さえ means \"even\". Looking down on an idea is なんて.",
+          "だけ means \"only\". \"Things like ghosts\" is なんて."
+        ]
+      ],
+      [
+        "あの 人が 犯人だ（　　）、信じられない。",
+        [
+          "なんて",
+          "こそ",
+          "さえ",
+          "ばかり"
+        ],
+        "Surprise or disbelief: だ なんて.",
+        "nuance nuance nuance",
+        "I can't believe that person is the culprit.",
+        [
+          "こそ stresses something. Surprise or disbelief is なんて.",
+          "さえ means \"even\". \"To think that he is the culprit\" is なんて.",
+          "ばかり means \"only\". Disbelief is なんて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜だけでなく",
+    "not only",
+    [
+      [
+        "彼は 英語（　　）、フランス語も 話せる。",
+        [
+          "だけでなく",
+          "しか",
+          "だけに",
+          "ばかりに"
+        ],
+        "Not only … but also: だけでなく … も.",
+        "polar nuance nuance",
+        "He can speak not only English but also French.",
+        [
+          "しか needs a negative, and も doesn't follow. \"Not only … but also\" is だけでなく.",
+          "だけに means \"precisely because\". \"Not only\" is だけでなく.",
+          "ばかりに is \"just because\" for a bad result. \"Not only\" is だけでなく."
+        ]
+      ],
+      [
+        "あの 先生は 学生（　　）、ほかの 先生からも {尊敬|そんけい}されて いる。",
+        [
+          "だけでなく",
+          "しか",
+          "だけに",
+          "ばかりに"
+        ],
+        "Not only students: だけでなく … も.",
+        "polar nuance nuance",
+        "That teacher is respected not only by students but also by other teachers.",
+        [
+          "しか needs a negative. \"Not only students\" is だけでなく.",
+          "だけに means \"precisely because\". \"Not only\" is だけでなく.",
+          "ばかりに is \"just because\" for a bad result. Use だけでなく."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜てばかりいる",
+    "do nothing but",
+    [
+      [
+        "遊んで（　　）いないで、勉強しなさい。",
+        [
+          "ばかり",
+          "だけ",
+          "しか",
+          "こそ"
+        ],
+        "Only ever doing: て ばかり いる.",
+        "nuance polar nuance",
+        "Stop just playing around and study!",
+        [
+          "〜て だけ いる isn't said. \"Doing nothing but\" is 〜て ばかり いる.",
+          "しか needs a negative verb (しか ない). \"Only playing\" is 遊んで ばかり.",
+          "こそ stresses a reason or thing. \"Nothing but playing\" is 遊んで ばかり."
+        ]
+      ],
+      [
+        "息子は 毎日 ゲームを し（　　）いる。",
+        [
+          "て ばかり",
+          "て しか",
+          "て だけ",
+          "て こそ"
+        ],
+        "Does nothing but play: て ばかり いる.",
+        "polar nuance nuance",
+        "My son does nothing but play games every day.",
+        [
+          "〜て しか needs a negative. \"Does nothing but\" is 〜て ばかり いる.",
+          "〜て だけ いる isn't a pattern. Use 〜て ばかり いる.",
+          "〜て こそ means \"only by doing\". \"Nothing but games\" is 〜て ばかり."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜に加えて",
+    "in addition to",
+    [
+      [
+        "雨（　　）風も 強く なって きた。",
+        [
+          "に 加えて",
+          "に よって",
+          "に 対して",
+          "に とって"
+        ],
+        "In addition: に 加えて.",
+        "nuance nuance nuance",
+        "On top of the rain, the wind has gotten stronger too.",
+        [
+          "に よって means \"by / because of\". Rain plus wind is に 加えて.",
+          "に 対して means \"toward / whereas\". Adding another thing is に 加えて.",
+          "に とって means \"for (someone)\". \"On top of the rain\" is に 加えて."
+        ]
+      ],
+      [
+        "給料（　　）、ボーナスも もらった。",
+        [
+          "に 加えて",
+          "に 対して",
+          "に とって",
+          "を 通して"
+        ],
+        "On top of the salary: に 加えて.",
+        "nuance nuance nuance",
+        "On top of my salary, I also got a bonus.",
+        [
+          "に 対して means \"toward / whereas\". Salary plus bonus is に 加えて.",
+          "に とって means \"for (someone)\". Adding is に 加えて.",
+          "を 通して means \"through\". \"On top of my salary\" is に 加えて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜うえに",
+    "on top of that",
+    [
+      [
+        "この 店は 安い（　　）、おいしい。",
+        [
+          "うえに",
+          "くせに",
+          "ために",
+          "ばかりに"
+        ],
+        "Adding a plus: うえに.",
+        "nuance nuance nuance",
+        "This shop is cheap, and on top of that, the food is good.",
+        [
+          "くせに criticizes \"even though\". Two good points together is うえに.",
+          "ために means \"because / for\". Being cheap doesn't make food good: うえに.",
+          "ばかりに is \"just because\" with a bad result. Two good points: うえに."
+        ]
+      ],
+      [
+        "今日は 寒い（　　）、雨も 降って いる。",
+        [
+          "うえに",
+          "くせに",
+          "わりに",
+          "ばかりに"
+        ],
+        "Cold, and on top of that, rain: うえに.",
+        "nuance nuance nuance",
+        "It's cold today, and on top of that, it's raining.",
+        [
+          "くせに criticizes a person. Two bad points about weather is うえに.",
+          "わりに means \"considering\", for a surprise. Cold plus rain adds up: うえに.",
+          "ばかりに is \"just because\" with a result. Adding is うえに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜ついでに",
+    "while you're at it",
+    [
+      [
+        "買い物（　　）、{郵便局|ゆうびんきょく}に 寄った。",
+        [
+          "の ついでに",
+          "の 代わりに",
+          "の わりに",
+          "の くせに"
+        ],
+        "Doing it on the way: ついでに.",
+        "nuance nuance nuance",
+        "While I was out shopping, I stopped by the post office.",
+        [
+          "の 代わりに means \"instead of\". You did both: の ついでに.",
+          "の わりに means \"considering\". \"While out shopping\" is の ついでに.",
+          "の くせに criticizes. \"While I was at it\" is の ついでに."
+        ]
+      ],
+      [
+        "散歩の（　　）、パンを 買って きた。",
+        [
+          "ついでに",
+          "代わりに",
+          "わりに",
+          "くせに"
+        ],
+        "While out walking: の ついでに.",
+        "nuance nuance nuance",
+        "While I was out for a walk, I bought some bread.",
+        [
+          "代わりに means \"instead of\". You walked and also bought bread: ついでに.",
+          "わりに means \"considering\". \"While I was out\" is ついでに.",
+          "くせに criticizes. \"While I was out\" is ついでに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜ことだ",
+    "you should (advice)",
+    [
+      [
+        "上手に なりたければ、毎日 練習する（　　）。",
+        [
+          "ことだ",
+          "わけだ",
+          "はずだ",
+          "ところだ"
+        ],
+        "Advice: dictionary form + ことだ.",
+        "nuance nuance nuance",
+        "If you want to get good, you should practice every day.",
+        [
+          "わけだ means \"no wonder\". Advice is ことだ.",
+          "はずだ is an expectation. Advice \"you should\" is ことだ.",
+          "ところだ is about timing. Advice is ことだ."
+        ]
+      ],
+      [
+        "やせたいなら、あまい ものを 食べない（　　）。",
+        [
+          "ことだ",
+          "わけだ",
+          "はずだ",
+          "ところだ"
+        ],
+        "Advice: ない-form + ことだ.",
+        "nuance nuance nuance",
+        "If you want to lose weight, you should stop eating sweet things.",
+        [
+          "わけだ means \"no wonder\". Advice is ことだ.",
+          "はずだ is an expectation. Advice is ことだ.",
+          "ところだ is about timing (about to). Advice is ことだ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜ことはない",
+    "no need to",
+    [
+      [
+        "{簡単|かんたん}な 試験だから、そんなに 心配する（　　）よ。",
+        [
+          "ことは ない",
+          "ことだ",
+          "わけだ",
+          "ことが ある"
+        ],
+        "No need: ことは ない.",
+        "nuance nuance nuance",
+        "It's an easy exam, so there's no need to worry so much.",
+        [
+          "ことだ is advice: \"you should worry\". An easy exam means no need: ことは ない.",
+          "わけだ means \"no wonder\". An easy exam doesn't explain worrying. Use ことは ない.",
+          "ことが ある means \"sometimes\". \"No need to worry\" is ことは ない."
+        ]
+      ],
+      [
+        "すぐ 治る けがだから、病院へ 行く（　　）よ。",
+        [
+          "ことは ない",
+          "わけだ",
+          "はずだ",
+          "ものだ"
+        ],
+        "No need to go: ことは ない.",
+        "nuance nuance nuance",
+        "It's an injury that will heal quickly, so there's no need to go to the hospital.",
+        [
+          "わけだ means \"no wonder\". \"No need to go\" is ことは ない.",
+          "はずだ is an expectation. \"No need\" is ことは ない.",
+          "ものだ is \"one should / that's how it is\". It says the opposite. \"No need\" is ことは ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜べきだ / 〜べきではない",
+    "should / should not",
+    [
+      [
+        "約束は 守る（　　）だ。",
+        [
+          "べき",
+          "べく",
+          "わけ",
+          "ため"
+        ],
+        "Moral should: べきだ.",
+        "form nuance nuance",
+        "You should keep your promises.",
+        [
+          "べく means \"in order to\" and can't end a sentence with だ. \"You should\" is べきだ.",
+          "わけだ means \"that's why\". There's no reason before it. \"Should\" is べきだ.",
+          "ためだ means \"it's for / because of\". A rule of what to do is べきだ."
+        ]
+      ],
+      [
+        "人の 悪口を 言う（　　）ではない。",
+        [
+          "べき",
+          "はず",
+          "よう",
+          "ため"
+        ],
+        "Should not: べきでは ない.",
+        "form form nuance",
+        "You shouldn't speak badly of other people.",
+        [
+          "はずでは ない isn't the pattern: \"can't be\" is はずが ない. \"Shouldn't\" is べきでは ない.",
+          "ようでは ない is not \"shouldn't\". Use べきでは ない.",
+          "ためでは ない means \"not for the purpose of\". \"Shouldn't\" is べきでは ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜ものだ（memories）",
+    "used to (nostalgic)",
+    [
+      [
+        "子どもの ころは、よく この 川で 遊んだ（　　）だ。",
+        [
+          "もの",
+          "こと",
+          "ところ",
+          "わけ"
+        ],
+        "Nostalgia: た-form + ものだ.",
+        "nuance nuance nuance",
+        "When I was a child, I used to play in this river a lot.",
+        [
+          "ことだ gives advice. Remembering a past habit is ものだ.",
+          "た ところだ means \"have just done\". 子どもの ころ is long ago: ものだ.",
+          "わけだ means \"no wonder\". Nostalgia is た-form + ものだ."
+        ]
+      ],
+      [
+        "学生の ころは、よく 夜 遅くまで 友だちと 話した（　　）。",
+        [
+          "ものだ",
+          "ことだ",
+          "ばかりだ",
+          "わけだ"
+        ],
+        "Nostalgia: た-form + ものだ.",
+        "nuance nuance nuance",
+        "When I was a student, I would often talk with my friends until late at night.",
+        [
+          "ことだ gives advice. A fond past habit is ものだ.",
+          "た ばかりだ means \"have just done\". 学生の ころ is long ago: ものだ.",
+          "わけだ means \"no wonder\". Nostalgia is た-form + ものだ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜てほしい",
+    "want someone to",
+    [
+      [
+        "私は 彼に もっと 早く 帰って（　　）。",
+        [
+          "ほしい",
+          "たい",
+          "くれる",
+          "ほしがる"
+        ],
+        "Want someone else to do: て ほしい.",
+        "form dir form",
+        "I want him to come home earlier.",
+        [
+          "たい is for your own action. Wanting someone else to do it is 〜て ほしい.",
+          "くれる has the other person as the subject (彼が 帰って くれる). With 私は 彼に, use ほしい.",
+          "ほしがる is for a third person's wish. Your own wish is ほしい."
+        ]
+      ],
+      [
+        "部屋が 寒いので、窓を 閉めて（　　）んですが。",
+        [
+          "ほしい",
+          "たい",
+          "ほしがる",
+          "くれたい"
+        ],
+        "Wanting someone else to do it: て ほしい.",
+        "form form dir",
+        "The room is cold, so I'd like you to close the window.",
+        [
+          "〜て たい is not a form, and たい is for your own action. Asking someone is 〜て ほしい.",
+          "ほしがる describes a third person's wish. Your own request is ほしい.",
+          "くれる can't take たい. Asking someone is 閉めて ほしい."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜させていただく",
+    "allow me to (humble)",
+    [
+      [
+        "では、発表を 始め（　　）いただきます。",
+        [
+          "させて",
+          "られて",
+          "させられて",
+          "せて"
+        ],
+        "Humble \"let me\": させて いただく.",
+        "pcv pcv form",
+        "Well then, allow me to begin my presentation.",
+        [
+          "られて is passive. \"Let me begin\" is causative: 始めさせて いただきます.",
+          "させられて is \"be made to\". Asking permission is させて いただく.",
+          "せて is not a form for 始める (an る-verb). Its causative is 始めさせて."
+        ]
+      ],
+      [
+        "では、お先に 失礼（　　）いただきます。",
+        [
+          "させて",
+          "されて",
+          "させられて",
+          "せて"
+        ],
+        "Set humble phrase: 失礼させて いただきます.",
+        "pcv pcv form",
+        "Well then, if you'll excuse me, I'll be leaving first.",
+        [
+          "されて is passive. The set phrase is 失礼させて いただきます.",
+          "させられて is \"be made to\". The set phrase uses させて.",
+          "せて is not a form of する. Its causative is させて: 失礼させて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜ように（と）いう",
+    "tell someone to",
+    [
+      [
+        "先生は 学生に 宿題を 忘れない（　　）言った。",
+        [
+          "ように",
+          "ために",
+          "ことを",
+          "そうに"
+        ],
+        "Indirect request: ように 言う.",
+        "nuance nuance form",
+        "The teacher told the students not to forget their homework.",
+        [
+          "ために is a purpose. Reporting an order is 〜ない ように 言う.",
+          "ことを 言った reports content, not an order. Use ように.",
+          "そうに means \"looking like\". A reported request is ように."
+        ]
+      ],
+      [
+        "医者に お酒を 飲まない（　　）言われた。",
+        [
+          "ように",
+          "ために",
+          "ことを",
+          "そうに"
+        ],
+        "Told not to drink: ない-form + ように 言われた.",
+        "nuance nuance form",
+        "I was told by the doctor not to drink alcohol.",
+        [
+          "ために is a purpose. A reported order is 〜ない ように 言われた.",
+          "ことを 言われた reports content, not an order. Use ように.",
+          "そうに means \"looking like\". A reported request is ように."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜てたまらない",
+    "unbearably / really",
+    [
+      [
+        "のどが かわいて（　　）。",
+        [
+          "たまらない",
+          "いられない",
+          "すまない",
+          "かまわない"
+        ],
+        "Can't stand it: て たまらない.",
+        "colloc colloc colloc",
+        "I'm terribly thirsty.",
+        [
+          "いられない comes after 〜ずには (can't help doing). After an adjective て, \"unbearably\" is たまらない.",
+          "すまない means \"sorry\". \"Terribly thirsty\" is かわいて たまらない.",
+          "かまわない means \"it's fine\" and needs も (〜ても かまわない). Use たまらない."
+        ]
+      ],
+      [
+        "明日 彼女に 会えると 思うと、うれしくて（　　）。",
+        [
+          "たまらない",
+          "いられない",
+          "かまわない",
+          "すまない"
+        ],
+        "So happy I can't stand it: て たまらない.",
+        "colloc colloc colloc",
+        "When I think that I'll see her tomorrow, I'm so happy I can't stand it.",
+        [
+          "いられない comes after 〜ずには. After うれしくて, \"unbearably\" is たまらない.",
+          "かまわない means \"it's fine\" and needs も. Use たまらない.",
+          "すまない means \"sorry\". \"So happy\" is うれしくて たまらない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜っけ",
+    "was it? (trying to remember)",
+    [
+      [
+        "会議は 何時からだった（　　）。",
+        [
+          "っけ",
+          "ぞ",
+          "わ",
+          "よ"
+        ],
+        "Trying to remember: っけ.",
+        "nuance nuance nuance",
+        "What time did the meeting start again?",
+        [
+          "ぞ is a strong statement. Trying to remember is っけ.",
+          "わ is a soft statement. With 何時, you are asking: っけ.",
+          "よ tells new information. You are trying to remember: っけ."
+        ]
+      ],
+      [
+        "あの 人の 名前、何だった（　　）。",
+        [
+          "っけ",
+          "ぞ",
+          "さ",
+          "わ"
+        ],
+        "Trying to remember: だった っけ.",
+        "nuance nuance nuance",
+        "What was that person's name again?",
+        [
+          "ぞ is a strong statement. Trying to remember is っけ.",
+          "さ is a casual statement. Asking yourself again is っけ.",
+          "わ is a soft statement. Trying to remember is っけ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜って / 〜そうだ",
+    "they say / I heard",
+    [
+      [
+        "天気予報に よると、明日は 雨だ（　　）。",
+        [
+          "そうだ",
+          "ようだ",
+          "らしい",
+          "みたいだ"
+        ],
+        "After だ only hearsay そうだ fits.",
+        "form form form",
+        "According to the weather forecast, it will rain tomorrow.",
+        [
+          "ようだ follows a noun with の (雨のようだ), and it's your own guess. Hearsay is そうだ.",
+          "らしい follows a noun directly (雨らしい), not だ. Plain hearsay is 雨だ そうだ.",
+          "みたいだ follows a noun directly (雨みたいだ). Hearsay is そうだ."
+        ]
+      ],
+      [
+        "田中さん、今日は 来ない（　　）よ。",
+        [
+          "って",
+          "と",
+          "ので",
+          "ように"
+        ],
+        "Casual quote: って.",
+        "form nuance nuance",
+        "Mr. Tanaka says he isn't coming today.",
+        [
+          "と needs a verb like 言って いた. Ending with と よ isn't standard. Casual \"he says\" is って.",
+          "ので gives a reason. Passing on what he said is って.",
+          "ように is a wish or order. Passing on what he said is って."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜という",
+    "called / named",
+    [
+      [
+        "「さくら」（　　）店を 知って いますか。",
+        [
+          "という",
+          "といった",
+          "とした",
+          "とは"
+        ],
+        "Named: と いう N.",
+        "form form form",
+        "Do you know a shop called \"Sakura\"?",
+        [
+          "といった means \"such as\" for examples. A name is という.",
+          "とした is \"supposed\". A name is という.",
+          "とは defines a word. \"A shop called\" is という."
+        ]
+      ],
+      [
+        "「ありがとう」は インドネシア語で「Terima kasih」（　　）。",
+        [
+          "と 言います",
+          "と 話します",
+          "に 言います",
+          "を 言います"
+        ],
+        "X は Y と 言います = X is called Y.",
+        "colloc particle particle",
+        "\"Arigatou\" is \"Terima kasih\" in Indonesian.",
+        [
+          "話す takes the language or topic, not a quote. \"X is called Y\" is と 言います.",
+          "に marks a listener. A quote takes と: と 言います.",
+          "を marks an object, not a quote. Use と 言います."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜というより",
+    "rather than",
+    [
+      [
+        "彼は 友だち（　　）、家族の ような 存在だ。",
+        [
+          "というより",
+          "にとって",
+          "について",
+          "によって"
+        ],
+        "Rather than: というより.",
+        "nuance nuance nuance",
+        "He's less a friend than someone like family to me.",
+        [
+          "にとって means \"for (someone)\". \"Less a friend than family\" is というより.",
+          "について means \"about\". Use というより.",
+          "によって means \"by\". A comparison of words is というより."
+        ]
+      ],
+      [
+        "今日は すずしい（　　）、寒いくらいだ。",
+        [
+          "というより",
+          "にとって",
+          "によって",
+          "について"
+        ],
+        "Rather than cool, cold: というより.",
+        "nuance nuance nuance",
+        "It's not so much cool today as almost cold.",
+        [
+          "にとって means \"for (someone)\". \"More cold than cool\" is というより.",
+          "によって means \"by / depending\". Use というより.",
+          "について means \"about\". Use というより."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜ほど",
+    "to the point that",
+    [
+      [
+        "{泣|な}きたい（　　）悲しかった。",
+        [
+          "ほど",
+          "ばかり",
+          "しか",
+          "こそ"
+        ],
+        "So sad I wanted to cry: ほど.",
+        "nuance polar nuance",
+        "I was so sad I wanted to cry.",
+        [
+          "ばかり means \"only\". Degree (so sad that) is ほど.",
+          "しか needs a negative verb. Degree is ほど.",
+          "こそ stresses a thing. Degree is ほど."
+        ]
+      ],
+      [
+        "信じられない（　　）きれいな 景色だった。",
+        [
+          "ほど",
+          "しか",
+          "こそ",
+          "ばかり"
+        ],
+        "Unbelievably beautiful: ほど.",
+        "polar nuance nuance",
+        "The scenery was unbelievably beautiful.",
+        [
+          "しか needs a negative verb. Degree is ほど.",
+          "こそ stresses a thing. \"Unbelievably\" is ほど.",
+          "ばかり means \"only\". Degree is ほど."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜くらい",
+    "at least",
+    [
+      [
+        "自分の 部屋（　　）自分で 掃除しなさい。",
+        [
+          "くらい",
+          "ほど",
+          "しか",
+          "ばかり"
+        ],
+        "At least (minimum): くらい.",
+        "nuance polar nuance",
+        "At least clean your own room yourself.",
+        [
+          "ほど shows degree. \"At least (the minimum)\" is くらい.",
+          "しか needs a negative verb. \"At least your own room\" is くらい.",
+          "ばかり means \"only / nothing but\". The minimum is くらい."
+        ]
+      ],
+      [
+        "電話（　　）して くれれば よかったのに。",
+        [
+          "くらい",
+          "ほど",
+          "こそ",
+          "ばかり"
+        ],
+        "At least a call: くらい.",
+        "nuance nuance nuance",
+        "You could at least have called me.",
+        [
+          "ほど shows degree. \"At least a call\" is くらい.",
+          "こそ stresses a thing. The minimum is くらい.",
+          "ばかり means \"only / nothing but\". The minimum is くらい."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜まま",
+    "as it is / without changing",
+    [
+      [
+        "靴を（　　）まま、部屋に 入らないで ください。",
+        [
+          "はいた",
+          "はく",
+          "はいて",
+          "はき"
+        ],
+        "た-form + まま.",
+        "form form form",
+        "Please don't come into the room with your shoes on.",
+        [
+          "まま needs the た-form here: はいた まま. はく まま isn't said.",
+          "The て-form can't come before まま. Use はいた まま.",
+          "The stem can't come before まま. Use はいた まま."
+        ]
+      ],
+      [
+        "めがねを かけた（　　）、おふろに 入って しまった。",
+        [
+          "まま",
+          "ばかり",
+          "ところ",
+          "うちに"
+        ],
+        "Still wearing glasses: た-form + まま.",
+        "nuance nuance nuance",
+        "I got into the bath with my glasses still on.",
+        [
+          "かけた ばかり means \"had just put on\" and would need で to link. \"Still wearing\" is まま.",
+          "かけた ところ is \"just put on\". \"With them still on\" is まま.",
+          "うちに means \"while it lasts\". \"Still on\" is まま."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜ずに",
+    "without doing",
+    [
+      [
+        "朝ご飯を（　　）ずに、学校へ 行った。",
+        [
+          "食べ",
+          "食べない",
+          "食べて",
+          "食べる"
+        ],
+        "ない-stem + ずに. (する → せずに)",
+        "form form form",
+        "I went to school without eating breakfast.",
+        [
+          "ず follows the ない stem: 食べ + ず. 食べない ず is wrong.",
+          "The て-form doesn't take ず. Use 食べずに.",
+          "The dictionary form doesn't take ず. Use 食べずに."
+        ]
+      ],
+      [
+        "勉強（　　）試験を 受けた。",
+        [
+          "せずに",
+          "しずに",
+          "しないずに",
+          "さずに"
+        ],
+        "する → せずに.",
+        "form form form",
+        "I took the exam without studying.",
+        [
+          "する becomes せず. しず is a common mistake.",
+          "ない and ず both make it negative; use only ず: せずに.",
+          "さず is the form of a verb like 出す (出さず). する becomes せず."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜て以来",
+    "ever since",
+    [
+      [
+        "日本に（　　）以来、毎日 日本語で 日記を 書いて いる。",
+        [
+          "きて",
+          "くる",
+          "きた",
+          "こ"
+        ],
+        "て-form + 以来 = ever since.",
+        "form form form",
+        "Since coming to Japan, I've been writing a diary in Japanese every day.",
+        [
+          "以来 needs the て-form: 来て 以来.",
+          "The た-form doesn't take 以来 after a verb. Use 来て 以来.",
+          "こ is not a form that connects to 以来. Use 来て 以来."
+        ]
+      ],
+      [
+        "大学を 卒業して（　　）、彼とは 一度も 会って いない。",
+        [
+          "以来",
+          "うちに",
+          "とたん",
+          "最中"
+        ],
+        "Since graduating (and still now): て 以来. とたん needs た-form, 最中 needs ている / の.",
+        "nuance form form",
+        "I haven't seen him even once since we graduated from university.",
+        [
+          "うちに means \"while it lasts\". \"Since then until now\" is 以来.",
+          "とたん follows a た-form for one moment. \"Ever since\" is 以来.",
+          "最中 needs 〜て いる or N の. \"Ever since\" is 以来."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜次第",
+    "as soon as (then I will)",
+    [
+      [
+        "資料が でき（　　）、メールで お送りします。",
+        [
+          "{次第|しだい}",
+          "とたん",
+          "たびに",
+          "うちに"
+        ],
+        "Stem + {次第|しだい} = as soon as, then I'll act. とたん is for something that already happened unexpectedly.",
+        "form form form",
+        "As soon as the documents are ready, I'll send them to you by email.",
+        [
+          "とたん follows the た-form (できた とたん), and it's for an unexpected event. A promise is {次第|しだい}.",
+          "たびに follows the dictionary form and means \"every time\". \"As soon as\" is {次第|しだい}.",
+          "うちに follows 〜て いる, 〜ない or an adjective, not a stem. \"As soon as\" is {次第|しだい}."
+        ]
+      ],
+      [
+        "雨が（　　）{次第|しだい}、出発しましょう。",
+        [
+          "やみ",
+          "やんだ",
+          "やむ",
+          "やんで"
+        ],
+        "ます-stem + {次第|しだい}.",
+        "form form form",
+        "Let's set off as soon as the rain stops.",
+        [
+          "{次第|しだい} follows the stem: やみ {次第|しだい}. Not the た-form.",
+          "{次第|しだい} follows the stem, not the dictionary form.",
+          "{次第|しだい} follows the stem, not the て-form."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜ないうちに",
+    "before (something changes)",
+    [
+      [
+        "雨が 降らない（　　）、帰りましょう。",
+        [
+          "うちに",
+          "前に",
+          "たびに",
+          "とたん"
+        ],
+        "Before it starts: ない-form + うちに. 前に takes the dictionary form (降る 前に).",
+        "form nuance form",
+        "Let's go home before it starts raining.",
+        [
+          "前に follows the dictionary form (降る 前に), never 〜ない. With 降らない, use うちに.",
+          "たびに means \"every time\". Before it starts raining is うちに.",
+          "とたん follows a た-form. \"Before it rains\" is 降らない うちに."
+        ]
+      ],
+      [
+        "忘れない（　　）、メモして おこう。",
+        [
+          "うちに",
+          "までに",
+          "後で",
+          "ところで"
+        ],
+        "Before I forget: 忘れない うちに.",
+        "nuance nuance nuance",
+        "Let me make a note before I forget.",
+        [
+          "までに is a deadline and can't follow 〜ない. \"Before I forget\" is 忘れない うちに.",
+          "後で follows a た-form and means \"after\". Use うちに.",
+          "ところで means \"even if\" or \"by the way\". Use うちに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜てはじめて",
+    "only after / not until",
+    [
+      [
+        "病気に なって（　　）、{健康|けんこう}の 大切さが わかった。",
+        [
+          "はじめて",
+          "以来",
+          "ばかり",
+          "も"
+        ],
+        "Only once I got sick did I understand: て はじめて.",
+        "nuance nuance nuance",
+        "It was only after I got sick that I understood how important health is.",
+        [
+          "以来 needs a state that continues (わかって いる). A realization at that moment is 〜て はじめて.",
+          "〜て ばかり means \"only doing\". \"Only after I got sick\" is て はじめて.",
+          "〜ても means \"even if\". Getting sick is what made you understand: て はじめて."
+        ]
+      ],
+      [
+        "自分で 料理を して（　　）、母の 大変さを 知った。",
+        [
+          "はじめて",
+          "うちに",
+          "とたん",
+          "まま"
+        ],
+        "て はじめて. うちに, とたん and まま don't follow the て-form.",
+        "form form form",
+        "It was only when I cooked for myself that I realized how hard my mother had it.",
+        [
+          "うちに after a て-form needs いる (して いる うちに). \"Only when I did it\" is して はじめて.",
+          "とたん follows a た-form. \"Only after\" is て はじめて.",
+          "まま follows a た-form. \"Only after\" is て はじめて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Time",
+    "〜ぶりに",
+    "for the first time in (a while)",
+    [
+      [
+        "{久|ひさ}し（　　）に 会った 友だちは、全然 変わって いなかった。",
+        [
+          "ぶり",
+          "ごと",
+          "おき",
+          "まで"
+        ],
+        "After a long time: {久|ひさ}しぶりに.",
+        "nuance nuance nuance",
+        "The friend I met after a long time hadn't changed at all.",
+        [
+          "ごと is \"every\" (一日ごと). \"After a long time\" is {久|ひさ}しぶり.",
+          "おき is \"every other\" (一日おき). \"After a long time\" is ぶり.",
+          "まで is \"until\". \"After a long time\" is ぶり."
+        ]
+      ],
+      [
+        "高校を 卒業して から、10年（　　）に クラスメートと 会った。",
+        [
+          "ぶり",
+          "ほど",
+          "ずつ",
+          "うち"
+        ],
+        "For the first time in 10 years: 10年ぶりに.",
+        "nuance nuance nuance",
+        "I met my classmates for the first time in 10 years since we graduated from high school.",
+        [
+          "ほど is \"about\". \"For the first time in 10 years\" is 10年ぶり.",
+          "ずつ is \"each\". Use 10年ぶり.",
+          "うち is \"within\". Use 10年ぶり."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜につれて",
+    "as (one thing changes, so does another)",
+    [
+      [
+        "年を とる（　　）、体が 弱く なる。",
+        [
+          "につれて",
+          "によって",
+          "にとって",
+          "に 対して"
+        ],
+        "As you age: につれて (gradual change on both sides).",
+        "nuance nuance nuance",
+        "As you get older, your body gets weaker.",
+        [
+          "によって means \"by / depending on\". Change along with age is につれて.",
+          "にとって means \"for (someone)\". Use につれて.",
+          "に 対して means \"toward\". Use につれて."
+        ]
+      ],
+      [
+        "試験が 近づく（　　）、{緊張|きんちょう}して きた。",
+        [
+          "につれて",
+          "にかけて",
+          "において",
+          "に加えて"
+        ],
+        "As the exam gets closer: につれて.",
+        "nuance nuance nuance",
+        "As the exam got closer, I started to get nervous.",
+        [
+          "にかけて is a time or place range (from … to). \"As it gets closer\" is につれて.",
+          "において means \"in / at (a place)\". Use につれて.",
+          "に加えて means \"in addition to\". Use につれて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜にしたがって",
+    "as / in accordance with",
+    [
+      [
+        "山を 登る（　　）、空気が うすく なる。",
+        [
+          "に したがって",
+          "に 関して",
+          "に とって",
+          "を 通して"
+        ],
+        "As you climb: に したがって.",
+        "nuance nuance nuance",
+        "As you climb the mountain, the air gets thinner.",
+        [
+          "に 関して means \"about\". Change along with climbing is に したがって.",
+          "に とって means \"for (someone)\". Use に したがって.",
+          "を 通して means \"through\". Use に したがって."
+        ]
+      ],
+      [
+        "先生の 指示（　　）、{避難|ひなん}して ください。",
+        [
+          "に したがって",
+          "に 対して",
+          "に とって",
+          "に 関して"
+        ],
+        "Following instructions: N に したがって.",
+        "nuance nuance nuance",
+        "Please evacuate following your teacher's instructions.",
+        [
+          "に 対して means \"toward\". Following instructions is に したがって.",
+          "に とって means \"for (someone)\". Use に したがって.",
+          "に 関して means \"about\". Use に したがって."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Change & decision",
+    "〜とともに",
+    "together with / as",
+    [
+      [
+        "時代の 変化（　　）、言葉も 変わって いく。",
+        [
+          "と ともに",
+          "に 対して",
+          "に 関して",
+          "を はじめ"
+        ],
+        "Changing along with the times: と ともに.",
+        "nuance nuance nuance",
+        "Language changes along with the changing times.",
+        [
+          "に 対して means \"toward\". Changing along with the times is と ともに.",
+          "に 関して means \"about\". Use と ともに.",
+          "を はじめ means \"starting with\". Use と ともに."
+        ]
+      ],
+      [
+        "家族（　　）、新しい 年を 迎えた。",
+        [
+          "と ともに",
+          "に よって",
+          "に とって",
+          "を もとに"
+        ],
+        "Together with family: と ともに.",
+        "nuance nuance nuance",
+        "I welcomed the new year together with my family.",
+        [
+          "に よって means \"by\". \"Together with my family\" is と ともに.",
+          "に とって means \"for (someone)\". Use と ともに.",
+          "を もとに means \"based on\". Use と ともに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜にとって",
+    "for (from the viewpoint of)",
+    [
+      [
+        "私（　　）、家族が いちばん 大切です。",
+        [
+          "に とって",
+          "に 対して",
+          "に よって",
+          "に ついて"
+        ],
+        "From my point of view: に とって.",
+        "nuance nuance nuance",
+        "For me, family is the most important thing.",
+        [
+          "に 対して means \"toward\". \"For me\" (my view) is に とって.",
+          "に よって means \"by / depending on\". Use に とって.",
+          "に ついて means \"about\". Use に とって."
+        ]
+      ],
+      [
+        "この 問題は 子ども（　　）難しすぎる。",
+        [
+          "に とって",
+          "に ついて",
+          "と して",
+          "を 通して"
+        ],
+        "Too hard for children: に とって.",
+        "nuance nuance nuance",
+        "This problem is too difficult for children.",
+        [
+          "に ついて means \"about\". \"Too hard for children\" is に とって.",
+          "と して means \"as (a role)\". Use に とって.",
+          "を 通して means \"through\". Use に とって."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜について",
+    "about",
+    [
+      [
+        "日本の {歴史|れきし}（　　）レポートを 書いた。",
+        [
+          "に ついて",
+          "に とって",
+          "に よって",
+          "と して"
+        ],
+        "A report about: に ついて.",
+        "nuance nuance nuance",
+        "I wrote a report about Japanese history.",
+        [
+          "に とって means \"for (someone)\". A report about history is に ついて.",
+          "に よって means \"by\". Use に ついて.",
+          "と して means \"as\". Use に ついて."
+        ]
+      ],
+      [
+        "その 件（　　）は、後で 説明します。",
+        [
+          "に ついて",
+          "に とって",
+          "に 加えて",
+          "を はじめ"
+        ],
+        "About that matter: に ついて は.",
+        "nuance nuance nuance",
+        "I'll explain that matter later.",
+        [
+          "に とって means \"for (someone)\". \"About that matter\" is に ついて.",
+          "に 加えて means \"in addition to\". Use に ついて.",
+          "を はじめ means \"starting with\". Use に ついて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜に比べて",
+    "compared with",
+    [
+      [
+        "去年（　　）、今年は 雪が 多い。",
+        [
+          "に {比|くら}べて",
+          "に ついて",
+          "に とって",
+          "に よって"
+        ],
+        "Compared with last year: に {比|くら}べて.",
+        "nuance nuance nuance",
+        "Compared with last year, there's a lot of snow this year.",
+        [
+          "に ついて means \"about\". Comparing years is に {比|くら}べて.",
+          "に とって means \"for (someone)\". Use に {比|くら}べて.",
+          "に よって means \"by / depending on\". Use に {比|くら}べて."
+        ]
+      ],
+      [
+        "都会（　　）、いなかは 物の 値段が 安い。",
+        [
+          "に {比|くら}べて",
+          "に ついて",
+          "に とって",
+          "を はじめ"
+        ],
+        "Compared with the city: に {比|くら}べて.",
+        "nuance nuance nuance",
+        "Compared with the city, things are cheaper in the countryside.",
+        [
+          "に ついて means \"about\". Comparing city and countryside is に {比|くら}べて.",
+          "に とって means \"for (someone)\". Use に {比|くら}べて.",
+          "を はじめ means \"starting with\". Use に {比|くら}べて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜に代わって",
+    "in place of",
+    [
+      [
+        "病気の 社長（　　）、部長が あいさつした。",
+        [
+          "に 代わって",
+          "に とって",
+          "に よって",
+          "に 加えて"
+        ],
+        "On behalf of the president: に 代わって.",
+        "nuance nuance nuance",
+        "The department manager gave the speech in place of the president, who was sick.",
+        [
+          "に とって means \"for (someone)\". Speaking in someone's place is に 代わって.",
+          "に よって means \"by / depending on\". \"In place of the president\" is に 代わって.",
+          "に 加えて means \"in addition to\". The president didn't speak: に 代わって."
+        ]
+      ],
+      [
+        "最近は 人間（　　）、ロボットが 工場で 働いて いる。",
+        [
+          "に 代わって",
+          "に とって",
+          "に ついて",
+          "を 通して"
+        ],
+        "Robots instead of people: に 代わって.",
+        "nuance nuance nuance",
+        "These days, robots work in factories in place of people.",
+        [
+          "に とって means \"for (someone)\". Robots taking people's place is に 代わって.",
+          "に ついて means \"about\". Use に 代わって.",
+          "を 通して means \"through\". Use に 代わって."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜から〜にかけて",
+    "from … through (a range)",
+    [
+      [
+        "今夜から 明日（　　）、大雨に なるでしょう。",
+        [
+          "に かけて",
+          "までに",
+          "に わたって",
+          "に よって"
+        ],
+        "From tonight through tomorrow (loose range): から … に かけて. までに is a deadline.",
+        "nuance nuance nuance",
+        "From tonight through tomorrow, there will probably be heavy rain.",
+        [
+          "までに is a deadline. A range from tonight through tomorrow is に かけて.",
+          "に わたって needs a length (3日間に わたって), not one day. Use に かけて.",
+          "に よって means \"by / depending on\". Use に かけて."
+        ]
+      ],
+      [
+        "関東（　　）東北に かけて、{地震|じしん}が あった。",
+        [
+          "から",
+          "まで",
+          "に",
+          "を"
+        ],
+        "The pair is から … に かけて.",
+        "particle particle particle",
+        "There was an earthquake across the area from Kanto to Tohoku.",
+        [
+          "まで already means \"until\". The pair is から … に かけて.",
+          "に doesn't start a range. The pair is から … に かけて.",
+          "を doesn't start a range. The pair is から … に かけて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜にわたって",
+    "over (a whole span)",
+    [
+      [
+        "会議は 5時間（　　）続いた。",
+        [
+          "に わたって",
+          "に かけて",
+          "に {比|くら}べて",
+          "に 対して"
+        ],
+        "Over five full hours: に わたって.",
+        "nuance nuance nuance",
+        "The meeting went on for five hours.",
+        [
+          "に かけて is a range from one point to another. A length (5 hours) is に わたって.",
+          "に {比|くら}べて means \"compared with\". Use に わたって.",
+          "に 対して means \"toward\". Use に わたって."
+        ]
+      ],
+      [
+        "この 道は 10キロ（　　）、さくらが さいて いる。",
+        [
+          "に わたって",
+          "を はじめ",
+          "に とって",
+          "に よって"
+        ],
+        "Along the whole 10 km: に わたって.",
+        "nuance nuance nuance",
+        "Cherry blossoms are blooming along this road for 10 kilometers.",
+        [
+          "を はじめ means \"starting with\". A length (10 km) is に わたって.",
+          "に とって means \"for (someone)\". Use に わたって.",
+          "に よって means \"by / depending on\". Use に わたって."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜において",
+    "in / at (formal)",
+    [
+      [
+        "試合は 市民 体育館（　　）行われます。",
+        [
+          "に おいて",
+          "に とって",
+          "に ついて",
+          "に 対して"
+        ],
+        "Formal place: に おいて (= で).",
+        "nuance nuance nuance",
+        "The match will be held at the city gymnasium.",
+        [
+          "に とって means \"for (someone)\". A formal place is に おいて.",
+          "に ついて means \"about\". Use に おいて.",
+          "に 対して means \"toward\". Use に おいて."
+        ]
+      ],
+      [
+        "現代社会（　　）、インターネットは 欠かせない。",
+        [
+          "に おいて",
+          "を もとに",
+          "に 加えて",
+          "を 通して"
+        ],
+        "In modern society: に おいて.",
+        "nuance nuance nuance",
+        "In modern society, the internet is indispensable.",
+        [
+          "を もとに means \"based on\". \"In modern society\" is に おいて.",
+          "に 加えて means \"in addition to\". Use に おいて.",
+          "を 通して means \"through\". Use に おいて."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜向け",
+    "made for (a target group)",
+    [
+      [
+        "これは 外国人（　　）に 作られた ガイドブックです。",
+        [
+          "向け",
+          "向き",
+          "らしく",
+          "っぽく"
+        ],
+        "Made for a target group: 向け. 向き = happens to suit someone.",
+        "nuance form form",
+        "This is a guidebook made for foreigners.",
+        [
+          "向き means \"suited to\" (by nature). A guidebook made on purpose for someone is 向け.",
+          "らしく means \"typical of\". Made for someone is 向け.",
+          "っぽく means \"-ish\". Made for someone is 向け."
+        ]
+      ],
+      [
+        "{高齢者|こうれいしゃ}（　　）の サービスを 始める ことに なった。",
+        [
+          "向け",
+          "っぽい",
+          "だらけ",
+          "がち"
+        ],
+        "A service for older people: 向け.",
+        "nuance nuance nuance",
+        "It's been decided that we'll start a service for elderly people.",
+        [
+          "っぽい means \"-ish\". A service made for elderly people is 向け.",
+          "だらけ means \"full of\". Use 向け.",
+          "がち is a bad habit. Use 向け."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Relation & viewpoint",
+    "〜をきっかけに",
+    "triggered by / since (an event)",
+    [
+      [
+        "留学（　　）、自分の 国の ことを もっと 知りたく なった。",
+        [
+          "を きっかけに",
+          "に {比|くら}べて",
+          "に 加えて",
+          "に 代わって"
+        ],
+        "Studying abroad was the trigger: を きっかけに.",
+        "nuance nuance nuance",
+        "Studying abroad made me want to know more about my own country.",
+        [
+          "に {比|くら}べて means \"compared with\". \"Studying abroad made me want\" is を きっかけに.",
+          "に 加えて means \"in addition to\". Use を きっかけに.",
+          "に 代わって means \"in place of\". Use を きっかけに."
+        ]
+      ],
+      [
+        "ある 映画を 見た ことを（　　）、日本語の 勉強を 始めた。",
+        [
+          "きっかけに",
+          "もとに",
+          "はじめ",
+          "中心に"
+        ],
+        "A film started it: を きっかけに.",
+        "nuance nuance nuance",
+        "Seeing a certain film was what got me started studying Japanese.",
+        [
+          "を もとに means \"based on (a source)\". What started it is きっかけに.",
+          "を はじめ is \"starting with\" in a list. What started it is きっかけに.",
+          "を 中心に means \"centered on\". Use きっかけに."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜おそれがある",
+    "there is a risk of",
+    [
+      [
+        "台風が 近づいて いるので、川が あふれる（　　）。",
+        [
+          "おそれが ある",
+          "つもりだ",
+          "ように なる",
+          "わけが ない"
+        ],
+        "Risk of something bad: おそれが ある.",
+        "nuance nuance nuance",
+        "A typhoon is approaching, so the river may overflow.",
+        [
+          "つもりだ is a person's plan. A river doesn't plan. A danger is おそれが ある.",
+          "ように なる is a gradual change. A possible danger is おそれが ある.",
+          "わけが ない means \"no way\". The typhoon makes it likely: おそれが ある."
+        ]
+      ],
+      [
+        "この 薬は 眠く なる（　　）が あるので、運転の 前に 飲まないで ください。",
+        [
+          "おそれ",
+          "はず",
+          "わけ",
+          "つもり"
+        ],
+        "Possible bad effect: おそれが ある.",
+        "nuance nuance nuance",
+        "This medicine may make you sleepy, so please don't take it before driving.",
+        [
+          "はずが ある is not a pattern. A possible bad effect is おそれが ある.",
+          "わけが ある means \"there is a reason\". A possible bad effect is おそれ.",
+          "つもりが ある is a person's plan. Medicine doesn't plan. Use おそれ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜に決まっている",
+    "surely / of course",
+    [
+      [
+        "あんなに 練習したんだから、勝つ（　　）。",
+        [
+          "に 決まって いる",
+          "わけが ない",
+          "はずが ない",
+          "ことは ない"
+        ],
+        "Strong, confident guess: に 決まって いる.",
+        "nuance nuance nuance",
+        "We practiced so hard, so of course we'll win.",
+        [
+          "わけが ない means \"no way\". After practicing so hard, it's the opposite: に 決まって いる.",
+          "はずが ない means \"can't be\". Use に 決まって いる.",
+          "ことは ない means \"no need\". \"Of course we'll win\" is に 決まって いる."
+        ]
+      ],
+      [
+        "こんな 時間に 電話したら、{迷惑|めいわく}に（　　）。",
+        [
+          "決まって いる",
+          "違って いる",
+          "決めて いる",
+          "決まった"
+        ],
+        "Fixed form: に 決まって いる.",
+        "form form form",
+        "If you call at this hour, of course it'll be a nuisance.",
+        [
+          "違って いる means \"is different / wrong\". \"Of course\" is に 決まって いる.",
+          "決めて いる means \"someone has decided\". \"Of course\" is 決まって いる.",
+          "決まった is past \"was decided\". The pattern is に 決まって いる."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Guess & appearance",
+    "〜ような気がする",
+    "I have a feeling that",
+    [
+      [
+        "あの 人に どこかで 会った（　　）。",
+        [
+          "ような 気がする",
+          "ように 気がする",
+          "そうな 気がする",
+          "らしい 気がする"
+        ],
+        "Before 気が する: ような.",
+        "form form form",
+        "I feel like I've met that person somewhere.",
+        [
+          "気が する takes a noun form: ような. ように can't come before 気.",
+          "そう can't follow a た-form (会った). Use ような 気が する.",
+          "らしい 気 is not a pattern. Use ような 気が する."
+        ]
+      ],
+      [
+        "明日は 雨が 降る（　　）気が する。",
+        [
+          "ような",
+          "ように",
+          "そうに",
+          "ことに"
+        ],
+        "Feeling: dictionary form + ような 気が する.",
+        "form form form",
+        "I have a feeling it's going to rain tomorrow.",
+        [
+          "ように can't come before 気. Use ような 気が する.",
+          "そうに can't come before 気. Use ような 気が する.",
+          "ことに can't come before 気. Use ような 気が する."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜一方で",
+    "on the other hand",
+    [
+      [
+        "この 仕事は 給料が いい（　　）、残業が 多い。",
+        [
+          "一方で",
+          "うちに",
+          "たびに",
+          "とたん"
+        ],
+        "Two sides of one thing: 一方で.",
+        "nuance nuance nuance",
+        "This job pays well, but on the other hand there's a lot of overtime.",
+        [
+          "うちに means \"while it lasts\". \"But on the other hand\" is 一方で.",
+          "たびに means \"every time\". Use 一方で.",
+          "とたん follows a た-form for one moment. Use 一方で."
+        ]
+      ],
+      [
+        "スマホは 便利な（　　）、使いすぎると 体に 悪い。",
+        [
+          "一方で",
+          "くせに",
+          "おかげで",
+          "ために"
+        ],
+        "Convenient, but on the other hand: 一方で.",
+        "nuance nuance nuance",
+        "Smartphones are convenient, but on the other hand, using them too much is bad for your health.",
+        [
+          "くせに criticizes a person. Two sides of a thing is 一方で.",
+          "おかげで is \"thanks to\". Being bad for you is the other side: 一方で.",
+          "ために means \"because / for\". Use 一方で."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜反面",
+    "while (on the other side)",
+    [
+      [
+        "一人暮らしは 自由な（　　）、さびしい ときも ある。",
+        [
+          "反面",
+          "くせに",
+          "おかげで",
+          "ために"
+        ],
+        "Good side and bad side: 反面.",
+        "nuance nuance nuance",
+        "Living alone gives you freedom, but on the other hand, there are times when it's lonely.",
+        [
+          "くせに criticizes a person. Two sides of living alone is 反面.",
+          "おかげで is \"thanks to\". Loneliness isn't good: 反面.",
+          "ために means \"because\". Freedom doesn't cause loneliness here: 反面."
+        ]
+      ],
+      [
+        "彼は 優しい（　　）、きびしい ところも ある。",
+        [
+          "反面",
+          "うえに",
+          "ために",
+          "くせに"
+        ],
+        "Kind, but also strict: 反面.",
+        "nuance nuance nuance",
+        "He's kind, but on the other hand he has a strict side too.",
+        [
+          "うえに adds a point in the same direction. Kind and strict are opposite sides: 反面.",
+          "ために means \"because\". Use 反面.",
+          "くせに criticizes \"even though\". Use 反面."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜ものの",
+    "although",
+    [
+      [
+        "車の {免許|めんきょ}は 取った（　　）、ほとんど 運転して いない。",
+        [
+          "ものの",
+          "もので",
+          "ものだ",
+          "ものか"
+        ],
+        "Although I got it: ものの.",
+        "form form form",
+        "I got my driver's license, but I hardly ever drive.",
+        [
+          "もので gives a reason. \"I got it, but I hardly drive\" is ものの.",
+          "ものだ ends a sentence. Before a second clause, \"although\" is ものの.",
+          "ものか is \"as if!\". Use ものの."
+        ]
+      ],
+      [
+        "買うと 言った（　　）、まだ 買って いない。",
+        [
+          "ものの",
+          "うえに",
+          "ばかりに",
+          "おかげで"
+        ],
+        "Said I'd buy it, but haven't: ものの.",
+        "nuance nuance nuance",
+        "I said I would buy it, but I still haven't bought it.",
+        [
+          "うえに adds another point. Saying and not doing clash: ものの.",
+          "ばかりに is \"just because\" with a bad result. Use ものの.",
+          "おかげで is \"thanks to\". Use ものの."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Contrast",
+    "〜ながら（も）",
+    "although / while",
+    [
+      [
+        "残念（　　）、今回は 参加できません。",
+        [
+          "ながら",
+          "ほど",
+          "だけ",
+          "ばかり"
+        ],
+        "Set phrase: 残念ながら = unfortunately.",
+        "nuance nuance nuance",
+        "Unfortunately, I can't take part this time.",
+        [
+          "ほど shows degree. The set phrase \"unfortunately\" is 残念ながら.",
+          "だけ means \"only\". The set phrase is 残念ながら.",
+          "ばかり means \"only\". The set phrase is 残念ながら."
+        ]
+      ],
+      [
+        "彼は {貧乏|びんぼう}（　　）も、幸せに 暮らして いる。",
+        [
+          "ながら",
+          "ので",
+          "ために",
+          "うえに"
+        ],
+        "Although poor: N ながらも. ので / ために / うえに would need な or の.",
+        "form form form",
+        "Even though he is poor, he lives happily.",
+        [
+          "ので can't take も, and gives a reason. \"Though poor\" is {貧乏|びんぼう}ながらも.",
+          "ために can't take も here. \"Though poor\" is ながらも.",
+          "うえに adds, and can't follow a noun directly. \"Though poor\" is ながらも."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜ことから",
+    "from the fact that",
+    [
+      [
+        "この 町は さくらが 多い（　　）、「さくら町」と 呼ばれて いる。",
+        [
+          "ことから",
+          "ことには",
+          "ことでも",
+          "ことか"
+        ],
+        "Origin of a name: ことから.",
+        "nuance nuance nuance",
+        "This town has a lot of cherry trees, which is why it's called \"Sakura Town.\"",
+        [
+          "ことには is \"to my (surprise)\" (おどろいた ことに). A reason for a name is ことから.",
+          "ことでも means \"even with\". Use ことから.",
+          "ことか is an exclamation (どんなに … ことか). Use ことから."
+        ]
+      ],
+      [
+        "ゆかが ぬれて いた（　　）、だれかが 水を こぼしたと わかった。",
+        [
+          "ことから",
+          "ことに",
+          "ことは",
+          "ことか"
+        ],
+        "Conclusion from a clue: ことから.",
+        "nuance nuance nuance",
+        "From the fact that the floor was wet, I knew someone had spilled water.",
+        [
+          "ことに is \"to my (feeling)\". Judging from a fact is ことから.",
+          "ことは is a topic. Use ことから.",
+          "ことか is an exclamation. Use ことから."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜からには",
+    "now that / since (so I must)",
+    [
+      [
+        "約束した（　　）、必ず 守ります。",
+        [
+          "からには",
+          "くせに",
+          "わりに",
+          "ばかりに"
+        ],
+        "Since I promised, I will: からには.",
+        "nuance nuance nuance",
+        "Now that I've promised, I'll definitely keep it.",
+        [
+          "くせに criticizes \"even though\". \"Now that I've promised\" is からには.",
+          "わりに means \"considering\". Use からには.",
+          "ばかりに is \"just because\" with a bad result. Use からには."
+        ]
+      ],
+      [
+        "留学する（　　）、その 国の 言葉を しっかり 勉強する べきだ。",
+        [
+          "からには",
+          "のに",
+          "わりに",
+          "ばかりに"
+        ],
+        "Now that you're going, you should: からには … べきだ.",
+        "nuance nuance nuance",
+        "If you're going to study abroad, you should study that country's language properly.",
+        [
+          "のに is \"even though\". Studying abroad and studying the language go together: からには.",
+          "わりに means \"considering\". Use からには.",
+          "ばかりに is \"just because\" with a bad result. Use からには."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜ものだから / 〜もので",
+    "because (excuse)",
+    [
+      [
+        "電車が 遅れた（　　）、遅刻して しまいました。",
+        [
+          "ものだから",
+          "くせに",
+          "わりに",
+          "のに"
+        ],
+        "Excuse: ものだから.",
+        "nuance nuance nuance",
+        "The train was late, so I ended up being late.",
+        [
+          "くせに criticizes \"even though\". An excuse is ものだから.",
+          "わりに means \"considering\". Use ものだから.",
+          "のに is \"even though\". The train caused it: ものだから."
+        ]
+      ],
+      [
+        "あまりに おいしかった（　　）、食べすぎて しまった。",
+        [
+          "もので",
+          "のに",
+          "くせに",
+          "けれど"
+        ],
+        "Excuse, softer: もので.",
+        "nuance nuance nuance",
+        "It was so delicious that I ate too much.",
+        [
+          "のに is \"even though\". Delicious food made you eat too much: もので.",
+          "くせに criticizes a person. Use もので.",
+          "けれど is \"but\". Use もので."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Cause & reason",
+    "〜のだから",
+    "since (so obviously)",
+    [
+      [
+        "自分で 決めた（　　）、最後まで がんばりなさい。",
+        [
+          "のだから",
+          "のに",
+          "くせに",
+          "わりに"
+        ],
+        "You decided it, so: のだから + advice.",
+        "nuance nuance nuance",
+        "You decided this yourself, so keep going until the end.",
+        [
+          "のに is \"even though\". Your own choice is the reason: のだから.",
+          "くせに criticizes \"even though\". Use のだから.",
+          "わりに means \"considering\". Use のだから."
+        ]
+      ],
+      [
+        "もう 大人な（　　）、自分の ことは 自分で しなさい。",
+        [
+          "のだから",
+          "のに",
+          "ものの",
+          "けれど"
+        ],
+        "You're an adult, so: な-adjective / noun + な のだから.",
+        "nuance nuance nuance",
+        "You're an adult now, so do your own things by yourself.",
+        [
+          "のに is \"even though\". Being an adult is the reason: のだから.",
+          "ものの is \"although\". Use のだから.",
+          "けれど is \"but\", and な can't come before it. Use のだから."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜ないことには",
+    "unless (first)",
+    [
+      [
+        "実際に（　　）ことには、いいか 悪いか わからない。",
+        [
+          "使わない",
+          "使う",
+          "使った",
+          "使って"
+        ],
+        "ない-form + ことには + negative result.",
+        "form form form",
+        "Unless you actually use it, you can't tell whether it's good or bad.",
+        [
+          "ことには needs a negative here: 使わない ことには (unless). 使う is positive.",
+          "使った ことには is not the pattern. Unless is ない ことには.",
+          "The て-form doesn't connect to ことには. Use 使わない."
+        ]
+      ],
+      [
+        "お金が（　　）ことには、旅行に 行けない。",
+        [
+          "ない",
+          "ある",
+          "あった",
+          "あって"
+        ],
+        "Without money first, can't go: ない ことには.",
+        "form form form",
+        "Without money, I can't go on a trip.",
+        [
+          "\"Unless\" needs the negative: ない ことには. ある is positive.",
+          "The pattern is ない ことには. あった is positive and past.",
+          "The て-form doesn't connect to ことには. Use ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜場合は",
+    "in case of",
+    [
+      [
+        "雨の（　　）は、試合は 中止です。",
+        [
+          "場合",
+          "ところ",
+          "わけ",
+          "せい"
+        ],
+        "In case of rain: の 場合は.",
+        "nuance nuance nuance",
+        "In case of rain, the match will be cancelled.",
+        [
+          "ところ is about a point in time or a place. \"In case of\" is 場合.",
+          "わけ means \"reason\". Use 場合.",
+          "せい blames a cause. Use 場合."
+        ]
+      ],
+      [
+        "カードを なくした（　　）、すぐに {連絡|れんらく}して ください。",
+        [
+          "場合は",
+          "ばかりに",
+          "わりに",
+          "くせに"
+        ],
+        "If you lose it: た 場合は.",
+        "nuance nuance nuance",
+        "If you lose your card, please contact us right away.",
+        [
+          "ばかりに is \"just because\" with a bad result. \"If you lose it\" is 場合は.",
+          "わりに means \"considering\". Use 場合は.",
+          "くせに criticizes \"even though\". Use 場合は."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Condition",
+    "〜としても",
+    "even if (supposing)",
+    [
+      [
+        "たとえ 飛行機で 行った（　　）、間に合わないだろう。",
+        [
+          "としても",
+          "としたら",
+          "とすれば",
+          "とすると"
+        ],
+        "Even supposing: としても (pairs with たとえ).",
+        "form form form",
+        "Even if we went by plane, we probably wouldn't make it in time.",
+        [
+          "たとえ pairs with 〜ても or としても, not としたら (a normal \"if\").",
+          "たとえ pairs with としても, not とすれば.",
+          "たとえ pairs with としても, not とすると."
+        ]
+      ],
+      [
+        "失敗する（　　）、やって みたい。",
+        [
+          "としても",
+          "としたら",
+          "ところで",
+          "ために"
+        ],
+        "Even if I fail: としても.",
+        "nuance nuance nuance",
+        "Even if I fail, I want to give it a try.",
+        [
+          "としたら is a normal \"if\". \"Even if I fail, I want to try\" is としても.",
+          "ところで means \"even if (no use)\" and follows the た-form. Use としても.",
+          "ために means \"in order to\". Nobody tries in order to fail. Use としても."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜とは限らない",
+    "not necessarily",
+    [
+      [
+        "高い ものが いつも いい（　　）。安くて いい ものも ある。",
+        [
+          "とは 限らない",
+          "に 違いない",
+          "に 決まって いる",
+          "はずだ"
+        ],
+        "Not always true: とは 限らない (often with いつも / 必ずしも).",
+        "polar polar polar",
+        "Expensive things aren't always good. There are cheap good things too.",
+        [
+          "に 違いない means \"surely\". The next sentence shows the opposite: とは 限らない.",
+          "に 決まって いる means \"of course\". The next sentence shows the opposite: とは 限らない.",
+          "はずだ is an expectation. The next sentence denies it: とは 限らない."
+        ]
+      ],
+      [
+        "日本人が みんな {敬語|けいご}が 上手だ（　　）。にがてな 人も 多い。",
+        [
+          "とは 限らない",
+          "に 違いない",
+          "わけだ",
+          "ことだ"
+        ],
+        "Not necessarily: とは 限らない.",
+        "nuance nuance nuance",
+        "Not all Japanese people are good at keigo. Many find it hard.",
+        [
+          "に 違いない means \"surely\". The next sentence says many aren't good: とは 限らない.",
+          "わけだ means \"no wonder\". Use とは 限らない.",
+          "ことだ gives advice. Use とは 限らない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜に限らず",
+    "not only (but also)",
+    [
+      [
+        "この ゲームは 子ども（　　）、大人にも 人気が ある。",
+        [
+          "に 限らず",
+          "に とって",
+          "に よって",
+          "に 関して"
+        ],
+        "Not limited to children: に 限らず.",
+        "nuance nuance nuance",
+        "This game is popular not only with children but with adults too.",
+        [
+          "に とって means \"for (someone)\". \"Not only children\" is に 限らず.",
+          "に よって means \"by / depending on\". Use に 限らず.",
+          "に 関して means \"about\". Use に 限らず."
+        ]
+      ],
+      [
+        "休みの 日（　　）、彼は 毎日 走って いる。",
+        [
+          "に 限らず",
+          "に {比|くら}べて",
+          "に 対して",
+          "を もとに"
+        ],
+        "Not only on days off: に 限らず.",
+        "nuance nuance nuance",
+        "He runs every day, not only on his days off.",
+        [
+          "に {比|くら}べて means \"compared with\". \"Not only on days off\" is に 限らず.",
+          "に 対して means \"toward\". Use に 限らず.",
+          "を もとに means \"based on\". Use に 限らず."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜ばかりでなく",
+    "not only",
+    [
+      [
+        "彼女は 歌が 上手な（　　）、ダンスも うまい。",
+        [
+          "ばかりでなく",
+          "ばかりに",
+          "だけに",
+          "しか"
+        ],
+        "Not only … but also: ばかりでなく … も.",
+        "nuance nuance nuance",
+        "She's not only a good singer but also a good dancer.",
+        [
+          "ばかりに is \"just because\" with a bad result. \"Not only … but also\" is ばかりでなく.",
+          "だけに means \"precisely because\". Use ばかりでなく.",
+          "しか needs a negative. Use ばかりでなく."
+        ]
+      ],
+      [
+        "この 本は 子ども（　　）大人にも 読まれて いる。",
+        [
+          "ばかりでなく",
+          "ばかりに",
+          "しか",
+          "こそ"
+        ],
+        "Not only children: ばかりでなく.",
+        "nuance nuance nuance",
+        "This book is read not only by children but by adults too.",
+        [
+          "ばかりに is \"just because\" with a bad result. Use ばかりでなく.",
+          "しか needs a negative. Use ばかりでなく.",
+          "こそ stresses a thing. Use ばかりでなく."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Emphasis & limit",
+    "〜だけ（as much as）",
+    "as much as",
+    [
+      [
+        "好きな（　　）食べて ください。",
+        [
+          "だけ",
+          "しか",
+          "ばかり",
+          "こそ"
+        ],
+        "As much as you like: 好きな だけ.",
+        "polar nuance nuance",
+        "Please eat as much as you like.",
+        [
+          "しか needs a negative verb. \"As much as you like\" is だけ.",
+          "ばかり means \"nothing but\". Use だけ.",
+          "こそ stresses a thing. Use だけ."
+        ]
+      ],
+      [
+        "できる（　　）早く 返事を ください。",
+        [
+          "だけ",
+          "しか",
+          "ほど",
+          "こそ"
+        ],
+        "As soon as possible: できるだけ.",
+        "polar nuance nuance",
+        "Please reply as soon as you can.",
+        [
+          "しか needs a negative verb. \"As soon as possible\" is できるだけ.",
+          "ほど is degree, and できる ほど isn't the set phrase. Use できるだけ.",
+          "こそ stresses a thing. Use できるだけ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜しかない / 〜ほかない",
+    "have no choice but to",
+    [
+      [
+        "最終電車に 乗り遅れた。歩いて 帰る（　　）。",
+        [
+          "しか ない",
+          "ことは ない",
+          "わけが ない",
+          "はずが ない"
+        ],
+        "No other option: しか ない.",
+        "nuance nuance nuance",
+        "I missed the last train. I have no choice but to walk home.",
+        [
+          "ことは ない means \"no need\". Walking is the only choice: しか ない.",
+          "わけが ない means \"no way\". Use しか ない.",
+          "はずが ない means \"can't be\". Use しか ない."
+        ]
+      ],
+      [
+        "だれも 手伝って くれないなら、自分で やる（　　）。",
+        [
+          "ほか ない",
+          "ほど ない",
+          "だけ ない",
+          "ばかり ない"
+        ],
+        "No choice: ほか ない (= しか ない).",
+        "form form form",
+        "If nobody will help me, I have no choice but to do it myself.",
+        [
+          "ほど ない is not a pattern. \"No choice but\" is ほか ない.",
+          "だけ ない is not a pattern. Use ほか ない.",
+          "ばかり ない is not a pattern. Use ほか ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜ずにはいられない",
+    "can't help doing",
+    [
+      [
+        "その 映画を 見て、{泣|な}か（　　）いられなかった。",
+        [
+          "ずには",
+          "なければ",
+          "なくては",
+          "ないと"
+        ],
+        "Couldn't help crying: {泣|な}かずには いられなかった.",
+        "form form form",
+        "Watching that film, I couldn't help crying.",
+        [
+          "なければ is part of \"must\" (なければ ならない). \"Couldn't help\" is ずには いられない.",
+          "なくては is part of \"must\". \"Couldn't help\" is ずには いられない.",
+          "ないと is \"if not / must\". \"Couldn't help\" is ずには いられない."
+        ]
+      ],
+      [
+        "困って いる 人を 見ると、助け（　　）。",
+        [
+          "ずには いられない",
+          "ずには いけない",
+          "ずには いられる",
+          "ずには ならない"
+        ],
+        "Fixed form: ずには いられない.",
+        "form polar form",
+        "When I see someone in trouble, I can't help helping them.",
+        [
+          "いけない doesn't follow ずには. The fixed form is ずには いられない.",
+          "The pattern must be negative: ずには いられない.",
+          "ならない doesn't follow ずには. Use いられない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜てしょうがない",
+    "terribly / can't stand it",
+    [
+      [
+        "試験の {結果|けっか}が 心配で（　　）。",
+        [
+          "しょうがない",
+          "かまわない",
+          "いられない",
+          "すまない"
+        ],
+        "Extremely worried: て しょうがない.",
+        "colloc colloc colloc",
+        "I'm terribly worried about my exam results.",
+        [
+          "かまわない means \"it's fine\" and needs も. \"Terribly worried\" is 心配で しょうがない.",
+          "いられない follows 〜ずには. After 心配で, use しょうがない.",
+          "すまない means \"sorry\". Use しょうがない."
+        ]
+      ],
+      [
+        "昨日 あまり 寝て いないので、眠くて（　　）。",
+        [
+          "仕方が ない",
+          "仕方が ある",
+          "仕方を する",
+          "仕方で ない"
+        ],
+        "Same meaning, more formal: て 仕方が ない.",
+        "form form form",
+        "I didn't sleep much last night, so I'm terribly sleepy.",
+        [
+          "The set phrase is negative: 仕方が ない.",
+          "仕方を する is not a phrase. Use 仕方が ない.",
+          "仕方で ない is not a phrase. Use 仕方が ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜てごらん",
+    "try doing (to a junior)",
+    [
+      [
+        "この ケーキ、おいしいよ。食べて（　　）。",
+        [
+          "ごらん",
+          "ござる",
+          "まいる",
+          "おる"
+        ],
+        "Gentle \"try it\": て ごらん (to children, juniors).",
+        "situ situ situ",
+        "This cake is delicious. Try some.",
+        [
+          "ござる is a polite \"be\", not \"try\". Gentle \"try it\" is 食べて ごらん.",
+          "まいる is humble \"go / come\" for yourself. Inviting someone to try is ごらん.",
+          "おる is humble \"be\". \"Try it\" is ごらん."
+        ]
+      ],
+      [
+        "わからなかったら、もう 一度 自分で 考えて（　　）なさい。",
+        [
+          "ごらん",
+          "みて",
+          "いて",
+          "くれ"
+        ],
+        "て ごらんなさい.",
+        "form form form",
+        "If you don't understand, try thinking about it once more on your own.",
+        [
+          "なさい attaches to a stem: 考えて みなさい. みて なさい is wrong. Or use ごらんなさい.",
+          "いて なさい isn't a form, and it doesn't mean \"try\". Use ごらんなさい.",
+          "くれ is a rough \"give me\". It can't take なさい. Use ごらんなさい."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Advice & feeling",
+    "〜こと（rules）",
+    "must (written rules)",
+    [
+      [
+        "試験中は、ケータイの {電源|でんげん}を 切る（　　）。",
+        [
+          "こと",
+          "もの",
+          "わけ",
+          "はず"
+        ],
+        "Rules and instructions end in こと.",
+        "nuance nuance nuance",
+        "During the exam, turn off your mobile phone.",
+        [
+          "ものだ is a general truth. A written rule ends with こと.",
+          "わけ means \"reason\". A rule is こと.",
+          "はず is an expectation. A rule is こと."
+        ]
+      ],
+      [
+        "レポートは 金曜日までに 出す（　　）。",
+        [
+          "こと",
+          "もの",
+          "ところ",
+          "ため"
+        ],
+        "Instruction: dictionary form + こと.",
+        "nuance nuance nuance",
+        "Reports must be handed in by Friday.",
+        [
+          "もの is a general truth. A written rule is こと.",
+          "ところ is about timing. A rule is こと.",
+          "ため is a purpose. A rule is こと."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜によると",
+    "according to",
+    [
+      [
+        "ニュース（　　）、明日から 電気代が 上がる そうだ。",
+        [
+          "に よると",
+          "に とって",
+          "に 対して",
+          "を はじめ"
+        ],
+        "Source of hearsay: に よると … そうだ.",
+        "nuance nuance nuance",
+        "According to the news, electricity bills are going up from tomorrow.",
+        [
+          "に とって means \"for (someone)\". A source is に よると.",
+          "に 対して means \"toward\". Use に よると.",
+          "を はじめ means \"starting with\". Use に よると."
+        ]
+      ],
+      [
+        "天気予報（　　）、今夜は 雪が 降る らしい。",
+        [
+          "に よれば",
+          "に とって",
+          "に {比|くら}べて",
+          "に 関して"
+        ],
+        "に よれば = に よると.",
+        "nuance nuance nuance",
+        "According to the weather forecast, it's going to snow tonight.",
+        [
+          "に とって means \"for (someone)\". A source is に よれば.",
+          "に {比|くら}べて means \"compared with\". Use に よれば.",
+          "に 関して means \"about\". Use に よれば."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜とか（hearsay）",
+    "I heard (vague)",
+    [
+      [
+        "となりの 田中さん、来月 {結婚|けっこん}する（　　）。",
+        [
+          "とか",
+          "こそ",
+          "さえ",
+          "しか"
+        ],
+        "Vague hearsay: とか.",
+        "nuance nuance nuance",
+        "I heard that Mr. Tanaka next door is getting married next month.",
+        [
+          "こそ stresses a thing. Hearsay is とか.",
+          "さえ means \"even\". Use とか.",
+          "しか needs a negative. Use とか."
+        ]
+      ],
+      [
+        "あの 店、今度 閉店する（　　）よ。",
+        [
+          "とか",
+          "こそ",
+          "しか",
+          "まで"
+        ],
+        "I heard it's closing: とか.",
+        "nuance nuance nuance",
+        "I heard that shop is closing down soon.",
+        [
+          "こそ stresses a thing. Hearsay is とか.",
+          "しか needs a negative. Use とか.",
+          "まで means \"even / until\". Use とか."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜ということだ",
+    "I was told / it is said",
+    [
+      [
+        "部長は 今日 休む（　　）。(I was told)",
+        [
+          "と いう ことだ",
+          "と いう ものだ",
+          "と いう はずだ",
+          "と いう ところだ"
+        ],
+        "Passing on information: と いう ことだ.",
+        "nuance nuance nuance",
+        "I was told that the department manager is taking today off.",
+        [
+          "と いう ものだ is a general truth. Hearsay is と いう ことだ.",
+          "と いう はずだ is not a pattern. Use と いう ことだ.",
+          "と いう ところだ is \"about (roughly)\". Hearsay is と いう ことだ."
+        ]
+      ],
+      [
+        "新聞に よると、来年 新しい 駅が できる（　　）。",
+        [
+          "と いう ことだ",
+          "と いう はずだ",
+          "と いう ところだ",
+          "と いう ものか"
+        ],
+        "に よると … と いう ことだ.",
+        "nuance nuance nuance",
+        "According to the newspaper, a new station will open next year.",
+        [
+          "と いう はずだ is not a pattern. Hearsay is と いう ことだ.",
+          "と いう ところだ is \"roughly\". Use と いう ことだ.",
+          "と いう ものか is not a pattern. Use と いう ことだ."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜とは（definition）",
+    "means / is",
+    [
+      [
+        "「デジカメ」（　　）、デジタルカメラの ことです。",
+        [
+          "とは",
+          "とか",
+          "として",
+          "こそ"
+        ],
+        "Definition: X とは Y の ことだ.",
+        "nuance nuance nuance",
+        "\"Dejikame\" means a digital camera.",
+        [
+          "とか lists examples or hearsay. A definition is とは.",
+          "として means \"as (a role)\". A definition is とは … の ことだ.",
+          "こそ stresses a thing. A definition is とは."
+        ]
+      ],
+      [
+        "親友（　　）、何でも 話せる 友だちの ことだ。",
+        [
+          "とは",
+          "には",
+          "では",
+          "とも"
+        ],
+        "Definition: とは … の ことだ.",
+        "particle particle particle",
+        "A best friend is a friend you can tell anything to.",
+        [
+          "には marks a place or person. A definition is とは.",
+          "では marks a place or \"in\". A definition is とは.",
+          "とも means \"with / also\". A definition is とは."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Quoting & hearsay",
+    "〜といえば",
+    "speaking of / when it comes to",
+    [
+      [
+        "日本の 食べ物（　　）、やはり すしでしょう。",
+        [
+          "と いえば",
+          "に よれば",
+          "に とって",
+          "に しては"
+        ],
+        "The first thing that comes to mind: と いえば.",
+        "nuance nuance nuance",
+        "Speaking of Japanese food, it has to be sushi.",
+        [
+          "に よれば is a source (according to). Bringing up a topic is と いえば.",
+          "に とって means \"for (someone)\". Use と いえば.",
+          "に しては means \"considering\". Use と いえば."
+        ]
+      ],
+      [
+        "夏（　　）、花火ですね。",
+        [
+          "と いえば",
+          "に 加えて",
+          "に 代わって",
+          "を 通して"
+        ],
+        "Speaking of summer: と いえば.",
+        "nuance nuance nuance",
+        "Speaking of summer, it's fireworks, isn't it?",
+        [
+          "に 加えて means \"in addition to\". Bringing up a topic is と いえば.",
+          "に 代わって means \"in place of\". Use と いえば.",
+          "を 通して means \"through\". Use と いえば."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜ほど〜ない",
+    "not as … as",
+    [
+      [
+        "今年の 夏は 去年（　　）暑くない。",
+        [
+          "ほど",
+          "だけ",
+          "まで",
+          "こそ"
+        ],
+        "Not as hot as last year: ほど … ない.",
+        "nuance nuance nuance",
+        "This summer isn't as hot as last summer.",
+        [
+          "だけ means \"only\". \"Not as … as\" is ほど + negative.",
+          "まで means \"even / until\". Use ほど.",
+          "こそ stresses a thing. Use ほど."
+        ]
+      ],
+      [
+        "この 試験は 思った（　　）難しく なかった。",
+        [
+          "ほど",
+          "だけ",
+          "ばかり",
+          "しか"
+        ],
+        "Not as hard as I thought: ほど … ない.",
+        "nuance nuance nuance",
+        "This exam wasn't as difficult as I'd expected.",
+        [
+          "だけ means \"only\". \"Not as … as I thought\" is ほど.",
+          "ばかり means \"only\". Use ほど.",
+          "思った しか isn't a pattern, and しか needs a negative. \"Not as … as I thought\" is ほど."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜ば〜ほど",
+    "the more … the more",
+    [
+      [
+        "練習すれば（　　）、上手に なる。",
+        [
+          "する ほど",
+          "した ほど",
+          "して ほど",
+          "すれ ほど"
+        ],
+        "ば-form + dictionary form + ほど.",
+        "form form form",
+        "The more you practice, the better you get.",
+        [
+          "The second verb is the dictionary form: すれば する ほど. Not した.",
+          "The て-form doesn't come before ほど. Use する ほど.",
+          "すれ is not a form before ほど. Use する ほど."
+        ]
+      ],
+      [
+        "この 本は 読めば 読む（　　）おもしろく なる。",
+        [
+          "ほど",
+          "こそ",
+          "まで",
+          "しか"
+        ],
+        "The more you read: 読めば 読む ほど.",
+        "nuance nuance nuance",
+        "The more you read this book, the more interesting it gets.",
+        [
+          "こそ stresses a thing. \"The more … the more\" is 〜ば 〜ほど.",
+          "まで means \"until\". Use ほど.",
+          "しか needs a negative. Use ほど."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜とおりに",
+    "exactly as",
+    [
+      [
+        "説明書に 書いて ある（　　）、組み立てて ください。",
+        [
+          "とおりに",
+          "ばかりに",
+          "わりに",
+          "くせに"
+        ],
+        "Exactly as written: とおりに.",
+        "nuance nuance nuance",
+        "Please put it together exactly as written in the instructions.",
+        [
+          "ばかりに is \"just because\" with a bad result. \"Exactly as written\" is とおりに.",
+          "わりに means \"considering\". Use とおりに.",
+          "くせに criticizes \"even though\". Use とおりに."
+        ]
+      ],
+      [
+        "先生が 言った（　　）、やって みた。",
+        [
+          "とおり",
+          "わけ",
+          "はず",
+          "せい"
+        ],
+        "As the teacher said: た-form + とおり.",
+        "nuance nuance nuance",
+        "I tried doing it exactly as the teacher said.",
+        [
+          "わけ means \"reason\". \"Exactly as he said\" is とおり.",
+          "はず is an expectation. Use とおり.",
+          "せい blames a cause. Use とおり."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜ようがない",
+    "no way to",
+    [
+      [
+        "{連絡先|れんらくさき}が わからないので、{連絡|れんらく}の し（　　）。",
+        [
+          "ようが ない",
+          "ことが ない",
+          "わけが ない",
+          "はずが ない"
+        ],
+        "There's no way to: stem + ようが ない.",
+        "nuance nuance nuance",
+        "I don't know their contact details, so there's no way to contact them.",
+        [
+          "ことが ない means \"never\". \"There's no way to\" is stem + ようが ない.",
+          "わけが ない is \"no way it's true\". A method that doesn't exist is ようが ない.",
+          "はずが ない means \"can't be\". Use ようが ない."
+        ]
+      ],
+      [
+        "こんなに こわれて いたら、直し（　　）。",
+        [
+          "ようが ない",
+          "がちだ",
+          "かけだ",
+          "たがる"
+        ],
+        "Can't be fixed, no way: 直しようが ない.",
+        "nuance nuance nuance",
+        "If it's this badly broken, there's no way to fix it.",
+        [
+          "がちだ is a bad habit. \"No way to fix it\" is 直しようが ない.",
+          "かけだ is \"half-done\". Use ようが ない.",
+          "たがる is someone else's wish. Use ようが ない."
+        ]
+      ]
+    ]
+  ],
+  [
+    "Degree & manner",
+    "〜づらい",
+    "hard to (uncomfortable)",
+    [
+      [
+        "この ペンは ほそくて 書き（　　）。ほかの ペンに かえたい。",
+        [
+          "づらい",
+          "がたい",
+          "やすい",
+          "すぎない"
+        ],
+        "Physically hard to do: stem + づらい.",
+        "nuance nuance nuance",
+        "This pen is thin and hard to write with. I want to switch to another pen.",
+        [
+          "がたい is for things that are hard to do emotionally (信じがたい). A hard-to-hold pen is 書きづらい.",
+          "やすい means \"easy\". You want to switch pens, so it's hard: づらい.",
+          "すぎない is not a form after a stem here. Use 書きづらい."
+        ]
+      ],
+      [
+        "{先輩|せんぱい}には ちょっと 言い（　　）ことが ある。",
+        [
+          "づらい",
+          "かけ",
+          "っぱなし",
+          "っぽい"
+        ],
+        "Hard to say (awkward): 言いづらい.",
+        "nuance nuance nuance",
+        "There are things that are a little hard to say to my seniors.",
+        [
+          "かけ means \"half-done\" and needs の before a noun. \"Hard to say\" is 言いづらい.",
+          "っぱなし means \"left as is\". Use 言いづらい.",
+          "っぽい means \"-ish\". Use 言いづらい."
+        ]
+      ]
+    ]
+  ]
+];

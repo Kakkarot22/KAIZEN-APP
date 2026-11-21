@@ -1,0 +1,8 @@
+node_modules
+dist
+.gemini
+app/node_modules
+app/dist
+*.log
+.DS_Store
+
