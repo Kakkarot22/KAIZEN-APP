@@ -94,6 +94,7 @@ function App() {
   const [voiceRate, setVoiceRate] = useState(() => parseFloat(localStorage.getItem('kz_voice_rate') || '0.9'));
   const [voicePitch, setVoicePitch] = useState(() => parseFloat(localStorage.getItem('kz_voice_pitch') || '1.0'));
   const [showFurigana, setShowFurigana] = useState(() => localStorage.getItem('kz_furigana') !== 'false');
+  const [isHudExpanded, setIsHudExpanded] = useState(false);
 
   // Cumulative Scope State
   const [isCumulative, setIsCumulative] = useState(() => localStorage.getItem('kz_cumulative') === 'true');
@@ -241,25 +242,6 @@ function App() {
                   </button>
                 ))}
               </div>
-
-              <button
-                onClick={() => {
-                  if (level < 5) {
-                    setIsCumulative(c => !c);
-                  }
-                }}
-                className={`px-3 py-1 rounded-full text-xs font-mono font-semibold border transition-all flex items-center gap-1.5 ${
-                  level === 5
-                    ? 'bg-[#161618] border-[#27272A] text-[#86868B] cursor-default'
-                    : isCumulative
-                      ? 'bg-emerald-500 text-black border-emerald-400 font-bold shadow-md hover:bg-emerald-400'
-                      : 'bg-[#1C1C1E] border-[#3E3E42] text-amber-300 hover:text-white'
-                }`}
-                title={level === 5 ? "N5 is the baseline level" : "Click to toggle Cumulative vs Single Level scope"}
-              >
-                <span>{level === 5 ? 'N5 Foundation' : isCumulative ? `✓ Cumulative (N5–N${level})` : `Scope: N${level} Only`}</span>
-                {level < 5 && <span className="text-[10px] opacity-75 underline font-sans font-normal ml-0.5">toggle</span>}
-              </button>
             </div>
           </div>
 
@@ -327,125 +309,128 @@ function App() {
 
       {/* Main Experience */}
       <main className="flex-1 max-w-5xl w-full mx-auto px-6 py-8">
-        {/* JLPT Exam Readiness & Daily Pacing HUD */}
-        <div className="mb-8 p-5 sm:p-6 bg-[#121214] border border-[#222224] rounded-3xl relative overflow-hidden shadow-xl">
-          <div className="absolute top-0 right-0 w-96 h-36 bg-gradient-to-bl from-white/[0.04] to-transparent pointer-events-none rounded-tr-3xl" />
-
-          <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 relative z-10">
-            {/* Left: Exam Countdown & Status */}
-            <div className="space-y-1.5">
-              <div className="flex items-center gap-2 flex-wrap">
-                <span className="px-2.5 py-0.5 rounded-full text-[10px] font-mono font-semibold uppercase tracking-wider bg-white/10 text-white">
-                  JLPT N{level} • {targetExam}
-                </span>
-                <button
-                  onClick={() => {
-                    if (level < 5) setIsCumulative(c => !c);
-                  }}
-                  className={`px-3 py-1 rounded-full text-xs font-mono border transition-all flex items-center gap-1.5 ${
-                    level === 5
-                      ? 'bg-[#18181B] border-[#27272A] text-[#86868B]'
-                      : isCumulative
-                        ? 'bg-emerald-500/20 border-emerald-500/80 text-emerald-300 font-bold'
-                        : 'bg-[#18181B] border-amber-400/50 text-amber-300 font-medium'
-                  }`}
-                >
-                  <span>{level === 5 ? 'Base: N5 (708w)' : isCumulative ? `✓ Cumulative: N5 to N${level} (${totalVocab}w)` : `Scope: N${level} Only (${totalVocab}w)`}</span>
-                  {level < 5 && <span className="underline text-[10px] opacity-75 ml-1">Change Scope</span>}
-                </button>
-                {level < 5 && (
-                  <button
-                    onClick={() => setIsCumulative(c => !c)}
-                    className={`px-2.5 py-0.5 rounded-full text-[10px] font-mono font-semibold uppercase tracking-wider transition-all border ${
-                      isCumulative
-                        ? 'bg-amber-400/20 text-amber-300 border-amber-400/40 hover:bg-amber-400/30'
-                        : 'bg-[#18181B] text-[#86868B] border-[#27272A] hover:text-white'
-                    }`}
-                    title="Click to toggle between Cumulative (N5-current) and Single Level scope"
-                  >
-                    {isCumulative ? `Cumulative (N5–N${level})` : `N${level} Only`}
-                  </button>
-                )}
-                <span className="flex items-center gap-1.5 text-[11px] font-mono text-emerald-400">
-                  <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
-                  Pacing Active
-                </span>
-              </div>
-              <div className="flex items-baseline gap-2.5 pt-0.5">
-                <h2 className="text-3xl font-extrabold text-white tracking-tight font-mono">
-                  {daysRemaining}
-                </h2>
-                <span className="text-xs uppercase font-mono text-[#86868B] tracking-wider">
-                  Days Remaining to Exam
-                </span>
-              </div>
-              <p className="text-xs text-[#86868B]">
-                Daily prescription calibrated to finish with 30 days of mock exams buffer.
-              </p>
-            </div>
-
-            {/* Right: 3 Daily Activity Progress Rings / Bars */}
-            <div className="grid grid-cols-3 gap-3 sm:gap-4 max-w-md w-full">
-              {/* Vocab Target */}
-              <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
-                <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
-                  <span>VOCAB</span>
-                  <span className={dailyProgress.vocab >= dailyVocabTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
-                    {dailyProgress.vocab}/{dailyVocabTarget}
-                  </span>
-                </div>
-                <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
-                  <div 
-                    className="h-full bg-white transition-all duration-500 rounded-full" 
-                    style={{ width: `${Math.min(100, (dailyProgress.vocab / dailyVocabTarget) * 100)}%` }}
-                  />
-                </div>
-              </div>
-
-              {/* Kanji Target */}
-              <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
-                <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
-                  <span>KANJI</span>
-                  <span className={dailyProgress.kanji >= dailyKanjiTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
-                    {dailyProgress.kanji}/{dailyKanjiTarget}
-                  </span>
-                </div>
-                <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
-                  <div 
-                    className="h-full bg-white transition-all duration-500 rounded-full" 
-                    style={{ width: `${Math.min(100, (dailyProgress.kanji / dailyKanjiTarget) * 100)}%` }}
-                  />
-                </div>
-              </div>
-
-              {/* Exam Drills Target */}
-              <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
-                <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
-                  <span>DRILLS</span>
-                  <span className={dailyProgress.drills >= dailyDrillTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
-                    {dailyProgress.drills}/{dailyDrillTarget}
-                  </span>
-                </div>
-                <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
-                  <div 
-                    className="h-full bg-white transition-all duration-500 rounded-full" 
-                    style={{ width: `${Math.min(100, (dailyProgress.drills / dailyDrillTarget) * 100)}%` }}
-                  />
-                </div>
-              </div>
-            </div>
-          </div>
-
-          {/* Completion Banner */}
-          {isQuotaComplete && (
-            <div className="mt-4 pt-3 border-t border-[#222224] flex items-center justify-between text-xs">
-              <span className="flex items-center gap-1.5 text-emerald-400 font-medium">
-                <Check className="w-4 h-4" /> Today's JLPT Readiness Quota Complete!
+        {/* JLPT Exam Readiness & Daily Pacing HUD (Collapsible - zero layout clutter) */}
+        {!isHudExpanded ? (
+          <div className="mb-6 px-4 py-3 bg-[#121214] border border-[#222224] rounded-2xl flex flex-wrap items-center justify-between gap-3 shadow-md">
+            <div className="flex items-center gap-2.5 text-xs font-mono">
+              <span className="px-2.5 py-0.5 rounded-full bg-white/10 text-white font-semibold">
+                N{level} • {targetExam}
               </span>
-              <span className="text-[#86868B] font-mono">Streak Maintained</span>
+              <span className="text-white font-bold">{daysRemaining}d to exam</span>
+              <span className="text-[#86868B] hidden sm:inline">•</span>
+              <span className="hidden sm:flex items-center gap-2.5 text-[#86868B]">
+                <span>Vocab: <strong className={dailyProgress.vocab >= dailyVocabTarget ? 'text-emerald-400' : 'text-white'}>{dailyProgress.vocab}/{dailyVocabTarget}</strong></span>
+                <span>•</span>
+                <span>Kanji: <strong className={dailyProgress.kanji >= dailyKanjiTarget ? 'text-emerald-400' : 'text-white'}>{dailyProgress.kanji}/{dailyKanjiTarget}</strong></span>
+                <span>•</span>
+                <span>Drills: <strong className={dailyProgress.drills >= dailyDrillTarget ? 'text-emerald-400' : 'text-white'}>{dailyProgress.drills}/{dailyDrillTarget}</strong></span>
+              </span>
             </div>
-          )}
-        </div>
+            <button
+              onClick={() => setIsHudExpanded(true)}
+              className="text-[11px] font-mono text-[#86868B] hover:text-white flex items-center gap-1 transition-colors ml-auto"
+            >
+              Pacing HUD Details ▼
+            </button>
+          </div>
+        ) : (
+          <div className="mb-6 p-5 sm:p-6 bg-[#121214] border border-[#222224] rounded-3xl relative overflow-hidden shadow-xl">
+            <div className="absolute top-0 right-0 w-96 h-36 bg-gradient-to-bl from-white/[0.04] to-transparent pointer-events-none rounded-tr-3xl" />
+
+            <div className="flex flex-col lg:flex-row lg:items-center justify-between gap-6 relative z-10">
+              {/* Left: Exam Countdown & Status */}
+              <div className="space-y-1.5">
+                <div className="flex items-center gap-2 flex-wrap">
+                  <span className="px-2.5 py-0.5 rounded-full text-[10px] font-mono font-semibold uppercase tracking-wider bg-white/10 text-white">
+                    JLPT N{level} • {targetExam} {isCumulative && level < 5 ? '• Cumulative' : ''}
+                  </span>
+                  <span className="flex items-center gap-1.5 text-[11px] font-mono text-emerald-400">
+                    <span className="w-2 h-2 rounded-full bg-emerald-400 animate-pulse" />
+                    Pacing Active
+                  </span>
+                  <button
+                    onClick={() => setIsHudExpanded(false)}
+                    className="ml-auto text-[11px] font-mono text-[#86868B] hover:text-white transition-colors"
+                  >
+                    Collapse ▲
+                  </button>
+                </div>
+                <div className="flex items-baseline gap-2.5 pt-0.5">
+                  <h2 className="text-3xl font-extrabold text-white tracking-tight font-mono">
+                    {daysRemaining}
+                  </h2>
+                  <span className="text-xs uppercase font-mono text-[#86868B] tracking-wider">
+                    Days Remaining to Exam
+                  </span>
+                </div>
+                <p className="text-xs text-[#86868B]">
+                  Daily prescription calibrated to finish with 30 days of mock exams buffer.
+                </p>
+              </div>
+
+              {/* Right: 3 Daily Activity Progress Rings / Bars */}
+              <div className="grid grid-cols-3 gap-3 sm:gap-4 max-w-md w-full">
+                {/* Vocab Target */}
+                <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
+                  <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
+                    <span>VOCAB</span>
+                    <span className={dailyProgress.vocab >= dailyVocabTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
+                      {dailyProgress.vocab}/{dailyVocabTarget}
+                    </span>
+                  </div>
+                  <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
+                    <div 
+                      className="h-full bg-white transition-all duration-500 rounded-full" 
+                      style={{ width: `${Math.min(100, (dailyProgress.vocab / dailyVocabTarget) * 100)}%` }}
+                    />
+                  </div>
+                </div>
+
+                {/* Kanji Target */}
+                <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
+                  <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
+                    <span>KANJI</span>
+                    <span className={dailyProgress.kanji >= dailyKanjiTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
+                      {dailyProgress.kanji}/{dailyKanjiTarget}
+                    </span>
+                  </div>
+                  <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
+                    <div 
+                      className="h-full bg-white transition-all duration-500 rounded-full" 
+                      style={{ width: `${Math.min(100, (dailyProgress.kanji / dailyKanjiTarget) * 100)}%` }}
+                    />
+                  </div>
+                </div>
+
+                {/* Exam Drills Target */}
+                <div className="p-3 bg-[#18181B] border border-[#27272A] rounded-2xl flex flex-col justify-between">
+                  <div className="flex items-center justify-between text-[11px] text-[#86868B] font-mono">
+                    <span>DRILLS</span>
+                    <span className={dailyProgress.drills >= dailyDrillTarget ? 'text-emerald-400 font-bold' : 'text-white'}>
+                      {dailyProgress.drills}/{dailyDrillTarget}
+                    </span>
+                  </div>
+                  <div className="w-full bg-[#27272A] h-1.5 rounded-full overflow-hidden mt-2.5">
+                    <div 
+                      className="h-full bg-white transition-all duration-500 rounded-full" 
+                      style={{ width: `${Math.min(100, (dailyProgress.drills / dailyDrillTarget) * 100)}%` }}
+                    />
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            {/* Completion Banner */}
+            {isQuotaComplete && (
+              <div className="mt-4 pt-3 border-t border-[#222224] flex items-center justify-between text-xs">
+                <span className="flex items-center gap-1.5 text-emerald-400 font-medium">
+                  <Check className="w-4 h-4" /> Today's JLPT Readiness Quota Complete!
+                </span>
+                <span className="text-[#86868B] font-mono">Streak Maintained</span>
+              </div>
+            )}
+          </div>
+        )}
         {activeNav === 'vocab' && (
           <VocabExperience 
             key={`vocab-${level}-${isCumulative}`} 
@@ -530,6 +515,37 @@ function App() {
                     </button>
                   ))}
                 </div>
+              </div>
+
+              {/* Study Scope (Single Level vs Cumulative) */}
+              <div>
+                <label className="text-[#86868B] block mb-1.5 font-mono uppercase text-[11px]">JLPT CURRICULUM SCOPE</label>
+                <div className="grid grid-cols-2 gap-2">
+                  <button
+                    onClick={() => setIsCumulative(false)}
+                    className={`py-2 px-3 rounded-xl border text-center font-medium transition-all ${
+                      !isCumulative
+                        ? 'bg-white text-black border-white font-semibold'
+                        : 'bg-[#161618] border-[#27272A] text-[#86868B] hover:text-white'
+                    }`}
+                  >
+                    N{level} Only
+                  </button>
+                  <button
+                    onClick={() => { if (level < 5) setIsCumulative(true); }}
+                    disabled={level === 5}
+                    className={`py-2 px-3 rounded-xl border text-center font-medium transition-all ${
+                      isCumulative && level < 5
+                        ? 'bg-emerald-500 text-black border-emerald-400 font-semibold'
+                        : 'bg-[#161618] border-[#27272A] text-[#86868B] hover:text-white disabled:opacity-40'
+                    }`}
+                  >
+                    Cumulative (N5–N{level})
+                  </button>
+                </div>
+                <p className="text-[11px] text-[#86868B] mt-1.5 leading-relaxed">
+                  {level === 5 ? 'N5 is the baseline level.' : isCumulative ? `Includes all prerequisite N5–N${level - 1} + N${level} vocabulary & kanji.` : `Focuses strictly on N${level} material.`}
+                </p>
               </div>
 
               {/* Voice Gender Selection */}
@@ -1030,13 +1046,13 @@ function VocabExperience({ level, speak, onMistake, onActivity, isCumulative, ma
       {/* Mode A: STUDY CARDS */}
       {mode === 'study' && (
         <div className="space-y-4">
-          <div className="text-xs text-[#86868B] flex items-center justify-between">
-            <span>Module {selectedSet + 1} • {currentWords.length} Essential Words</span>
+          <div className="text-xs text-[#86868B] flex items-center justify-between pb-1">
+            <span className="font-mono">Module {selectedSet + 1} • {currentWords.length} Essential Words</span>
             <button
               onClick={() => { setMode('quiz'); setQuizIdx(0); }}
-              className="text-white hover:underline flex items-center gap-1 font-semibold"
+              className="px-3.5 py-1 bg-white text-black font-semibold rounded-full text-xs hover:bg-neutral-200 transition-all shadow-sm flex items-center gap-1"
             >
-              Ready to test ➔
+              Start Quiz ➔
             </button>
           </div>
 
@@ -1586,9 +1602,9 @@ function KanjiExperience({ level, speak, onActivity, isCumulative, masteredKanji
 
       {/* VIEW A: KANJI GRID & INTEGRATED LOOK-ALIKES */}
       {subTab === 'grid' && (
-        <div className="grid grid-cols-1 md:grid-cols-3 gap-6">
-          {/* Left Column: Filter and Glyphs list */}
-          <div className="space-y-3">
+        <div className="grid grid-cols-1 md:grid-cols-3 gap-6 items-start">
+          {/* Glyphs list / picker (order-2 on mobile so detail card shows first without scrolling!) */}
+          <div className="space-y-3 order-2 md:order-1">
             {/* Filter Toggle */}
             <div className="flex items-center bg-[#161618] p-1 rounded-xl border border-[#27272A] text-xs">
               <button
@@ -1707,8 +1723,8 @@ function KanjiExperience({ level, speak, onActivity, isCumulative, masteredKanji
             )}
           </div>
 
-          {/* Right Column: Kanji Detail & Look-Alike Comparative Anatomy */}
-          <div className="md:col-span-2 space-y-6">
+          {/* Kanji Detail & Look-Alike Comparative Anatomy (order-1 on mobile so it's always at the top without scrolling!) */}
+          <div className="md:col-span-2 space-y-6 order-1 md:order-2 md:sticky md:top-20 md:self-start">
             {/* If in Look-Alikes mode, show Side-by-Side Comparison card */}
             {gridMode === 'lookalikes' && activeLookalikeGroup && (
               <div className="p-6 bg-[#121214] border border-[#222224] rounded-3xl space-y-5">
