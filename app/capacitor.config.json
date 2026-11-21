@@ -1,0 +1,9 @@
+{
+  "appId": "com.kaizen.japanese",
+  "appName": "KAIZEN JLPT",
+  "webDir": "dist",
+  "server": {
+    "androidScheme": "https"
+  }
+}
+
