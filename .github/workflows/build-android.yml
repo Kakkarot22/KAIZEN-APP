@@ -59,3 +59,4 @@ jobs:
         with:
           name: kaizen-playstore-aab
           path: app/android/app/build/outputs/bundle/**/*.aab
+
